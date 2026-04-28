@@ -1,0 +1,51 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Timeline · Apple Product Museum</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="timeline">
+  
+<header class="site-header">
+  <nav class="nav">
+    <a class="brand" href="index.html" aria-label="Apple Product Museum home">
+      <span class="brand-mark">◖</span>
+      <span>Product Museum</span>
+    </a>
+    <div class="nav-links">
+      <a data-page="home" href="index.html">Home</a>
+      <a data-page="timeline" href="timeline.html">Timeline</a>
+      <a data-page="families" href="families.html">Families</a>
+      <a data-page="catalog" href="catalog.html">Catalog</a>
+    </div>
+  </nav>
+</header>
+
+  <main>
+    <section class="page-hero">
+      <p class="eyebrow">Timeline</p>
+      <h1>Major launches and company history.</h1>
+      <p>Apple’s story, minus the 400-page coffee table book energy.</p>
+    </section>
+    <section class="section">
+      <div class="timeline-controls">
+        <button class="pill is-active" data-era="all">All</button>
+        <button class="pill" data-era="1970">1970s–80s</button>
+        <button class="pill" data-era="1990">1990s</button>
+        <button class="pill" data-era="2000">2000s</button>
+        <button class="pill" data-era="2010">2010s</button>
+        <button class="pill" data-era="2020">2020s</button>
+      </div>
+      <div class="timeline" id="timeline-list"></div>
+    </section>
+  </main>
+  <dialog id="product-dialog" class="product-dialog">
+    <button class="dialog-close" id="dialog-close" aria-label="Close">×</button>
+    <div id="dialog-content"></div>
+  </dialog>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
