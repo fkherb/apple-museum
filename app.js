@@ -40,10 +40,7 @@ const fieldMap = {
 };
 
 function val(p, key) { return p[fieldMap[key]] || ""; }
-function cat(p) {
-  const c = p.museumCategory || p.category || "Other";
-  return (c === "Home" || c === "Networking") ? "Home & Networking" : c;
-}
+function cat(p) { return p.museumCategory || p.category || "Other"; }
 function uniq(arr) { return [...new Set(arr.filter(Boolean))].sort((a,b)=>a.localeCompare(b)); }
 function byCategoryOrder(a,b) {
   const ai = CATEGORY_ORDER.indexOf(a), bi = CATEGORY_ORDER.indexOf(b);
@@ -57,7 +54,7 @@ function productText(p) {
   return [
     p["Product Name"], cat(p), p.family, p.subfamily, p.generation,
     val(p,"modelNumber"), val(p,"identifier"), val(p,"cpu"), val(p,"gpu"),
-    val(p,"features"), val(p,"notes"), val(p,"lastOS"), val(p,"colors")
+    val(p,"features"), val(p,"notes"), val(p,"lastOS")
   ].join(" ").toLowerCase();
 }
 function escapeHtml(str) {
@@ -70,10 +67,26 @@ function escapeAttr(str) { return escapeHtml(str).replace(/"/g,"&quot;"); }
 function primaryImage(p) {
   return p.imageUrl || (p.imageLinks && p.imageLinks[0] && p.imageLinks[0].url) || "";
 }
+function imageFallbackCandidates(src) {
+  if (!src || /^https?:\/\//i.test(src) || /\.[a-z0-9]{2,5}([?#].*)?$/i.test(src)) return [];
+  return [src + ".png", src + ".jpg", src + ".jpeg", src + ".webp"];
+}
+function tryImageFallback(img) {
+  const original = img.dataset.originalSrc || img.getAttribute("src") || "";
+  const candidates = imageFallbackCandidates(original);
+  const index = Number(img.dataset.fallbackIndex || 0);
+  if (index < candidates.length) {
+    img.dataset.fallbackIndex = String(index + 1);
+    img.src = candidates[index];
+  } else {
+    img.onerror = null;
+    img.style.display = "none";
+  }
+}
 function renderProductImage(p, className="product-thumb") {
   const src = primaryImage(p);
   if (!src) return "";
-  return `<img class="${className}" src="${escapeAttr(src)}" alt="${escapeAttr(p["Product Name"])}" loading="lazy" />`;
+  return `<img class="${className}" src="${escapeAttr(src)}" data-original-src="${escapeAttr(src)}" onerror="tryImageFallback(this)" alt="${escapeAttr(p["Product Name"])}" loading="lazy" />`;
 }
 function normalizeLinks(rawLinks, fallbackName) {
   if (!rawLinks) return [];
@@ -83,8 +96,7 @@ function normalizeLinks(rawLinks, fallbackName) {
 function renderLinksSection(p) {
   const groups = [
     ["Apple Support", normalizeLinks(p.appleSupportLinks, p["Product Name"])],
-    ["Tech Specs", normalizeLinks(p.techSpecLinks, p["Product Name"])],
-    ["Images", normalizeLinks(p.imageLinks, p["Product Name"])]
+    ["Tech Specs", normalizeLinks(p.techSpecLinks, p["Product Name"])]
   ].filter(([,links]) => links.length);
   if (!groups.length) return "";
   return `<section class="links-panel">

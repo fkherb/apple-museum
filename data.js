@@ -33,15 +33,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Apple I",
     "Apple Support Links": "",
     "Tech Spec Links": "",
-    "Image Links": "",
+    "Image Links": "\"Images/Apple I.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Early Apple",
     "subfamily": "Apple I",
     "generation": "Apple I",
-    "releaseYear": 1976,
-    "discontinuedYear": 1977,
     "id": "apple-i",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Early Apple",
@@ -49,10 +47,17 @@ window.APPLE_PRODUCTS = [
       "Apple I",
       "Apple I"
     ],
+    "releaseYear": 1976,
+    "discontinuedYear": 1977,
     "appleSupportLinks": [],
     "techSpecLinks": [],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Apple I",
+        "url": "Images/Apple I.png"
+      }
+    ],
+    "imageUrl": "Images/Apple I.png"
   },
   {
     "Product Name": "Apple II",
@@ -79,15 +84,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Apple II",
     "Apple Support Links": "",
     "Tech Spec Links": "",
-    "Image Links": "",
+    "Image Links": "\"Images/Apple II.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Early Apple",
     "subfamily": "Apple II",
     "generation": "Apple II",
-    "releaseYear": 1977,
-    "discontinuedYear": 1979,
     "id": "apple-ii",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Early Apple",
@@ -95,10 +98,17 @@ window.APPLE_PRODUCTS = [
       "Apple II",
       "Apple II"
     ],
+    "releaseYear": 1977,
+    "discontinuedYear": 1979,
     "appleSupportLinks": [],
     "techSpecLinks": [],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Apple II",
+        "url": "Images/Apple II.png"
+      }
+    ],
+    "imageUrl": "Images/Apple II.png"
   },
   {
     "Product Name": "Apple II Plus",
@@ -125,15 +135,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Apple II",
     "Apple Support Links": "",
     "Tech Spec Links": "",
-    "Image Links": "",
+    "Image Links": "\"Images/Apple II Plus.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Early Apple",
     "subfamily": "Apple II",
     "generation": "Apple II",
-    "releaseYear": 1979,
-    "discontinuedYear": 1982,
     "id": "apple-ii-plus",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Early Apple",
@@ -141,10 +149,17 @@ window.APPLE_PRODUCTS = [
       "Apple II",
       "Apple II Plus"
     ],
+    "releaseYear": 1979,
+    "discontinuedYear": 1982,
     "appleSupportLinks": [],
     "techSpecLinks": [],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Apple II Plus",
+        "url": "Images/Apple II Plus.png"
+      }
+    ],
+    "imageUrl": "Images/Apple II Plus.png"
   },
   {
     "Product Name": "Apple IIe",
@@ -171,15 +186,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Apple II",
     "Apple Support Links": "",
     "Tech Spec Links": "",
-    "Image Links": "",
+    "Image Links": "\"Images/Apple IIe.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Early Apple",
     "subfamily": "Apple II",
     "generation": "Apple II",
-    "releaseYear": 1983,
-    "discontinuedYear": 1993,
     "id": "apple-iie",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Early Apple",
@@ -187,10 +200,17 @@ window.APPLE_PRODUCTS = [
       "Apple II",
       "Apple IIe"
     ],
+    "releaseYear": 1983,
+    "discontinuedYear": 1993,
     "appleSupportLinks": [],
     "techSpecLinks": [],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Apple IIe",
+        "url": "Images/Apple IIe.png"
+      }
+    ],
+    "imageUrl": "Images/Apple IIe.png"
   },
   {
     "Product Name": "Apple IIc",
@@ -217,15 +237,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Apple II",
     "Apple Support Links": "",
     "Tech Spec Links": "",
-    "Image Links": "",
+    "Image Links": "\"Images/Apple IIc.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Early Apple",
     "subfamily": "Apple II",
     "generation": "Apple II",
-    "releaseYear": 1984,
-    "discontinuedYear": 1988,
     "id": "apple-iic",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Early Apple",
@@ -233,10 +251,17 @@ window.APPLE_PRODUCTS = [
       "Apple II",
       "Apple IIc"
     ],
+    "releaseYear": 1984,
+    "discontinuedYear": 1988,
     "appleSupportLinks": [],
     "techSpecLinks": [],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Apple IIc",
+        "url": "Images/Apple IIc.png"
+      }
+    ],
+    "imageUrl": "Images/Apple IIc.png"
   },
   {
     "Product Name": "Apple IIc Plus",
@@ -263,15 +288,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Apple II",
     "Apple Support Links": "",
     "Tech Spec Links": "",
-    "Image Links": "",
+    "Image Links": "\"Images/Apple IIc Plus.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Early Apple",
     "subfamily": "Apple II",
     "generation": "Apple II",
-    "releaseYear": 1988,
-    "discontinuedYear": 1990,
     "id": "apple-iic-plus",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Early Apple",
@@ -279,10 +302,17 @@ window.APPLE_PRODUCTS = [
       "Apple II",
       "Apple IIc Plus"
     ],
+    "releaseYear": 1988,
+    "discontinuedYear": 1990,
     "appleSupportLinks": [],
     "techSpecLinks": [],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Apple IIc Plus",
+        "url": "Images/Apple IIc Plus.png"
+      }
+    ],
+    "imageUrl": "Images/Apple IIc Plus.png"
   },
   {
     "Product Name": "Apple IIGS",
@@ -309,15 +339,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Apple II",
     "Apple Support Links": "",
     "Tech Spec Links": "",
-    "Image Links": "",
+    "Image Links": "\"Images/Apple IIGS.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Early Apple",
     "subfamily": "Apple II",
     "generation": "Apple II",
-    "releaseYear": 1986,
-    "discontinuedYear": 1992,
     "id": "apple-iigs",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Early Apple",
@@ -325,10 +353,17 @@ window.APPLE_PRODUCTS = [
       "Apple II",
       "Apple IIGS"
     ],
+    "releaseYear": 1986,
+    "discontinuedYear": 1992,
     "appleSupportLinks": [],
     "techSpecLinks": [],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Apple IIGS",
+        "url": "Images/Apple IIGS.png"
+      }
+    ],
+    "imageUrl": "Images/Apple IIGS.png"
   },
   {
     "Product Name": "Apple III",
@@ -355,15 +390,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Apple III",
     "Apple Support Links": "",
     "Tech Spec Links": "",
-    "Image Links": "",
+    "Image Links": "\"Images/Apple III.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Early Apple",
     "subfamily": "Apple III",
     "generation": "Apple III",
-    "releaseYear": 1980,
-    "discontinuedYear": 1984,
     "id": "apple-iii",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Early Apple",
@@ -371,10 +404,17 @@ window.APPLE_PRODUCTS = [
       "Apple III",
       "Apple III"
     ],
+    "releaseYear": 1980,
+    "discontinuedYear": 1984,
     "appleSupportLinks": [],
     "techSpecLinks": [],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Apple III",
+        "url": "Images/Apple III.png"
+      }
+    ],
+    "imageUrl": "Images/Apple III.png"
   },
   {
     "Product Name": "Apple III Plus",
@@ -403,13 +443,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "",
     "Image Links": "",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Early Apple",
     "subfamily": "Apple III",
     "generation": "Apple III",
-    "releaseYear": 1983,
-    "discontinuedYear": 1985,
     "id": "apple-iii-plus",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Early Apple",
@@ -417,6 +455,8 @@ window.APPLE_PRODUCTS = [
       "Apple III",
       "Apple III Plus"
     ],
+    "releaseYear": 1983,
+    "discontinuedYear": 1985,
     "appleSupportLinks": [],
     "techSpecLinks": [],
     "imageLinks": [],
@@ -447,15 +487,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Macintosh II",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112188",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh II.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Macintosh II",
     "generation": "Macintosh II",
-    "releaseYear": 1987,
-    "discontinuedYear": 1990,
     "id": "macintosh-ii",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -463,6 +501,8 @@ window.APPLE_PRODUCTS = [
       "Macintosh II",
       "Macintosh II"
     ],
+    "releaseYear": 1987,
+    "discontinuedYear": 1990,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -475,8 +515,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112188"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh II",
+        "url": "Images/Macintosh II.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh II.png"
   },
   {
     "Product Name": "Macintosh IIx",
@@ -503,15 +548,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Macintosh II",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112189",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh IIx.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Macintosh II",
     "generation": "Macintosh II",
-    "releaseYear": 1988,
-    "discontinuedYear": 1990,
     "id": "macintosh-iix",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -519,6 +562,8 @@ window.APPLE_PRODUCTS = [
       "Macintosh II",
       "Macintosh IIx"
     ],
+    "releaseYear": 1988,
+    "discontinuedYear": 1990,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -531,8 +576,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112189"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh IIx",
+        "url": "Images/Macintosh IIx.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh IIx.png"
   },
   {
     "Product Name": "Macintosh IIcx",
@@ -559,15 +609,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Macintosh II",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112192",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh IIcx.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Macintosh II",
     "generation": "Macintosh II",
-    "releaseYear": 1989,
-    "discontinuedYear": 1991,
     "id": "macintosh-iicx",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -575,6 +623,8 @@ window.APPLE_PRODUCTS = [
       "Macintosh II",
       "Macintosh IIcx"
     ],
+    "releaseYear": 1989,
+    "discontinuedYear": 1991,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -587,8 +637,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112192"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh IIcx",
+        "url": "Images/Macintosh IIcx.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh IIcx.png"
   },
   {
     "Product Name": "Macintosh IIci",
@@ -615,15 +670,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Macintosh II",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112191",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh IIci.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Macintosh II",
     "generation": "Macintosh II",
-    "releaseYear": 1989,
-    "discontinuedYear": 1993,
     "id": "macintosh-iici",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -631,6 +684,8 @@ window.APPLE_PRODUCTS = [
       "Macintosh II",
       "Macintosh IIci"
     ],
+    "releaseYear": 1989,
+    "discontinuedYear": 1993,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -643,8 +698,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112191"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh IIci",
+        "url": "Images/Macintosh IIci.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh IIci.png"
   },
   {
     "Product Name": "Macintosh IIfx",
@@ -671,15 +731,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Macintosh II",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112196",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh IIfx.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Macintosh II",
     "generation": "Macintosh II",
-    "releaseYear": 1990,
-    "discontinuedYear": 1992,
     "id": "macintosh-iifx",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -687,6 +745,8 @@ window.APPLE_PRODUCTS = [
       "Macintosh II",
       "Macintosh IIfx"
     ],
+    "releaseYear": 1990,
+    "discontinuedYear": 1992,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -699,8 +759,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112196"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh IIfx",
+        "url": "Images/Macintosh IIfx.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh IIfx.png"
   },
   {
     "Product Name": "Macintosh LC",
@@ -727,15 +792,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Macintosh LC",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112199",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh LC.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Macintosh LC",
     "generation": "Macintosh LC",
-    "releaseYear": 1990,
-    "discontinuedYear": 1992,
     "id": "macintosh-lc",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -743,6 +806,8 @@ window.APPLE_PRODUCTS = [
       "Macintosh LC",
       "Macintosh LC"
     ],
+    "releaseYear": 1990,
+    "discontinuedYear": 1992,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -755,8 +820,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112199"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh LC",
+        "url": "Images/Macintosh LC.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh LC.png"
   },
   {
     "Product Name": "Macintosh LC II",
@@ -783,15 +853,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Macintosh LC",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112198",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh LC II.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Macintosh LC",
     "generation": "Macintosh LC",
-    "releaseYear": 1992,
-    "discontinuedYear": 1993,
     "id": "macintosh-lc-ii",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -799,6 +867,8 @@ window.APPLE_PRODUCTS = [
       "Macintosh LC",
       "Macintosh LC II"
     ],
+    "releaseYear": 1992,
+    "discontinuedYear": 1993,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -811,8 +881,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112198"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh LC II",
+        "url": "Images/Macintosh LC II.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh LC II.png"
   },
   {
     "Product Name": "Macintosh LC III",
@@ -839,15 +914,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Macintosh LC",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112230\nhttps://support.apple.com/en-us/112202",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh LC III.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Macintosh LC",
     "generation": "Macintosh LC",
-    "releaseYear": 1993,
-    "discontinuedYear": 1993,
     "id": "macintosh-lc-iii",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -855,6 +928,8 @@ window.APPLE_PRODUCTS = [
       "Macintosh LC",
       "Macintosh LC III"
     ],
+    "releaseYear": 1993,
+    "discontinuedYear": 1993,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -871,8 +946,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112202"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh LC III",
+        "url": "Images/Macintosh LC III.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh LC III.png"
   },
   {
     "Product Name": "Macintosh LC 475",
@@ -899,15 +979,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Macintosh LC",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112204",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh LC 475.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Macintosh LC",
     "generation": "Macintosh LC",
-    "releaseYear": 1993,
-    "discontinuedYear": 1996,
     "id": "macintosh-lc-475",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -915,6 +993,8 @@ window.APPLE_PRODUCTS = [
       "Macintosh LC",
       "Macintosh LC 475"
     ],
+    "releaseYear": 1993,
+    "discontinuedYear": 1996,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -927,8 +1007,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112204"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh LC 475",
+        "url": "Images/Macintosh LC 475.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh LC 475.png"
   },
   {
     "Product Name": "Quadra 700",
@@ -955,15 +1040,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Quadra",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112227",
-    "Image Links": "",
+    "Image Links": "\"Images/Quadra 700.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Quadra",
     "generation": "Quadra",
-    "releaseYear": 1991,
-    "discontinuedYear": 1993,
     "id": "quadra-700",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -971,6 +1054,8 @@ window.APPLE_PRODUCTS = [
       "Quadra",
       "Quadra 700"
     ],
+    "releaseYear": 1991,
+    "discontinuedYear": 1993,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -983,8 +1068,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112227"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Quadra 700",
+        "url": "Images/Quadra 700.png"
+      }
+    ],
+    "imageUrl": "Images/Quadra 700.png"
   },
   {
     "Product Name": "Quadra 900",
@@ -1011,15 +1101,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Quadra",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112228\nhttps://support.apple.com/en-us/112218",
-    "Image Links": "",
+    "Image Links": "\"Images/Quadra 900.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Quadra",
     "generation": "Quadra",
-    "releaseYear": 1991,
-    "discontinuedYear": 1992,
     "id": "quadra-900",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -1027,6 +1115,8 @@ window.APPLE_PRODUCTS = [
       "Quadra",
       "Quadra 900"
     ],
+    "releaseYear": 1991,
+    "discontinuedYear": 1992,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -1043,8 +1133,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112218"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Quadra 900",
+        "url": "Images/Quadra 900.png"
+      }
+    ],
+    "imageUrl": "Images/Quadra 900.png"
   },
   {
     "Product Name": "Quadra 950",
@@ -1071,15 +1166,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Quadra",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112210",
-    "Image Links": "",
+    "Image Links": "\"Images/Quadra 950.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Quadra",
     "generation": "Quadra",
-    "releaseYear": 1992,
-    "discontinuedYear": 1995,
     "id": "quadra-950",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -1087,6 +1180,8 @@ window.APPLE_PRODUCTS = [
       "Quadra",
       "Quadra 950"
     ],
+    "releaseYear": 1992,
+    "discontinuedYear": 1995,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -1099,8 +1194,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112210"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Quadra 950",
+        "url": "Images/Quadra 950.png"
+      }
+    ],
+    "imageUrl": "Images/Quadra 950.png"
   },
   {
     "Product Name": "Quadra 800",
@@ -1127,15 +1227,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Quadra",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112217",
-    "Image Links": "",
+    "Image Links": "\"Images/Quadra 800.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Quadra",
     "generation": "Quadra",
-    "releaseYear": 1993,
-    "discontinuedYear": 1994,
     "id": "quadra-800",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -1143,6 +1241,8 @@ window.APPLE_PRODUCTS = [
       "Quadra",
       "Quadra 800"
     ],
+    "releaseYear": 1993,
+    "discontinuedYear": 1994,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -1155,8 +1255,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112217"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Quadra 800",
+        "url": "Images/Quadra 800.png"
+      }
+    ],
+    "imageUrl": "Images/Quadra 800.png"
   },
   {
     "Product Name": "Quadra 840AV",
@@ -1183,15 +1288,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Quadra",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112220",
-    "Image Links": "",
+    "Image Links": "\"Images/Quadra 840AV.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Quadra",
     "generation": "Quadra",
-    "releaseYear": 1993,
-    "discontinuedYear": 1994,
     "id": "quadra-840av",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -1199,6 +1302,8 @@ window.APPLE_PRODUCTS = [
       "Quadra",
       "Quadra 840AV"
     ],
+    "releaseYear": 1993,
+    "discontinuedYear": 1994,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -1211,8 +1316,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112220"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Quadra 840AV",
+        "url": "Images/Quadra 840AV.png"
+      }
+    ],
+    "imageUrl": "Images/Quadra 840AV.png"
   },
   {
     "Product Name": "Centris 610",
@@ -1239,15 +1349,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Centris",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112212",
-    "Image Links": "",
+    "Image Links": "\"Images/Centris 610.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Centris",
     "generation": "Centris",
-    "releaseYear": 1993,
-    "discontinuedYear": 1994,
     "id": "centris-610",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -1255,6 +1363,8 @@ window.APPLE_PRODUCTS = [
       "Centris",
       "Centris 610"
     ],
+    "releaseYear": 1993,
+    "discontinuedYear": 1994,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -1267,8 +1377,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112212"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Centris 610",
+        "url": "Images/Centris 610.png"
+      }
+    ],
+    "imageUrl": "Images/Centris 610.png"
   },
   {
     "Product Name": "Centris 650",
@@ -1295,15 +1410,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Centris",
     "Apple Support Links": "Earlier Desktops: https://support.apple.com/en-us/docs/mac/pp210",
     "Tech Spec Links": "https://support.apple.com/en-us/112207",
-    "Image Links": "",
+    "Image Links": "\"Images/Centris 650.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Macintosh",
     "subfamily": "Centris",
     "generation": "Centris",
-    "releaseYear": 1993,
-    "discontinuedYear": 1994,
     "id": "centris-650",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Macintosh",
@@ -1311,6 +1424,8 @@ window.APPLE_PRODUCTS = [
       "Centris",
       "Centris 650"
     ],
+    "releaseYear": 1993,
+    "discontinuedYear": 1994,
     "appleSupportLinks": [
       {
         "label": "Earlier Desktops",
@@ -1323,8 +1438,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112207"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Centris 650",
+        "url": "Images/Centris 650.png"
+      }
+    ],
+    "imageUrl": "Images/Centris 650.png"
   },
   {
     "Product Name": "Power Macintosh 6100",
@@ -1351,15 +1471,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Power Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112100\nhttps://support.apple.com/en-us/112097\nhttps://support.apple.com/en-us/112095",
-    "Image Links": "",
+    "Image Links": "\"Images/Power Macintosh 6100.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Macintosh",
     "generation": "Power Macintosh",
-    "releaseYear": 1994,
-    "discontinuedYear": 1996,
     "id": "power-macintosh-6100",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -1367,6 +1485,8 @@ window.APPLE_PRODUCTS = [
       "Power Macintosh",
       "Power Macintosh 6100"
     ],
+    "releaseYear": 1994,
+    "discontinuedYear": 1996,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -1387,8 +1507,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112095"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Power Macintosh 6100",
+        "url": "Images/Power Macintosh 6100.png"
+      }
+    ],
+    "imageUrl": "Images/Power Macintosh 6100.png"
   },
   {
     "Product Name": "Power Macintosh 7100",
@@ -1415,15 +1540,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Power Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112087\nhttps://support.apple.com/en-us/112086\nhttps://support.apple.com/en-us/112084\nhttps://support.apple.com/en-us/112083",
-    "Image Links": "",
+    "Image Links": "\"Images/Power Macintosh 7100.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Macintosh",
     "generation": "Power Macintosh",
-    "releaseYear": 1994,
-    "discontinuedYear": 1996,
     "id": "power-macintosh-7100",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -1431,6 +1554,8 @@ window.APPLE_PRODUCTS = [
       "Power Macintosh",
       "Power Macintosh 7100"
     ],
+    "releaseYear": 1994,
+    "discontinuedYear": 1996,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -1455,8 +1580,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112083"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Power Macintosh 7100",
+        "url": "Images/Power Macintosh 7100.png"
+      }
+    ],
+    "imageUrl": "Images/Power Macintosh 7100.png"
   },
   {
     "Product Name": "Power Macintosh 8100",
@@ -1483,15 +1613,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Power Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112065\nhttps://support.apple.com/en-us/112066\nhttps://support.apple.com/en-us/112067\nhttps://support.apple.com/en-us/112069\nhttps://support.apple.com/en-us/112044",
-    "Image Links": "",
+    "Image Links": "\"Images/Power Macintosh 8100.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Macintosh",
     "generation": "Power Macintosh",
-    "releaseYear": 1994,
-    "discontinuedYear": 1996,
     "id": "power-macintosh-8100",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -1499,6 +1627,8 @@ window.APPLE_PRODUCTS = [
       "Power Macintosh",
       "Power Macintosh 8100"
     ],
+    "releaseYear": 1994,
+    "discontinuedYear": 1996,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -1527,8 +1657,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112044"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Power Macintosh 8100",
+        "url": "Images/Power Macintosh 8100.png"
+      }
+    ],
+    "imageUrl": "Images/Power Macintosh 8100.png"
   },
   {
     "Product Name": "Power Macintosh 7200",
@@ -1555,15 +1690,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Power Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112085\nhttps://support.apple.com/en-us/112079\nhttps://support.apple.com/en-us/112077\nhttps://support.apple.com/en-us/112076",
-    "Image Links": "",
+    "Image Links": "\"Images/Power Macintosh 7200.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Macintosh",
     "generation": "Power Macintosh",
-    "releaseYear": 1995,
-    "discontinuedYear": 1997,
     "id": "power-macintosh-7200",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -1571,6 +1704,8 @@ window.APPLE_PRODUCTS = [
       "Power Macintosh",
       "Power Macintosh 7200"
     ],
+    "releaseYear": 1995,
+    "discontinuedYear": 1997,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -1595,8 +1730,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112076"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Power Macintosh 7200",
+        "url": "Images/Power Macintosh 7200.png"
+      }
+    ],
+    "imageUrl": "Images/Power Macintosh 7200.png"
   },
   {
     "Product Name": "Power Macintosh 7500",
@@ -1623,15 +1763,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Power Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112073",
-    "Image Links": "",
+    "Image Links": "\"Images/Power Macintosh 7500.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Macintosh",
     "generation": "Power Macintosh",
-    "releaseYear": 1995,
-    "discontinuedYear": 1996,
     "id": "power-macintosh-7500",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -1639,6 +1777,8 @@ window.APPLE_PRODUCTS = [
       "Power Macintosh",
       "Power Macintosh 7500"
     ],
+    "releaseYear": 1995,
+    "discontinuedYear": 1996,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -1651,8 +1791,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112073"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Power Macintosh 7500",
+        "url": "Images/Power Macintosh 7500.png"
+      }
+    ],
+    "imageUrl": "Images/Power Macintosh 7500.png"
   },
   {
     "Product Name": "Power Macintosh 8500",
@@ -1679,15 +1824,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Power Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112057\nhttps://support.apple.com/en-us/112056\nhttps://support.apple.com/en-us/112055",
-    "Image Links": "",
+    "Image Links": "\"Images/Power Macintosh 8500.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Macintosh",
     "generation": "Power Macintosh",
-    "releaseYear": 1995,
-    "discontinuedYear": 1996,
     "id": "power-macintosh-8500",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -1695,6 +1838,8 @@ window.APPLE_PRODUCTS = [
       "Power Macintosh",
       "Power Macintosh 8500"
     ],
+    "releaseYear": 1995,
+    "discontinuedYear": 1996,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -1715,8 +1860,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112055"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Power Macintosh 8500",
+        "url": "Images/Power Macintosh 8500.png"
+      }
+    ],
+    "imageUrl": "Images/Power Macintosh 8500.png"
   },
   {
     "Product Name": "Power Macintosh 9500",
@@ -1743,15 +1893,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Power Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112050",
-    "Image Links": "",
+    "Image Links": "\"Images/Power Macintosh 9500.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Macintosh",
     "generation": "Power Macintosh",
-    "releaseYear": 1995,
-    "discontinuedYear": 1996,
     "id": "power-macintosh-9500",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -1759,6 +1907,8 @@ window.APPLE_PRODUCTS = [
       "Power Macintosh",
       "Power Macintosh 9500"
     ],
+    "releaseYear": 1995,
+    "discontinuedYear": 1996,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -1771,8 +1921,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112050"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Power Macintosh 9500",
+        "url": "Images/Power Macintosh 9500.png"
+      }
+    ],
+    "imageUrl": "Images/Power Macintosh 9500.png"
   },
   {
     "Product Name": "Power Macintosh 7300",
@@ -1799,15 +1954,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Power Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112074\nhttps://support.apple.com/en-us/112070",
-    "Image Links": "",
+    "Image Links": "\"Images/Power Macintosh 7300.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Macintosh",
     "generation": "Power Macintosh",
-    "releaseYear": 1997,
-    "discontinuedYear": 1998,
     "id": "power-macintosh-7300",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -1815,6 +1968,8 @@ window.APPLE_PRODUCTS = [
       "Power Macintosh",
       "Power Macintosh 7300"
     ],
+    "releaseYear": 1997,
+    "discontinuedYear": 1998,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -1831,8 +1986,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112070"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Power Macintosh 7300",
+        "url": "Images/Power Macintosh 7300.png"
+      }
+    ],
+    "imageUrl": "Images/Power Macintosh 7300.png"
   },
   {
     "Product Name": "Power Macintosh 8600",
@@ -1859,15 +2019,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Power Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112052\nhttps://support.apple.com/en-us/112054",
-    "Image Links": "",
+    "Image Links": "\"Images/Power Macintosh 8600.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Macintosh",
     "generation": "Power Macintosh",
-    "releaseYear": 1997,
-    "discontinuedYear": 1998,
     "id": "power-macintosh-8600",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -1875,6 +2033,8 @@ window.APPLE_PRODUCTS = [
       "Power Macintosh",
       "Power Macintosh 8600"
     ],
+    "releaseYear": 1997,
+    "discontinuedYear": 1998,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -1891,8 +2051,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112054"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Power Macintosh 8600",
+        "url": "Images/Power Macintosh 8600.png"
+      }
+    ],
+    "imageUrl": "Images/Power Macintosh 8600.png"
   },
   {
     "Product Name": "Power Macintosh 9600",
@@ -1919,15 +2084,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Power Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112051\nhttps://support.apple.com/en-us/112048\nhttps://support.apple.com/en-us/112049\nhttps://support.apple.com/en-us/112046\nhttps://support.apple.com/en-us/112047",
-    "Image Links": "",
+    "Image Links": "\"Images/Power Macintosh 9600.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Macintosh",
     "generation": "Power Macintosh",
-    "releaseYear": 1997,
-    "discontinuedYear": 1998,
     "id": "power-macintosh-9600",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -1935,6 +2098,8 @@ window.APPLE_PRODUCTS = [
       "Power Macintosh",
       "Power Macintosh 9600"
     ],
+    "releaseYear": 1997,
+    "discontinuedYear": 1998,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -1963,8 +2128,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112047"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Power Macintosh 9600",
+        "url": "Images/Power Macintosh 9600.png"
+      }
+    ],
+    "imageUrl": "Images/Power Macintosh 9600.png"
   },
   {
     "Product Name": "Power Macintosh G3 Desktop Beige",
@@ -1993,13 +2163,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112279",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=6097&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G3",
     "generation": "Power Mac G3",
-    "releaseYear": 1997,
-    "discontinuedYear": 1999,
     "id": "power-macintosh-g3-desktop-beige",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2007,6 +2175,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G3",
       "Power Macintosh G3 Desktop Beige"
     ],
+    "releaseYear": 1997,
+    "discontinuedYear": 1999,
     "appleSupportLinks": [
       {
         "label": "Power Macintosh G3 Desktop Beige",
@@ -2052,15 +2222,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Power Mac G3",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112045",
-    "Image Links": "",
+    "Image Links": "\"Images/Power Macintosh G3 Minitower Beige.png\"",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G3",
     "generation": "Power Mac G3",
-    "releaseYear": 1997,
-    "discontinuedYear": 1999,
     "id": "power-macintosh-g3-minitower-beige",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2068,6 +2236,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G3",
       "Power Macintosh G3 Minitower Beige"
     ],
+    "releaseYear": 1997,
+    "discontinuedYear": 1999,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -2080,8 +2250,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112045"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Power Macintosh G3 Minitower Beige",
+        "url": "Images/Power Macintosh G3 Minitower Beige.png"
+      }
+    ],
+    "imageUrl": "Images/Power Macintosh G3 Minitower Beige.png"
   },
   {
     "Product Name": "Power Mac G3 Blue and White",
@@ -2110,13 +2285,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112293",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PP187&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G3",
     "generation": "Power Mac G3",
-    "releaseYear": 1999,
-    "discontinuedYear": 1999,
     "id": "power-mac-g3-blue-and-white",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2124,6 +2297,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G3",
       "Power Mac G3 Blue and White"
     ],
+    "releaseYear": 1999,
+    "discontinuedYear": 1999,
     "appleSupportLinks": [
       {
         "label": "Power Mac G3 Blue and White",
@@ -2171,13 +2346,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112296",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=7955&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G4",
     "generation": "Power Mac G4",
-    "releaseYear": 1999,
-    "discontinuedYear": 1999,
     "id": "power-mac-g4-pci-graphics",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2185,6 +2358,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G4",
       "Power Mac G4 PCI Graphics"
     ],
+    "releaseYear": 1999,
+    "discontinuedYear": 1999,
     "appleSupportLinks": [
       {
         "label": "Power Mac G4 PCI Graphics",
@@ -2232,13 +2407,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112294",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=7956&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G4",
     "generation": "Power Mac G4",
-    "releaseYear": 1999,
-    "discontinuedYear": 2000,
     "id": "power-mac-g4-agp-graphics",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2246,6 +2419,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G4",
       "Power Mac G4 AGP Graphics"
     ],
+    "releaseYear": 1999,
+    "discontinuedYear": 2000,
     "appleSupportLinks": [
       {
         "label": "Power Mac G4 AGP Graphics",
@@ -2293,13 +2468,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112518",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=8355&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G4",
     "generation": "Power Mac G4",
-    "releaseYear": 2000,
-    "discontinuedYear": 2001,
     "id": "power-mac-g4-gigabit-ethernet",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2307,6 +2480,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G4",
       "Power Mac G4 Gigabit Ethernet"
     ],
+    "releaseYear": 2000,
+    "discontinuedYear": 2001,
     "appleSupportLinks": [
       {
         "label": "Power Mac G4 Gigabit Ethernet",
@@ -2354,13 +2529,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112466",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=8367&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G4",
     "generation": "Power Mac G4",
-    "releaseYear": 2000,
-    "discontinuedYear": 2001,
     "id": "power-mac-g4-cube",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2368,6 +2541,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G4",
       "Power Mac G4 Cube"
     ],
+    "releaseYear": 2000,
+    "discontinuedYear": 2001,
     "appleSupportLinks": [
       {
         "label": "Power Mac G4 Cube",
@@ -2415,13 +2590,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112549",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=108892&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G4",
     "generation": "Power Mac G4",
-    "releaseYear": 2001,
-    "discontinuedYear": 2001,
     "id": "power-mac-g4-digital-audio",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2429,6 +2602,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G4",
       "Power Mac G4 Digital Audio"
     ],
+    "releaseYear": 2001,
+    "discontinuedYear": 2001,
     "appleSupportLinks": [
       {
         "label": "Power Mac G4 Digital Audio",
@@ -2476,13 +2651,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112546",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=110334&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G4",
     "generation": "Power Mac G4",
-    "releaseYear": 2001,
-    "discontinuedYear": 2002,
     "id": "power-mac-g4-quicksilver",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2490,6 +2663,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G4",
       "Power Mac G4 QuickSilver"
     ],
+    "releaseYear": 2001,
+    "discontinuedYear": 2002,
     "appleSupportLinks": [
       {
         "label": "Power Mac G4 QuickSilver",
@@ -2537,13 +2712,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112450",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=111993&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G4",
     "generation": "Power Mac G4",
-    "releaseYear": 2002,
-    "discontinuedYear": 2002,
     "id": "power-mac-g4-quicksilver-2002",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2551,6 +2724,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G4",
       "Power Mac G4 QuickSilver (2002)"
     ],
+    "releaseYear": 2002,
+    "discontinuedYear": 2002,
     "appleSupportLinks": [
       {
         "label": "Power Mac G4 QuickSilver (2002)",
@@ -2598,13 +2773,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "Power Mac G4 (2002): https://support.apple.com/en-us/112510\nPower Mac G4 (2003): https://support.apple.com/en-us/112531",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=113853&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G4",
     "generation": "Power Mac G4",
-    "releaseYear": 2002,
-    "discontinuedYear": 2003,
     "id": "power-mac-g4-mirrored-drive-doors",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2612,6 +2785,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G4",
       "Power Mac G4 Mirrored Drive Doors"
     ],
+    "releaseYear": 2002,
+    "discontinuedYear": 2003,
     "appleSupportLinks": [
       {
         "label": "Power Mac G4 (2002)",
@@ -2667,13 +2842,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112558",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=117646&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G4",
     "generation": "Power Mac G4",
-    "releaseYear": 2003,
-    "discontinuedYear": 2004,
     "id": "power-mac-g4-fw800",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2681,6 +2854,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G4",
       "Power Mac G4 FW800"
     ],
+    "releaseYear": 2003,
+    "discontinuedYear": 2004,
     "appleSupportLinks": [
       {
         "label": "Power Mac G4 FW800",
@@ -2728,13 +2903,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112316",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=119767&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G5",
     "generation": "Power Mac G5",
-    "releaseYear": 2003,
-    "discontinuedYear": 2004,
     "id": "power-mac-g5",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2742,6 +2915,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G5",
       "Power Mac G5"
     ],
+    "releaseYear": 2003,
+    "discontinuedYear": 2004,
     "appleSupportLinks": [
       {
         "label": "Power Mac G5",
@@ -2789,13 +2964,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "Power Mac G5 (Mid 2004): https://support.apple.com/en-us/112498\nPower Mac G5 (Late 2004): https://support.apple.com/en-us/112312",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=125005&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G5",
     "generation": "Power Mac G5",
-    "releaseYear": 2004,
-    "discontinuedYear": 2005,
     "id": "power-mac-g5-2004",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2803,6 +2976,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G5",
       "Power Mac G5 (2004)"
     ],
+    "releaseYear": 2004,
+    "discontinuedYear": 2005,
     "appleSupportLinks": [
       {
         "label": "Power Mac G5 (Mid 2004)",
@@ -2858,13 +3033,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112557",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130458&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G5",
     "generation": "Power Mac G5",
-    "releaseYear": 2005,
-    "discontinuedYear": 2005,
     "id": "power-mac-g5-early-2005",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2872,6 +3045,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G5",
       "Power Mac G5 (Early 2005)"
     ],
+    "releaseYear": 2005,
+    "discontinuedYear": 2005,
     "appleSupportLinks": [
       {
         "label": "Power Mac G5 (Early 2005)",
@@ -2919,13 +3094,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112506",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130750&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Power Mac",
     "subfamily": "Power Mac G5",
     "generation": "Power Mac G5",
-    "releaseYear": 2005,
-    "discontinuedYear": 2006,
     "id": "power-mac-g5-late-2005",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Power Mac",
@@ -2933,6 +3106,8 @@ window.APPLE_PRODUCTS = [
       "Power Mac G5",
       "Power Mac G5 (Late 2005)"
     ],
+    "releaseYear": 2005,
+    "discontinuedYear": 2006,
     "appleSupportLinks": [
       {
         "label": "Power Mac G5 (Late 2005)",
@@ -2980,13 +3155,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112520",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131077&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac Pro",
     "generation": "Mac Pro",
-    "releaseYear": 2006,
-    "discontinuedYear": 2008,
     "id": "mac-pro",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -2994,6 +3167,8 @@ window.APPLE_PRODUCTS = [
       "Mac Pro",
       "Mac Pro"
     ],
+    "releaseYear": 2006,
+    "discontinuedYear": 2008,
     "appleSupportLinks": [
       {
         "label": "Mac Pro",
@@ -3041,13 +3216,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112308",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131819&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac Pro",
     "generation": "Mac Pro",
-    "releaseYear": 2008,
-    "discontinuedYear": 2009,
     "id": "mac-pro-early-2008",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -3055,6 +3228,8 @@ window.APPLE_PRODUCTS = [
       "Mac Pro",
       "Mac Pro (Early 2008)"
     ],
+    "releaseYear": 2008,
+    "discontinuedYear": 2009,
     "appleSupportLinks": [
       {
         "label": "Mac Pro (Early 2008)",
@@ -3102,13 +3277,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112590",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132392&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac Pro",
     "generation": "Mac Pro",
-    "releaseYear": 2009,
-    "discontinuedYear": 2010,
     "id": "mac-pro-early-2009",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -3116,6 +3289,8 @@ window.APPLE_PRODUCTS = [
       "Mac Pro",
       "Mac Pro (Early 2009)"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2010,
     "appleSupportLinks": [
       {
         "label": "Mac Pro (Early 2009)",
@@ -3163,13 +3338,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112578",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132966&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac Pro",
     "generation": "Mac Pro",
-    "releaseYear": 2010,
-    "discontinuedYear": 2012,
     "id": "mac-pro-mid-2010",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -3177,6 +3350,8 @@ window.APPLE_PRODUCTS = [
       "Mac Pro",
       "Mac Pro (Mid 2010)"
     ],
+    "releaseYear": 2010,
+    "discontinuedYear": 2012,
     "appleSupportLinks": [
       {
         "label": "Mac Pro (Mid 2010)",
@@ -3224,13 +3399,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/118464",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133644&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac Pro",
     "generation": "Mac Pro",
-    "releaseYear": 2012,
-    "discontinuedYear": 2013,
     "id": "mac-pro-mid-2012",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -3238,6 +3411,8 @@ window.APPLE_PRODUCTS = [
       "Mac Pro",
       "Mac Pro (Mid 2012)"
     ],
+    "releaseYear": 2012,
+    "discontinuedYear": 2013,
     "appleSupportLinks": [
       {
         "label": "Mac Pro (Mid 2012)",
@@ -3285,13 +3460,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112025",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=134417&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac Pro",
     "generation": "Mac Pro",
-    "releaseYear": 2013,
-    "discontinuedYear": 2019,
     "id": "mac-pro-late-2013",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -3299,6 +3472,8 @@ window.APPLE_PRODUCTS = [
       "Mac Pro",
       "Mac Pro (Late 2013)"
     ],
+    "releaseYear": 2013,
+    "discontinuedYear": 2019,
     "appleSupportLinks": [
       {
         "label": "Mac Pro (Late 2013)",
@@ -3346,13 +3521,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacPro: https://support.apple.com/en-us/118461\nMacPro (Rack): https://support.apple.com/en-us/111907",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=508176&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac Pro",
     "generation": "Mac Pro",
-    "releaseYear": 2019,
-    "discontinuedYear": 2023,
     "id": "mac-pro-2019",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -3360,6 +3533,8 @@ window.APPLE_PRODUCTS = [
       "Mac Pro",
       "Mac Pro (2019)"
     ],
+    "releaseYear": 2019,
+    "discontinuedYear": 2023,
     "appleSupportLinks": [
       {
         "label": "Mac Pro",
@@ -3415,13 +3590,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacPro: https://support.apple.com/en-us/111343\nMacPro (Rack): https://support.apple.com/en-us/111836",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300955&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac Pro",
     "generation": "Mac Pro",
-    "releaseYear": 2023,
-    "discontinuedYear": null,
     "id": "mac-pro-2023",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -3429,6 +3602,8 @@ window.APPLE_PRODUCTS = [
       "Mac Pro",
       "Mac Pro (2023)"
     ],
+    "releaseYear": 2023,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "Mac Pro",
@@ -3484,13 +3659,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112579",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130299&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac mini",
     "generation": "Mac mini",
-    "releaseYear": 2005,
-    "discontinuedYear": 2006,
     "id": "mac-mini",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -3498,6 +3671,8 @@ window.APPLE_PRODUCTS = [
       "Mac mini",
       "Mac mini"
     ],
+    "releaseYear": 2005,
+    "discontinuedYear": 2006,
     "appleSupportLinks": [
       {
         "label": "Mac mini",
@@ -3545,13 +3720,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112456",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130881&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac mini",
     "generation": "Mac mini",
-    "releaseYear": 2006,
-    "discontinuedYear": 2006,
     "id": "mac-mini-early-2006",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -3559,6 +3732,8 @@ window.APPLE_PRODUCTS = [
       "Mac mini",
       "Mac mini (Early 2006)"
     ],
+    "releaseYear": 2006,
+    "discontinuedYear": 2006,
     "appleSupportLinks": [
       {
         "label": "Mac mini (Early 2006)",
@@ -3606,13 +3781,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112468",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132705&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac mini",
     "generation": "Mac mini",
-    "releaseYear": 2006,
-    "discontinuedYear": 2007,
     "id": "mac-mini-late-2006",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -3620,6 +3793,8 @@ window.APPLE_PRODUCTS = [
       "Mac mini",
       "Mac mini (Late 2006)"
     ],
+    "releaseYear": 2006,
+    "discontinuedYear": 2007,
     "appleSupportLinks": [
       {
         "label": "Mac mini (Late 2006)",
@@ -3667,13 +3842,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112504",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131598&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac mini",
     "generation": "Mac mini",
-    "releaseYear": 2007,
-    "discontinuedYear": 2009,
     "id": "mac-mini-mid-2007",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -3681,6 +3854,8 @@ window.APPLE_PRODUCTS = [
       "Mac mini",
       "Mac mini (Mid 2007)"
     ],
+    "releaseYear": 2007,
+    "discontinuedYear": 2009,
     "appleSupportLinks": [
       {
         "label": "Mac mini (Mid 2007)",
@@ -3728,13 +3903,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111345",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132299&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac mini",
     "generation": "Mac mini",
-    "releaseYear": 2009,
-    "discontinuedYear": 2009,
     "id": "mac-mini-early-2009",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -3742,6 +3915,8 @@ window.APPLE_PRODUCTS = [
       "Mac mini",
       "Mac mini (Early 2009)"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2009,
     "appleSupportLinks": [
       {
         "label": "Mac mini (Early 2009)",
@@ -3789,13 +3964,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112482",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132705&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac mini",
     "generation": "Mac mini",
-    "releaseYear": 2009,
-    "discontinuedYear": 2010,
     "id": "mac-mini-late-2009",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -3803,6 +3976,8 @@ window.APPLE_PRODUCTS = [
       "Mac mini",
       "Mac mini (Late 2009)"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2010,
     "appleSupportLinks": [
       {
         "label": "Mac mini (Late 2009)",
@@ -3850,13 +4025,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "Mac mini: https://support.apple.com/en-us/112588\nMac mini (Server): https://support.apple.com/en-us/112589",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132914&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac mini",
     "generation": "Mac mini",
-    "releaseYear": 2010,
-    "discontinuedYear": 2011,
     "id": "mac-mini-mid-2010",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -3864,6 +4037,8 @@ window.APPLE_PRODUCTS = [
       "Mac mini",
       "Mac mini (Mid 2010)"
     ],
+    "releaseYear": 2010,
+    "discontinuedYear": 2011,
     "appleSupportLinks": [
       {
         "label": "Mac mini",
@@ -3919,13 +4094,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "Mac mini: https://support.apple.com/en-us/112007\nMac mini (Server): https://support.apple.com/en-us/112006",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133334&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac mini",
     "generation": "Mac mini",
-    "releaseYear": 2011,
-    "discontinuedYear": 2012,
     "id": "mac-mini-mid-2011",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -3933,6 +4106,8 @@ window.APPLE_PRODUCTS = [
       "Mac mini",
       "Mac mini (Mid 2011)"
     ],
+    "releaseYear": 2011,
+    "discontinuedYear": 2012,
     "appleSupportLinks": [
       {
         "label": "Mac mini",
@@ -3988,13 +4163,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "Mac mini: https://support.apple.com/en-us/111926\nMac mini (Server): https://support.apple.com/en-us/112012",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133840&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac mini",
     "generation": "Mac mini",
-    "releaseYear": 2012,
-    "discontinuedYear": 2014,
     "id": "mac-mini-late-2012",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -4002,6 +4175,8 @@ window.APPLE_PRODUCTS = [
       "Mac mini",
       "Mac mini (Late 2012)"
     ],
+    "releaseYear": 2012,
+    "discontinuedYear": 2014,
     "appleSupportLinks": [
       {
         "label": "Mac mini",
@@ -4057,13 +4232,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111931",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=135120&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac mini",
     "generation": "Mac mini",
-    "releaseYear": 2014,
-    "discontinuedYear": 2018,
     "id": "mac-mini-late-2014",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -4071,6 +4244,8 @@ window.APPLE_PRODUCTS = [
       "Mac mini",
       "Mac mini (Late 2014)"
     ],
+    "releaseYear": 2014,
+    "discontinuedYear": 2018,
     "appleSupportLinks": [
       {
         "label": "Mac mini (Late 2014)",
@@ -4118,13 +4293,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111912",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=508929&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac mini",
     "generation": "Mac mini",
-    "releaseYear": 2018,
-    "discontinuedYear": 2023,
     "id": "mac-mini-2018",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -4132,6 +4305,8 @@ window.APPLE_PRODUCTS = [
       "Mac mini",
       "Mac mini (2018)"
     ],
+    "releaseYear": 2018,
+    "discontinuedYear": 2023,
     "appleSupportLinks": [
       {
         "label": "Mac mini (2018)",
@@ -4179,13 +4354,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111894",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300268&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac mini",
     "generation": "Mac mini",
-    "releaseYear": 2020,
-    "discontinuedYear": 2023,
     "id": "mac-mini-2020",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -4193,6 +4366,8 @@ window.APPLE_PRODUCTS = [
       "Mac mini",
       "Mac mini (2020)"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": 2023,
     "appleSupportLinks": [
       {
         "label": "Mac mini (2020)",
@@ -4240,13 +4415,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "Mac mini (M2): https://support.apple.com/en-us/111837\nMac mini (M2 Pro): https://support.apple.com/en-us/111837",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300923&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac mini",
     "generation": "Mac mini",
-    "releaseYear": 2023,
-    "discontinuedYear": 2024,
     "id": "mac-mini-2023",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -4254,6 +4427,8 @@ window.APPLE_PRODUCTS = [
       "Mac mini",
       "Mac mini (2023)"
     ],
+    "releaseYear": 2023,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "Mac mini (M2)",
@@ -4309,13 +4484,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/121555",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301067&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac mini",
     "generation": "Mac mini",
-    "releaseYear": 2024,
-    "discontinuedYear": null,
     "id": "mac-mini-2024",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -4323,6 +4496,8 @@ window.APPLE_PRODUCTS = [
       "Mac mini",
       "Mac mini (2024)"
     ],
+    "releaseYear": 2024,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "Mac mini (2024)",
@@ -4370,13 +4545,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111900",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300869&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac Studio",
     "generation": "Mac Studio",
-    "releaseYear": 2022,
-    "discontinuedYear": 2023,
     "id": "mac-studio",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -4384,6 +4557,8 @@ window.APPLE_PRODUCTS = [
       "Mac Studio",
       "Mac Studio"
     ],
+    "releaseYear": 2022,
+    "discontinuedYear": 2023,
     "appleSupportLinks": [
       {
         "label": "Mac Studio",
@@ -4431,13 +4606,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111835",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300953&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac Studio",
     "generation": "Mac Studio",
-    "releaseYear": 2023,
-    "discontinuedYear": 2025,
     "id": "mac-studio-2023",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -4445,6 +4618,8 @@ window.APPLE_PRODUCTS = [
       "Mac Studio",
       "Mac Studio (2023)"
     ],
+    "releaseYear": 2023,
+    "discontinuedYear": 2025,
     "appleSupportLinks": [
       {
         "label": "Mac Studio (2023)",
@@ -4492,13 +4667,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/122211",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301085&size=240x240",
     "category": "Desktop",
-    "museumCategory": "Desktop",
     "family": "Mac",
     "subfamily": "Mac Studio",
     "generation": "Mac Studio",
-    "releaseYear": 2025,
-    "discontinuedYear": null,
     "id": "mac-studio-2025",
+    "museumCategory": "Desktop",
     "hierarchy": [
       "Desktop",
       "Mac",
@@ -4506,6 +4679,8 @@ window.APPLE_PRODUCTS = [
       "Mac Studio",
       "Mac Studio (2025)"
     ],
+    "releaseYear": 2025,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "Mac Studio (2025)",
@@ -4551,15 +4726,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Lisa",
     "Apple Support Links": "",
     "Tech Spec Links": "",
-    "Image Links": "",
+    "Image Links": "\"Images/Lisa.png\"",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Lisa",
     "generation": "Lisa",
-    "releaseYear": 1983,
-    "discontinuedYear": 1985,
     "id": "lisa",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -4567,10 +4740,17 @@ window.APPLE_PRODUCTS = [
       "Lisa",
       "Lisa"
     ],
+    "releaseYear": 1983,
+    "discontinuedYear": 1985,
     "appleSupportLinks": [],
     "techSpecLinks": [],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Lisa",
+        "url": "Images/Lisa.png"
+      }
+    ],
+    "imageUrl": "Images/Lisa.png"
   },
   {
     "Product Name": "Lisa 2",
@@ -4597,15 +4777,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Lisa",
     "Apple Support Links": "",
     "Tech Spec Links": "",
-    "Image Links": "",
+    "Image Links": "\"Images/Lisa 2.png\"",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Lisa",
     "generation": "Lisa",
-    "releaseYear": 1984,
-    "discontinuedYear": 1985,
     "id": "lisa-2",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -4613,10 +4791,17 @@ window.APPLE_PRODUCTS = [
       "Lisa",
       "Lisa 2"
     ],
+    "releaseYear": 1984,
+    "discontinuedYear": 1985,
     "appleSupportLinks": [],
     "techSpecLinks": [],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Lisa 2",
+        "url": "Images/Lisa 2.png"
+      }
+    ],
+    "imageUrl": "Images/Lisa 2.png"
   },
   {
     "Product Name": "Macintosh 128K",
@@ -4643,15 +4828,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Compact Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112190",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh 128K.png\"",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Compact Macintosh",
     "generation": "Compact Macintosh",
-    "releaseYear": 1984,
-    "discontinuedYear": 1985,
     "id": "macintosh-128k",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -4659,6 +4842,8 @@ window.APPLE_PRODUCTS = [
       "Compact Macintosh",
       "Macintosh 128K"
     ],
+    "releaseYear": 1984,
+    "discontinuedYear": 1985,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -4671,8 +4856,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112190"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh 128K",
+        "url": "Images/Macintosh 128K.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh 128K.png"
   },
   {
     "Product Name": "Macintosh 512K",
@@ -4699,15 +4889,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Compact Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112187",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh 512K.png\"",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Compact Macintosh",
     "generation": "Compact Macintosh",
-    "releaseYear": 1984,
-    "discontinuedYear": 1986,
     "id": "macintosh-512k",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -4715,6 +4903,8 @@ window.APPLE_PRODUCTS = [
       "Compact Macintosh",
       "Macintosh 512K"
     ],
+    "releaseYear": 1984,
+    "discontinuedYear": 1986,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -4727,8 +4917,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112187"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh 512K",
+        "url": "Images/Macintosh 512K.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh 512K.png"
   },
   {
     "Product Name": "Macintosh XL",
@@ -4755,15 +4950,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Lisa",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112184",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh XL.png\"",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Lisa",
     "generation": "Lisa",
-    "releaseYear": 1985,
-    "discontinuedYear": 1986,
     "id": "macintosh-xl",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -4771,6 +4964,8 @@ window.APPLE_PRODUCTS = [
       "Lisa",
       "Macintosh XL"
     ],
+    "releaseYear": 1985,
+    "discontinuedYear": 1986,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -4783,8 +4978,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112184"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh XL",
+        "url": "Images/Macintosh XL.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh XL.png"
   },
   {
     "Product Name": "Macintosh 512Ke",
@@ -4811,15 +5011,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Compact Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112186",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh 512Ke.png\"",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Compact Macintosh",
     "generation": "Compact Macintosh",
-    "releaseYear": 1986,
-    "discontinuedYear": 1987,
     "id": "macintosh-512ke",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -4827,6 +5025,8 @@ window.APPLE_PRODUCTS = [
       "Compact Macintosh",
       "Macintosh 512Ke"
     ],
+    "releaseYear": 1986,
+    "discontinuedYear": 1987,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -4839,8 +5039,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112186"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh 512Ke",
+        "url": "Images/Macintosh 512Ke.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh 512Ke.png"
   },
   {
     "Product Name": "Macintosh Plus",
@@ -4867,15 +5072,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Compact Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112183",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh Plus.png\"",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Compact Macintosh",
     "generation": "Compact Macintosh",
-    "releaseYear": 1986,
-    "discontinuedYear": 1990,
     "id": "macintosh-plus",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -4883,6 +5086,8 @@ window.APPLE_PRODUCTS = [
       "Compact Macintosh",
       "Macintosh Plus"
     ],
+    "releaseYear": 1986,
+    "discontinuedYear": 1990,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -4895,8 +5100,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112183"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh Plus",
+        "url": "Images/Macintosh Plus.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh Plus.png"
   },
   {
     "Product Name": "Macintosh SE",
@@ -4923,15 +5133,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Compact Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112185",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh SE.png\"",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Compact Macintosh",
     "generation": "Compact Macintosh",
-    "releaseYear": 1987,
-    "discontinuedYear": 1990,
     "id": "macintosh-se",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -4939,6 +5147,8 @@ window.APPLE_PRODUCTS = [
       "Compact Macintosh",
       "Macintosh SE"
     ],
+    "releaseYear": 1987,
+    "discontinuedYear": 1990,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -4951,8 +5161,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112185"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh SE",
+        "url": "Images/Macintosh SE.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh SE.png"
   },
   {
     "Product Name": "Macintosh SE/30",
@@ -4979,15 +5194,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Compact Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112247",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh SE30.png\"",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Compact Macintosh",
     "generation": "Compact Macintosh",
-    "releaseYear": 1989,
-    "discontinuedYear": 1991,
     "id": "macintosh-se-30",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -4995,6 +5208,8 @@ window.APPLE_PRODUCTS = [
       "Compact Macintosh",
       "Macintosh SE/30"
     ],
+    "releaseYear": 1989,
+    "discontinuedYear": 1991,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -5007,8 +5222,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112247"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh SE/30",
+        "url": "Images/Macintosh SE30.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh SE30.png"
   },
   {
     "Product Name": "Macintosh Classic",
@@ -5035,15 +5255,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Compact Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112195",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh Classic.png\"",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Compact Macintosh",
     "generation": "Compact Macintosh",
-    "releaseYear": 1990,
-    "discontinuedYear": 1992,
     "id": "macintosh-classic",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -5051,6 +5269,8 @@ window.APPLE_PRODUCTS = [
       "Compact Macintosh",
       "Macintosh Classic"
     ],
+    "releaseYear": 1990,
+    "discontinuedYear": 1992,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -5063,8 +5283,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112195"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh Classic",
+        "url": "Images/Macintosh Classic.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh Classic.png"
   },
   {
     "Product Name": "Macintosh Classic II",
@@ -5091,15 +5316,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Compact Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112201",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh Classic II.png\"",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Compact Macintosh",
     "generation": "Compact Macintosh",
-    "releaseYear": 1991,
-    "discontinuedYear": 1993,
     "id": "macintosh-classic-ii",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -5107,6 +5330,8 @@ window.APPLE_PRODUCTS = [
       "Compact Macintosh",
       "Macintosh Classic II"
     ],
+    "releaseYear": 1991,
+    "discontinuedYear": 1993,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -5119,8 +5344,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112201"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh Classic II",
+        "url": "Images/Macintosh Classic II.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh Classic II.png"
   },
   {
     "Product Name": "Macintosh Color Classic",
@@ -5147,15 +5377,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Compact Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112200",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh Color Classic.png\"",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Compact Macintosh",
     "generation": "Compact Macintosh",
-    "releaseYear": 1993,
-    "discontinuedYear": 1994,
     "id": "macintosh-color-classic",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -5163,6 +5391,8 @@ window.APPLE_PRODUCTS = [
       "Compact Macintosh",
       "Macintosh Color Classic"
     ],
+    "releaseYear": 1993,
+    "discontinuedYear": 1994,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -5175,8 +5405,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112200"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh Color Classic",
+        "url": "Images/Macintosh Color Classic.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh Color Classic.png"
   },
   {
     "Product Name": "Macintosh Color Classic II",
@@ -5205,13 +5440,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112241",
     "Image Links": "",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Compact Macintosh",
     "generation": "Compact Macintosh",
-    "releaseYear": 1993,
-    "discontinuedYear": 1994,
     "id": "macintosh-color-classic-ii",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -5219,6 +5452,8 @@ window.APPLE_PRODUCTS = [
       "Compact Macintosh",
       "Macintosh Color Classic II"
     ],
+    "releaseYear": 1993,
+    "discontinuedYear": 1994,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -5259,15 +5494,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Compact Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112205",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh TV.png\"",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Compact Macintosh",
     "generation": "Compact Macintosh",
-    "releaseYear": 1993,
-    "discontinuedYear": 1994,
     "id": "macintosh-tv",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -5275,6 +5508,8 @@ window.APPLE_PRODUCTS = [
       "Compact Macintosh",
       "Macintosh TV"
     ],
+    "releaseYear": 1993,
+    "discontinuedYear": 1994,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -5287,8 +5522,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112205"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh TV",
+        "url": "Images/Macintosh TV.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh TV.png"
   },
   {
     "Product Name": "Macintosh LC 520",
@@ -5315,15 +5555,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Macintosh LC",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112203",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh LC 520.png\"",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Macintosh LC",
     "generation": "Macintosh LC",
-    "releaseYear": 1993,
-    "discontinuedYear": 1994,
     "id": "macintosh-lc-520",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -5331,6 +5569,8 @@ window.APPLE_PRODUCTS = [
       "Macintosh LC",
       "Macintosh LC 520"
     ],
+    "releaseYear": 1993,
+    "discontinuedYear": 1994,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -5343,8 +5583,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112203"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh LC 520",
+        "url": "Images/Macintosh LC 520.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh LC 520.png"
   },
   {
     "Product Name": "Macintosh LC 550",
@@ -5373,13 +5618,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112206",
     "Image Links": "",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Macintosh LC",
     "generation": "Macintosh LC",
-    "releaseYear": 1994,
-    "discontinuedYear": 1995,
     "id": "macintosh-lc-550",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -5387,6 +5630,8 @@ window.APPLE_PRODUCTS = [
       "Macintosh LC",
       "Macintosh LC 550"
     ],
+    "releaseYear": 1994,
+    "discontinuedYear": 1995,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -5429,13 +5674,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112222",
     "Image Links": "",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Macintosh LC",
     "generation": "Macintosh LC",
-    "releaseYear": 1994,
-    "discontinuedYear": 1995,
     "id": "macintosh-lc-575",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -5443,6 +5686,8 @@ window.APPLE_PRODUCTS = [
       "Macintosh LC",
       "Macintosh LC 575"
     ],
+    "releaseYear": 1994,
+    "discontinuedYear": 1995,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -5485,13 +5730,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112283",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=6561&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Education Macintosh",
     "subfamily": "Power Macintosh",
     "generation": "Power Macintosh",
-    "releaseYear": 1998,
-    "discontinuedYear": 1999,
     "id": "power-macintosh-g3-all-in-one",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Education Macintosh",
@@ -5499,6 +5742,8 @@ window.APPLE_PRODUCTS = [
       "Power Macintosh",
       "Power Macintosh G3 All-In-One"
     ],
+    "releaseYear": 1998,
+    "discontinuedYear": 1999,
     "appleSupportLinks": [
       {
         "label": "Power Macintosh G3 All-In-One",
@@ -5544,15 +5789,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Limited Edition Macintosh",
     "Apple Support Links": "Earlier Power Mac: https://support.apple.com/en-us/docs/mac/pp201",
     "Tech Spec Links": "https://support.apple.com/en-us/112062",
-    "Image Links": "",
+    "Image Links": "\"Images/Twentieth Anniversary Macintosh.png\"",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Macintosh",
     "subfamily": "Limited Edition Macintosh",
     "generation": "Limited Edition Macintosh",
-    "releaseYear": 1997,
-    "discontinuedYear": 1998,
     "id": "twentieth-anniversary-macintosh",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Macintosh",
@@ -5560,6 +5803,8 @@ window.APPLE_PRODUCTS = [
       "Limited Edition Macintosh",
       "Twentieth Anniversary Macintosh"
     ],
+    "releaseYear": 1997,
+    "discontinuedYear": 1998,
     "appleSupportLinks": [
       {
         "label": "Earlier Power Mac",
@@ -5572,8 +5817,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112062"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Twentieth Anniversary Macintosh",
+        "url": "Images/Twentieth Anniversary Macintosh.png"
+      }
+    ],
+    "imageUrl": "Images/Twentieth Anniversary Macintosh.png"
   },
   {
     "Product Name": "iMac 233 MHz Bondi Blue",
@@ -5602,13 +5852,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112281",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=6597&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "iMac G3",
     "generation": "iMac G3",
-    "releaseYear": 1998,
-    "discontinuedYear": 1999,
     "id": "imac-233-mhz-bondi-blue",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -5616,6 +5864,8 @@ window.APPLE_PRODUCTS = [
       "iMac G3",
       "iMac 233 MHz Bondi Blue"
     ],
+    "releaseYear": 1998,
+    "discontinuedYear": 1999,
     "appleSupportLinks": [
       {
         "label": "iMac 233 MHz Bondi Blue",
@@ -5663,13 +5913,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112288",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=6990&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "iMac G3",
     "generation": "iMac G3",
-    "releaseYear": 1999,
-    "discontinuedYear": 1999,
     "id": "imac-266-mhz",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -5677,6 +5925,8 @@ window.APPLE_PRODUCTS = [
       "iMac G3",
       "iMac 266 MHz"
     ],
+    "releaseYear": 1999,
+    "discontinuedYear": 1999,
     "appleSupportLinks": [
       {
         "label": "iMac 266 MHz",
@@ -5724,13 +5974,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112286",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=6991&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "iMac G3",
     "generation": "iMac G3",
-    "releaseYear": 1999,
-    "discontinuedYear": 1999,
     "id": "imac-333-mhz",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -5738,6 +5986,8 @@ window.APPLE_PRODUCTS = [
       "iMac G3",
       "iMac 333 MHz"
     ],
+    "releaseYear": 1999,
+    "discontinuedYear": 1999,
     "appleSupportLinks": [
       {
         "label": "iMac 333 MHz",
@@ -5785,13 +6035,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112301",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=8001&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "iMac G3",
     "generation": "iMac G3",
-    "releaseYear": 1999,
-    "discontinuedYear": 2000,
     "id": "imac-slot-loading",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -5799,6 +6047,8 @@ window.APPLE_PRODUCTS = [
       "iMac G3",
       "iMac Slot Loading"
     ],
+    "releaseYear": 1999,
+    "discontinuedYear": 2000,
     "appleSupportLinks": [
       {
         "label": "iMac Slot Loading",
@@ -5846,13 +6096,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112527",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=8359&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "iMac G3",
     "generation": "iMac G3",
-    "releaseYear": 2000,
-    "discontinuedYear": 2001,
     "id": "imac-summer-2000",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -5860,6 +6108,8 @@ window.APPLE_PRODUCTS = [
       "iMac G3",
       "iMac (Summer, 2000)"
     ],
+    "releaseYear": 2000,
+    "discontinuedYear": 2001,
     "appleSupportLinks": [
       {
         "label": "iMac (Summer, 2000)",
@@ -5907,13 +6157,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112548",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=109132&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "iMac G3",
     "generation": "iMac G3",
-    "releaseYear": 2001,
-    "discontinuedYear": 2001,
     "id": "imac-early-2001",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -5921,6 +6169,8 @@ window.APPLE_PRODUCTS = [
       "iMac G3",
       "iMac (Early, 2001)"
     ],
+    "releaseYear": 2001,
+    "discontinuedYear": 2001,
     "appleSupportLinks": [
       {
         "label": "iMac (Early, 2001)",
@@ -5968,13 +6218,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112502",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=110293&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "iMac G3",
     "generation": "iMac G3",
-    "releaseYear": 2001,
-    "discontinuedYear": 2003,
     "id": "imac-mid-2001",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -5982,6 +6230,8 @@ window.APPLE_PRODUCTS = [
       "iMac G3",
       "iMac (Mid, 2001)"
     ],
+    "releaseYear": 2001,
+    "discontinuedYear": 2003,
     "appleSupportLinks": [
       {
         "label": "iMac (Mid, 2001)",
@@ -6029,13 +6279,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112501",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=113574&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "iMac G4",
     "generation": "iMac G4",
-    "releaseYear": 2002,
-    "discontinuedYear": 2003,
     "id": "imac-2002",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -6043,6 +6291,8 @@ window.APPLE_PRODUCTS = [
       "iMac G4",
       "iMac (2002)"
     ],
+    "releaseYear": 2002,
+    "discontinuedYear": 2003,
     "appleSupportLinks": [
       {
         "label": "iMac (2002)",
@@ -6090,13 +6340,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iMac (1Ghz): https://support.apple.com/en-us/112516\niMac (USB 2.0): https://support.apple.com/en-us/112313",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=117899&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "iMac G4",
     "generation": "iMac G4",
-    "releaseYear": 2003,
-    "discontinuedYear": 2004,
     "id": "imac-2003",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -6104,6 +6352,8 @@ window.APPLE_PRODUCTS = [
       "iMac G4",
       "iMac (2003)"
     ],
+    "releaseYear": 2003,
+    "discontinuedYear": 2004,
     "appleSupportLinks": [
       {
         "label": "iMac (1Ghz)",
@@ -6159,13 +6409,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112513",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=112793&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Education Macintosh",
     "subfamily": "eMac",
     "generation": "eMac",
-    "releaseYear": 2002,
-    "discontinuedYear": 2003,
     "id": "emac",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Education Macintosh",
@@ -6173,6 +6421,8 @@ window.APPLE_PRODUCTS = [
       "eMac",
       "eMac"
     ],
+    "releaseYear": 2002,
+    "discontinuedYear": 2003,
     "appleSupportLinks": [
       {
         "label": "eMac",
@@ -6220,13 +6470,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112544",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=119225&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Education Macintosh",
     "subfamily": "eMac",
     "generation": "eMac",
-    "releaseYear": 2003,
-    "discontinuedYear": 2004,
     "id": "emac-ati-graphics",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Education Macintosh",
@@ -6234,6 +6482,8 @@ window.APPLE_PRODUCTS = [
       "eMac",
       "eMac ATI Graphics"
     ],
+    "releaseYear": 2003,
+    "discontinuedYear": 2004,
     "appleSupportLinks": [
       {
         "label": "eMac ATI Graphics",
@@ -6281,13 +6531,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112451",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=124085&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Education Macintosh",
     "subfamily": "eMac",
     "generation": "eMac",
-    "releaseYear": 2004,
-    "discontinuedYear": 2005,
     "id": "emac-usb-2-0",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Education Macintosh",
@@ -6295,6 +6543,8 @@ window.APPLE_PRODUCTS = [
       "eMac",
       "eMac USB 2.0"
     ],
+    "releaseYear": 2004,
+    "discontinuedYear": 2005,
     "appleSupportLinks": [
       {
         "label": "eMac USB 2.0",
@@ -6342,13 +6592,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112521",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130469&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "Education Macintosh",
     "subfamily": "eMac",
     "generation": "eMac",
-    "releaseYear": 2005,
-    "discontinuedYear": 2006,
     "id": "emac-2005",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "Education Macintosh",
@@ -6356,6 +6604,8 @@ window.APPLE_PRODUCTS = [
       "eMac",
       "eMac (2005)"
     ],
+    "releaseYear": 2005,
+    "discontinuedYear": 2006,
     "appleSupportLinks": [
       {
         "label": "eMac (2005)",
@@ -6403,13 +6653,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112310",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130076&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "iMac G5",
     "generation": "iMac G5",
-    "releaseYear": 2004,
-    "discontinuedYear": 2005,
     "id": "imac-g5",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -6417,6 +6665,8 @@ window.APPLE_PRODUCTS = [
       "iMac G5",
       "iMac G5"
     ],
+    "releaseYear": 2004,
+    "discontinuedYear": 2005,
     "appleSupportLinks": [
       {
         "label": "iMac G5",
@@ -6464,13 +6714,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112556",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130498&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "iMac G5",
     "generation": "iMac G5",
-    "releaseYear": 2005,
-    "discontinuedYear": 2005,
     "id": "imac-g5-als",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -6478,6 +6726,8 @@ window.APPLE_PRODUCTS = [
       "iMac G5",
       "iMac G5 ALS"
     ],
+    "releaseYear": 2005,
+    "discontinuedYear": 2005,
     "appleSupportLinks": [
       {
         "label": "iMac G5 ALS",
@@ -6525,13 +6775,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112492",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130698&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "iMac G5",
     "generation": "iMac G5",
-    "releaseYear": 2005,
-    "discontinuedYear": 2006,
     "id": "imac-g5-isight",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -6539,6 +6787,8 @@ window.APPLE_PRODUCTS = [
       "iMac G5",
       "iMac G5 iSight"
     ],
+    "releaseYear": 2005,
+    "discontinuedYear": 2006,
     "appleSupportLinks": [
       {
         "label": "iMac G5 iSight",
@@ -6586,13 +6836,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112469",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130826&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "White iMac",
     "generation": "White iMac",
-    "releaseYear": 2006,
-    "discontinuedYear": 2006,
     "id": "imac-early-2006",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -6600,6 +6848,8 @@ window.APPLE_PRODUCTS = [
       "White iMac",
       "iMac (Early 2006)"
     ],
+    "releaseYear": 2006,
+    "discontinuedYear": 2006,
     "appleSupportLinks": [
       {
         "label": "iMac (Early 2006)",
@@ -6647,13 +6897,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112523",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131116&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "White iMac",
     "generation": "White iMac",
-    "releaseYear": 2006,
-    "discontinuedYear": 2007,
     "id": "imac-late-2006",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -6661,6 +6909,8 @@ window.APPLE_PRODUCTS = [
       "White iMac",
       "iMac (Late 2006)"
     ],
+    "releaseYear": 2006,
+    "discontinuedYear": 2007,
     "appleSupportLinks": [
       {
         "label": "iMac (Late 2006)",
@@ -6708,13 +6958,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112553",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131599&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Aluminum iMac",
     "generation": "Aluminum iMac",
-    "releaseYear": 2007,
-    "discontinuedYear": 2008,
     "id": "imac-mid-2007",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -6722,6 +6970,8 @@ window.APPLE_PRODUCTS = [
       "Aluminum iMac",
       "iMac (Mid 2007)"
     ],
+    "releaseYear": 2007,
+    "discontinuedYear": 2008,
     "appleSupportLinks": [
       {
         "label": "iMac (Mid 2007)",
@@ -6769,13 +7019,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112494",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131986&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Aluminum iMac",
     "generation": "Aluminum iMac",
-    "releaseYear": 2008,
-    "discontinuedYear": 2009,
     "id": "imac-early-2008",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -6783,6 +7031,8 @@ window.APPLE_PRODUCTS = [
       "Aluminum iMac",
       "iMac (Early 2008)"
     ],
+    "releaseYear": 2008,
+    "discontinuedYear": 2009,
     "appleSupportLinks": [
       {
         "label": "iMac (Early 2008)",
@@ -6830,13 +7080,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iMac (Early 2009): https://support.apple.com/en-us/112427\niMac (Mid 2009): https://support.apple.com/en-us/112423",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132294&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Aluminum iMac",
     "generation": "Aluminum iMac",
-    "releaseYear": 2009,
-    "discontinuedYear": 2009,
     "id": "imac-early-2009",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -6844,6 +7092,8 @@ window.APPLE_PRODUCTS = [
       "Aluminum iMac",
       "iMac (Early 2009)"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2009,
     "appleSupportLinks": [
       {
         "label": "iMac (Early 2009)",
@@ -6899,13 +7149,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iMac (21.5”): https://support.apple.com/en-us/112565\niMac (27”): https://support.apple.com/en-us/112564",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132699&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Aluminum iMac",
     "generation": "Aluminum iMac",
-    "releaseYear": 2009,
-    "discontinuedYear": 2010,
     "id": "imac-late-2009",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -6913,6 +7161,8 @@ window.APPLE_PRODUCTS = [
       "Aluminum iMac",
       "iMac (Late 2009)"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2010,
     "appleSupportLinks": [
       {
         "label": "iMac (21.5”)",
@@ -6968,13 +7218,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iMac (21.5”): https://support.apple.com/en-us/112567\niMac (27”): https://support.apple.com/en-us/112566",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132941&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Aluminum iMac",
     "generation": "Aluminum iMac",
-    "releaseYear": 2010,
-    "discontinuedYear": 2011,
     "id": "imac-mid-2010",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -6982,6 +7230,8 @@ window.APPLE_PRODUCTS = [
       "Aluminum iMac",
       "iMac (Mid 2010)"
     ],
+    "releaseYear": 2010,
+    "discontinuedYear": 2011,
     "appleSupportLinks": [
       {
         "label": "iMac (21.5”)",
@@ -7037,13 +7287,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iMac (21.5”): https://support.apple.com/en-us/111983\niMac (27”): https://support.apple.com/en-us/112569\niMac (Late 2011): https://support.apple.com/en-us/112596",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133282&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Aluminum iMac",
     "generation": "Aluminum iMac",
-    "releaseYear": 2011,
-    "discontinuedYear": 2012,
     "id": "imac-mid-2011",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -7051,6 +7299,8 @@ window.APPLE_PRODUCTS = [
       "Aluminum iMac",
       "iMac (Mid 2011)"
     ],
+    "releaseYear": 2011,
+    "discontinuedYear": 2012,
     "appleSupportLinks": [
       {
         "label": "iMac (21.5”)",
@@ -7114,13 +7364,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iMac (21.5”): https://support.apple.com/en-us/112435\niMac (27”): https://support.apple.com/en-us/112433",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133842&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Thin-Edge iMac",
     "generation": "Thin-Edge iMac",
-    "releaseYear": 2012,
-    "discontinuedYear": 2013,
     "id": "imac-late-2012",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -7128,13 +7376,15 @@ window.APPLE_PRODUCTS = [
       "Thin-Edge iMac",
       "iMac (Late 2012)"
     ],
+    "releaseYear": 2012,
+    "discontinuedYear": 2013,
     "appleSupportLinks": [
       {
-        "label": "iMac (Late 2012)",
+        "label": "iMac (21.5\")",
         "url": "https://support.apple.com/en-us/docs/mac/133842"
       },
       {
-        "label": "iMac (Late 2012)",
+        "label": "iMac (27\")",
         "url": "https://support.apple.com/en-us/docs/mac/133843"
       }
     ],
@@ -7183,13 +7433,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133982&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Thin-Edge iMac",
     "generation": "Thin-Edge iMac",
-    "releaseYear": 2013,
-    "discontinuedYear": 2013,
     "id": "imac-early-2013",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -7197,6 +7445,8 @@ window.APPLE_PRODUCTS = [
       "Thin-Edge iMac",
       "iMac (Early 2013)"
     ],
+    "releaseYear": 2013,
+    "discontinuedYear": 2013,
     "appleSupportLinks": [
       {
         "label": "iMac (Early 2013)",
@@ -7239,13 +7489,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iMac (21.5”): https://support.apple.com/en-us/111967\niMac (27”): https://support.apple.com/en-us/111970",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=134280&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Thin-Edge iMac",
     "generation": "Thin-Edge iMac",
-    "releaseYear": 2013,
-    "discontinuedYear": 2014,
     "id": "imac-late-2013",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -7253,13 +7501,15 @@ window.APPLE_PRODUCTS = [
       "Thin-Edge iMac",
       "iMac (Late 2013)"
     ],
+    "releaseYear": 2013,
+    "discontinuedYear": 2014,
     "appleSupportLinks": [
       {
         "label": "iMac (21.5\")",
         "url": "https://support.apple.com/en-us/docs/mac/134280"
       },
       {
-        "label": "iMac (Late 2013)",
+        "label": "iMac (27\")",
         "url": "https://support.apple.com/en-us/docs/mac/134281"
       }
     ],
@@ -7308,13 +7558,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112031",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=134642&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Thin-Edge iMac",
     "generation": "Thin-Edge iMac",
-    "releaseYear": 2014,
-    "discontinuedYear": 2015,
     "id": "imac-mid-2014",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -7322,6 +7570,8 @@ window.APPLE_PRODUCTS = [
       "Thin-Edge iMac",
       "iMac (Mid 2014)"
     ],
+    "releaseYear": 2014,
+    "discontinuedYear": 2015,
     "appleSupportLinks": [
       {
         "label": "iMac (Mid 2014)",
@@ -7369,13 +7619,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112436",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=135121&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Retina iMac",
     "generation": "Retina iMac",
-    "releaseYear": 2014,
-    "discontinuedYear": 2015,
     "id": "imac-retina-late-2014",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -7383,6 +7631,8 @@ window.APPLE_PRODUCTS = [
       "Retina iMac",
       "iMac (Retina, Late 2014)"
     ],
+    "releaseYear": 2014,
+    "discontinuedYear": 2015,
     "appleSupportLinks": [
       {
         "label": "iMac (Retina, Late 2014)",
@@ -7430,13 +7680,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112434",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=135391&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Retina iMac",
     "generation": "Retina iMac",
-    "releaseYear": 2015,
-    "discontinuedYear": 2015,
     "id": "imac-retina-mid-2015",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -7444,6 +7692,8 @@ window.APPLE_PRODUCTS = [
       "Retina iMac",
       "iMac (Retina, Mid 2015)"
     ],
+    "releaseYear": 2015,
+    "discontinuedYear": 2015,
     "appleSupportLinks": [
       {
         "label": "iMac (Retina, Mid 2015)",
@@ -7491,13 +7741,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iMac (21.5”): https://support.apple.com/en-us/112036\niMac (21.5” 4K): https://support.apple.com/en-us/112034\niMac (27” 5K): https://support.apple.com/en-us/112035",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300010&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Retina iMac",
     "generation": "Retina iMac",
-    "releaseYear": 2015,
-    "discontinuedYear": 2017,
     "id": "imac-late-2015",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -7505,6 +7753,8 @@ window.APPLE_PRODUCTS = [
       "Retina iMac",
       "iMac (Late 2015)"
     ],
+    "releaseYear": 2015,
+    "discontinuedYear": 2017,
     "appleSupportLinks": [
       {
         "label": "iMac (21.5\")",
@@ -7568,13 +7818,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iMac (21.5”): https://support.apple.com/en-us/111921\niMac (21.5” 4K): https://support.apple.com/en-us/112026\niMac (27” 5K): https://support.apple.com/en-us/111969",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=503494&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Retina iMac",
     "generation": "Retina iMac",
-    "releaseYear": 2017,
-    "discontinuedYear": 2019,
     "id": "imac-2017",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -7582,6 +7830,8 @@ window.APPLE_PRODUCTS = [
       "Retina iMac",
       "iMac (2017)"
     ],
+    "releaseYear": 2017,
+    "discontinuedYear": 2019,
     "appleSupportLinks": [
       {
         "label": "iMac (21.5\")",
@@ -7645,13 +7895,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111995",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=504513&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "iMac Pro",
     "generation": "iMac Pro",
-    "releaseYear": 2017,
-    "discontinuedYear": 2021,
     "id": "imac-pro",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -7659,6 +7907,8 @@ window.APPLE_PRODUCTS = [
       "iMac Pro",
       "iMac Pro"
     ],
+    "releaseYear": 2017,
+    "discontinuedYear": 2021,
     "appleSupportLinks": [
       {
         "label": "iMac Pro",
@@ -7706,13 +7956,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "Mac (21.5” 4K): https://support.apple.com/en-us/111963\niMac (27” 5K): https://support.apple.com/en-us/111998",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=506666&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Retina iMac",
     "generation": "Retina iMac",
-    "releaseYear": 2019,
-    "discontinuedYear": 2020,
     "id": "imac-retina-2019",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -7720,6 +7968,8 @@ window.APPLE_PRODUCTS = [
       "Retina iMac",
       "iMac (Retina, 2019)"
     ],
+    "releaseYear": 2019,
+    "discontinuedYear": 2020,
     "appleSupportLinks": [
       {
         "label": "iMac (21.5\" 4K)",
@@ -7775,13 +8025,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111913",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300198&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "Retina iMac",
     "generation": "Retina iMac",
-    "releaseYear": 2020,
-    "discontinuedYear": 2021,
     "id": "imac-retina-2020",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -7789,6 +8037,8 @@ window.APPLE_PRODUCTS = [
       "Retina iMac",
       "iMac (Retina, 2020)"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": 2021,
     "appleSupportLinks": [
       {
         "label": "iMac (Retina, 2020)",
@@ -7836,13 +8086,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111895",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300352&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "M-Series iMac",
     "generation": "M-Series iMac",
-    "releaseYear": 2021,
-    "discontinuedYear": 2023,
     "id": "imac-2021",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -7850,6 +8098,8 @@ window.APPLE_PRODUCTS = [
       "M-Series iMac",
       "iMac (2021)"
     ],
+    "releaseYear": 2021,
+    "discontinuedYear": 2023,
     "appleSupportLinks": [
       {
         "label": "iMac (2021)",
@@ -7897,13 +8147,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iMac (Two Ports): https://support.apple.com/en-us/117733\niMac (Four Ports): https://support.apple.com/en-us/117734",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301009&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "M-Series iMac",
     "generation": "M-Series iMac",
-    "releaseYear": 2023,
-    "discontinuedYear": 2024,
     "id": "imac-2023",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -7911,6 +8159,8 @@ window.APPLE_PRODUCTS = [
       "M-Series iMac",
       "iMac (2023)"
     ],
+    "releaseYear": 2023,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "iMac (Two Ports)",
@@ -7966,13 +8216,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iMac (Two Ports): https://support.apple.com/en-us/121556\niMac (Four Ports): https://support.apple.com/en-us/121557",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301065&size=240x240",
     "category": "All-in-One",
-    "museumCategory": "All-in-One",
     "family": "iMac",
     "subfamily": "M-Series iMac",
     "generation": "M-Series iMac",
-    "releaseYear": 2024,
-    "discontinuedYear": null,
     "id": "imac-2024",
+    "museumCategory": "All-in-One",
     "hierarchy": [
       "All-in-One",
       "iMac",
@@ -7980,6 +8228,8 @@ window.APPLE_PRODUCTS = [
       "M-Series iMac",
       "iMac (2024)"
     ],
+    "releaseYear": 2024,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "iMac (Two Ports)",
@@ -8033,15 +8283,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "Macintosh Portable",
     "Apple Support Links": "Earlier PowerBooks: https://support.apple.com/en-us/docs/mac/pp212",
     "Tech Spec Links": "https://support.apple.com/en-us/112154",
-    "Image Links": "",
+    "Image Links": "\"Images/Macintosh Portable.png\"",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "Macintosh",
     "subfamily": "Macintosh Portable",
     "generation": "Macintosh Portable",
-    "releaseYear": 1989,
-    "discontinuedYear": 1991,
     "id": "macintosh-portable",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "Macintosh",
@@ -8049,6 +8297,8 @@ window.APPLE_PRODUCTS = [
       "Macintosh Portable",
       "Macintosh Portable"
     ],
+    "releaseYear": 1989,
+    "discontinuedYear": 1991,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8061,8 +8311,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112154"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "Macintosh Portable",
+        "url": "Images/Macintosh Portable.png"
+      }
+    ],
+    "imageUrl": "Images/Macintosh Portable.png"
   },
   {
     "Product Name": "PowerBook 100",
@@ -8089,15 +8344,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "PowerBook",
     "Apple Support Links": "Earlier PowerBooks: https://support.apple.com/en-us/docs/mac/pp212",
     "Tech Spec Links": "https://support.apple.com/en-us/112153",
-    "Image Links": "",
+    "Image Links": "\"Images/PowerBook 100.png\"",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook",
     "generation": "PowerBook",
-    "releaseYear": 1991,
-    "discontinuedYear": 1992,
     "id": "powerbook-100",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8105,6 +8358,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook",
       "PowerBook 100"
     ],
+    "releaseYear": 1991,
+    "discontinuedYear": 1992,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8117,8 +8372,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112153"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "PowerBook 100",
+        "url": "Images/PowerBook 100.png"
+      }
+    ],
+    "imageUrl": "Images/PowerBook 100.png"
   },
   {
     "Product Name": "PowerBook 140",
@@ -8145,15 +8405,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "PowerBook",
     "Apple Support Links": "Earlier PowerBooks: https://support.apple.com/en-us/docs/mac/pp212",
     "Tech Spec Links": "https://support.apple.com/en-us/112155",
-    "Image Links": "",
+    "Image Links": "\"Images/PowerBook 140.png\"",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook",
     "generation": "PowerBook",
-    "releaseYear": 1991,
-    "discontinuedYear": 1992,
     "id": "powerbook-140",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8161,6 +8419,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook",
       "PowerBook 140"
     ],
+    "releaseYear": 1991,
+    "discontinuedYear": 1992,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8173,8 +8433,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112155"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "PowerBook 140",
+        "url": "Images/PowerBook 140.png"
+      }
+    ],
+    "imageUrl": "Images/PowerBook 140.png"
   },
   {
     "Product Name": "PowerBook 170",
@@ -8201,15 +8466,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "PowerBook",
     "Apple Support Links": "Earlier PowerBooks: https://support.apple.com/en-us/docs/mac/pp212",
     "Tech Spec Links": "https://support.apple.com/en-us/112146",
-    "Image Links": "",
+    "Image Links": "\"Images/PowerBook 170.png\"",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook",
     "generation": "PowerBook",
-    "releaseYear": 1991,
-    "discontinuedYear": 1992,
     "id": "powerbook-170",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8217,6 +8480,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook",
       "PowerBook 170"
     ],
+    "releaseYear": 1991,
+    "discontinuedYear": 1992,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8229,8 +8494,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112146"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "PowerBook 170",
+        "url": "Images/PowerBook 170.png"
+      }
+    ],
+    "imageUrl": "Images/PowerBook 170.png"
   },
   {
     "Product Name": "PowerBook Duo 210",
@@ -8259,13 +8529,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112141",
     "Image Links": "",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook Duo",
     "generation": "PowerBook Duo",
-    "releaseYear": 1992,
-    "discontinuedYear": 1993,
     "id": "powerbook-duo-210",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8273,6 +8541,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook Duo",
       "PowerBook Duo 210"
     ],
+    "releaseYear": 1992,
+    "discontinuedYear": 1993,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8313,15 +8583,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "PowerBook Duo",
     "Apple Support Links": "Earlier PowerBooks: https://support.apple.com/en-us/docs/mac/pp212",
     "Tech Spec Links": "https://support.apple.com/en-us/112142",
-    "Image Links": "",
+    "Image Links": "\"Images/PowerBook Duo 230.png\"",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook Duo",
     "generation": "PowerBook Duo",
-    "releaseYear": 1992,
-    "discontinuedYear": 1994,
     "id": "powerbook-duo-230",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8329,6 +8597,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook Duo",
       "PowerBook Duo 230"
     ],
+    "releaseYear": 1992,
+    "discontinuedYear": 1994,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8341,8 +8611,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112142"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "PowerBook Duo 230",
+        "url": "Images/PowerBook Duo 230.png"
+      }
+    ],
+    "imageUrl": "Images/PowerBook Duo 230.png"
   },
   {
     "Product Name": "PowerBook Duo 250",
@@ -8369,15 +8644,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "PowerBook Duo",
     "Apple Support Links": "Earlier PowerBooks: https://support.apple.com/en-us/docs/mac/pp212",
     "Tech Spec Links": "https://support.apple.com/en-us/112138",
-    "Image Links": "",
+    "Image Links": "\"Images/PowerBook Duo 250.png\"",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook Duo",
     "generation": "PowerBook Duo",
-    "releaseYear": 1993,
-    "discontinuedYear": 1994,
     "id": "powerbook-duo-250",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8385,6 +8658,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook Duo",
       "PowerBook Duo 250"
     ],
+    "releaseYear": 1993,
+    "discontinuedYear": 1994,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8397,8 +8672,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112138"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "PowerBook Duo 250",
+        "url": "Images/PowerBook Duo 250.png"
+      }
+    ],
+    "imageUrl": "Images/PowerBook Duo 250.png"
   },
   {
     "Product Name": "PowerBook Duo 270c",
@@ -8425,15 +8705,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "PowerBook Duo",
     "Apple Support Links": "Earlier PowerBooks: https://support.apple.com/en-us/docs/mac/pp212",
     "Tech Spec Links": "https://support.apple.com/en-us/112139",
-    "Image Links": "",
+    "Image Links": "\"Images/PowerBook Duo 270c.png\"",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook Duo",
     "generation": "PowerBook Duo",
-    "releaseYear": 1993,
-    "discontinuedYear": 1994,
     "id": "powerbook-duo-270c",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8441,6 +8719,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook Duo",
       "PowerBook Duo 270c"
     ],
+    "releaseYear": 1993,
+    "discontinuedYear": 1994,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8453,8 +8733,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112139"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "PowerBook Duo 270c",
+        "url": "Images/PowerBook Duo 270c.png"
+      }
+    ],
+    "imageUrl": "Images/PowerBook Duo 270c.png"
   },
   {
     "Product Name": "PowerBook Duo 280",
@@ -8483,13 +8768,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112140",
     "Image Links": "",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook Duo",
     "generation": "PowerBook Duo",
-    "releaseYear": 1994,
-    "discontinuedYear": 1996,
     "id": "powerbook-duo-280",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8497,6 +8780,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook Duo",
       "PowerBook Duo 280"
     ],
+    "releaseYear": 1994,
+    "discontinuedYear": 1996,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8539,13 +8824,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112137",
     "Image Links": "",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook Duo",
     "generation": "PowerBook Duo",
-    "releaseYear": 1994,
-    "discontinuedYear": 1996,
     "id": "powerbook-duo-280c",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8553,6 +8836,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook Duo",
       "PowerBook Duo 280c"
     ],
+    "releaseYear": 1994,
+    "discontinuedYear": 1996,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8593,15 +8878,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "PowerBook Duo",
     "Apple Support Links": "Earlier PowerBooks: https://support.apple.com/en-us/docs/mac/pp212",
     "Tech Spec Links": "https://support.apple.com/en-us/112165",
-    "Image Links": "",
+    "Image Links": "\"Images/PowerBook Duo 2300c.png\"",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook Duo",
     "generation": "PowerBook Duo",
-    "releaseYear": 1995,
-    "discontinuedYear": 1997,
     "id": "powerbook-duo-2300c",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8609,6 +8892,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook Duo",
       "PowerBook Duo 2300c"
     ],
+    "releaseYear": 1995,
+    "discontinuedYear": 1997,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8621,8 +8906,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112165"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "PowerBook Duo 2300c",
+        "url": "Images/PowerBook Duo 2300c.png"
+      }
+    ],
+    "imageUrl": "Images/PowerBook Duo 2300c.png"
   },
   {
     "Product Name": "PowerBook 500",
@@ -8649,15 +8939,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "PowerBook",
     "Apple Support Links": "Earlier PowerBooks: https://support.apple.com/en-us/docs/mac/pp212",
     "Tech Spec Links": "https://support.apple.com/en-us/112157",
-    "Image Links": "",
+    "Image Links": "\"Images/PowerBook 500.png\"",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook",
     "generation": "PowerBook",
-    "releaseYear": 1994,
-    "discontinuedYear": 1996,
     "id": "powerbook-500",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8665,6 +8953,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook",
       "PowerBook 500"
     ],
+    "releaseYear": 1994,
+    "discontinuedYear": 1996,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8677,8 +8967,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112157"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "PowerBook 500",
+        "url": "Images/PowerBook 500.png"
+      }
+    ],
+    "imageUrl": "Images/PowerBook 500.png"
   },
   {
     "Product Name": "PowerBook 5300",
@@ -8705,15 +9000,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "PowerBook",
     "Apple Support Links": "Earlier PowerBooks: https://support.apple.com/en-us/docs/mac/pp212",
     "Tech Spec Links": "https://support.apple.com/en-us/112169",
-    "Image Links": "",
+    "Image Links": "\"Images/PowerBook 5300.png\"",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook",
     "generation": "PowerBook",
-    "releaseYear": 1995,
-    "discontinuedYear": 1996,
     "id": "powerbook-5300",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8721,6 +9014,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook",
       "PowerBook 5300"
     ],
+    "releaseYear": 1995,
+    "discontinuedYear": 1996,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8733,8 +9028,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112169"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "PowerBook 5300",
+        "url": "Images/PowerBook 5300.png"
+      }
+    ],
+    "imageUrl": "Images/PowerBook 5300.png"
   },
   {
     "Product Name": "PowerBook 1400",
@@ -8761,15 +9061,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "PowerBook",
     "Apple Support Links": "Earlier PowerBooks: https://support.apple.com/en-us/docs/mac/pp212",
     "Tech Spec Links": "https://support.apple.com/en-us/112158\nhttps://support.apple.com/en-us/112161\nhttps://support.apple.com/en-us/112162\nhttps://support.apple.com/en-us/112159\nhttps://support.apple.com/en-us/112164\nhttps://support.apple.com/en-us/112163",
-    "Image Links": "",
+    "Image Links": "\"Images/PowerBook 1400.png\"",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook",
     "generation": "PowerBook",
-    "releaseYear": 1996,
-    "discontinuedYear": 1998,
     "id": "powerbook-1400",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8777,6 +9075,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook",
       "PowerBook 1400"
     ],
+    "releaseYear": 1996,
+    "discontinuedYear": 1998,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8809,8 +9109,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112163"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "PowerBook 1400",
+        "url": "Images/PowerBook 1400.png"
+      }
+    ],
+    "imageUrl": "Images/PowerBook 1400.png"
   },
   {
     "Product Name": "PowerBook 3400",
@@ -8837,15 +9142,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "PowerBook",
     "Apple Support Links": "Earlier PowerBooks: https://support.apple.com/en-us/docs/mac/pp212",
     "Tech Spec Links": "https://support.apple.com/en-us/112166\nhttps://support.apple.com/en-us/112167",
-    "Image Links": "",
+    "Image Links": "\"Images/PowerBook 3400.png\"",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook",
     "generation": "PowerBook",
-    "releaseYear": 1997,
-    "discontinuedYear": 1998,
     "id": "powerbook-3400",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8853,6 +9156,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook",
       "PowerBook 3400"
     ],
+    "releaseYear": 1997,
+    "discontinuedYear": 1998,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8869,8 +9174,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112167"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "PowerBook 3400",
+        "url": "Images/PowerBook 3400.png"
+      }
+    ],
+    "imageUrl": "Images/PowerBook 3400.png"
   },
   {
     "Product Name": "PowerBook G3 Kanga",
@@ -8897,15 +9207,13 @@ window.APPLE_PRODUCTS = [
     "Subfamily": "PowerBook G3",
     "Apple Support Links": "Earlier PowerBooks: https://support.apple.com/en-us/docs/mac/pp212",
     "Tech Spec Links": "https://support.apple.com/en-us/112176",
-    "Image Links": "",
+    "Image Links": "\"Images/PowerBook G3 Kanga.png\"",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook G3",
     "generation": "PowerBook G3",
-    "releaseYear": 1997,
-    "discontinuedYear": 1998,
     "id": "powerbook-g3-kanga",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8913,6 +9221,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook G3",
       "PowerBook G3 Kanga"
     ],
+    "releaseYear": 1997,
+    "discontinuedYear": 1998,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -8925,8 +9235,13 @@ window.APPLE_PRODUCTS = [
         "url": "https://support.apple.com/en-us/112176"
       }
     ],
-    "imageLinks": [],
-    "imageUrl": ""
+    "imageLinks": [
+      {
+        "label": "PowerBook G3 Kanga",
+        "url": "Images/PowerBook G3 Kanga.png"
+      }
+    ],
+    "imageUrl": "Images/PowerBook G3 Kanga.png"
   },
   {
     "Product Name": "PowerBook G3 Wallstreet",
@@ -8955,13 +9270,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112174",
     "Image Links": "",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook G3",
     "generation": "PowerBook G3",
-    "releaseYear": 1998,
-    "discontinuedYear": 1999,
     "id": "powerbook-g3-wallstreet",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -8969,6 +9282,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook G3",
       "PowerBook G3 Wallstreet"
     ],
+    "releaseYear": 1998,
+    "discontinuedYear": 1999,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -9011,13 +9326,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112180",
     "Image Links": "",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook G3",
     "generation": "PowerBook G3",
-    "releaseYear": 1999,
-    "discontinuedYear": 2000,
     "id": "powerbook-g3-lombard",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -9025,6 +9338,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook G3",
       "PowerBook G3 Lombard"
     ],
+    "releaseYear": 1999,
+    "discontinuedYear": 2000,
     "appleSupportLinks": [
       {
         "label": "Earlier PowerBooks",
@@ -9067,13 +9382,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112178",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=8248&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook G3",
     "generation": "PowerBook G3",
-    "releaseYear": 2000,
-    "discontinuedYear": 2001,
     "id": "powerbook-g3-pismo",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -9081,6 +9394,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook G3",
       "PowerBook G3 Pismo"
     ],
+    "releaseYear": 2000,
+    "discontinuedYear": 2001,
     "appleSupportLinks": [
       {
         "label": "PowerBook G3 Pismo",
@@ -9128,13 +9443,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112550",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=8439&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "iBook",
     "subfamily": "iBook G3",
     "generation": "iBook G3",
-    "releaseYear": 1999,
-    "discontinuedYear": 2001,
     "id": "ibook-clamshell",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "iBook",
@@ -9142,6 +9455,8 @@ window.APPLE_PRODUCTS = [
       "iBook G3",
       "iBook Clamshell"
     ],
+    "releaseYear": 1999,
+    "discontinuedYear": 2001,
     "appleSupportLinks": [
       {
         "label": "iBook Clamshell",
@@ -9189,13 +9504,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112547",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=109592&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "iBook",
     "subfamily": "iBook G3",
     "generation": "iBook G3",
-    "releaseYear": 2001,
-    "discontinuedYear": 2002,
     "id": "ibook-dual-usb",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "iBook",
@@ -9203,6 +9516,8 @@ window.APPLE_PRODUCTS = [
       "iBook G3",
       "iBook Dual USB"
     ],
+    "releaseYear": 2001,
+    "discontinuedYear": 2002,
     "appleSupportLinks": [
       {
         "label": "iBook Dual USB",
@@ -9250,13 +9565,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iBook: https://support.apple.com/en-us/112485\niBook (16 VRAM): https://support.apple.com/en-us/112540\niBook (32 VRAM): https://support.apple.com/en-us/112538\niBook (900 MHZ 32 VRAM): https://support.apple.com/en-us/112475",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=111795&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "iBook",
     "subfamily": "iBook G3",
     "generation": "iBook G3",
-    "releaseYear": 2002,
-    "discontinuedYear": 2003,
     "id": "ibook-14-1-lcd",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "iBook",
@@ -9264,6 +9577,8 @@ window.APPLE_PRODUCTS = [
       "iBook G3",
       "iBook 14.1 LCD"
     ],
+    "releaseYear": 2002,
+    "discontinuedYear": 2003,
     "appleSupportLinks": [
       {
         "label": "iBook",
@@ -9335,13 +9650,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112464",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=121579&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "iBook",
     "subfamily": "iBook G4",
     "generation": "iBook G4",
-    "releaseYear": 2003,
-    "discontinuedYear": 2004,
     "id": "ibook-g4",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "iBook",
@@ -9349,6 +9662,8 @@ window.APPLE_PRODUCTS = [
       "iBook G4",
       "iBook G4"
     ],
+    "releaseYear": 2003,
+    "discontinuedYear": 2004,
     "appleSupportLinks": [
       {
         "label": "iBook G4",
@@ -9396,13 +9711,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112311",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=124181&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "iBook",
     "subfamily": "iBook G4",
     "generation": "iBook G4",
-    "releaseYear": 2004,
-    "discontinuedYear": 2004,
     "id": "ibook-g4-early-2004",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "iBook",
@@ -9410,6 +9723,8 @@ window.APPLE_PRODUCTS = [
       "iBook G4",
       "iBook G4 (Early 2004)"
     ],
+    "releaseYear": 2004,
+    "discontinuedYear": 2004,
     "appleSupportLinks": [
       {
         "label": "iBook G4 (Early 2004)",
@@ -9457,13 +9772,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112448",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130159&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "iBook",
     "subfamily": "iBook G4",
     "generation": "iBook G4",
-    "releaseYear": 2004,
-    "discontinuedYear": 2005,
     "id": "ibook-g4-late-2004",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "iBook",
@@ -9471,6 +9784,8 @@ window.APPLE_PRODUCTS = [
       "iBook G4",
       "iBook G4 (Late 2004)"
     ],
+    "releaseYear": 2004,
+    "discontinuedYear": 2005,
     "appleSupportLinks": [
       {
         "label": "iBook G4 (Late 2004)",
@@ -9518,13 +9833,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112480",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130623&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "iBook",
     "subfamily": "iBook G4",
     "generation": "iBook G4",
-    "releaseYear": 2005,
-    "discontinuedYear": 2006,
     "id": "ibook-g4-mid-2005",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "iBook",
@@ -9532,6 +9845,8 @@ window.APPLE_PRODUCTS = [
       "iBook G4",
       "iBook G4 (Mid 2005)"
     ],
+    "releaseYear": 2005,
+    "discontinuedYear": 2006,
     "appleSupportLinks": [
       {
         "label": "iBook G4 (Mid 2005)",
@@ -9579,13 +9894,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "PowerBook G4: https://support.apple.com/en-us/112452\nPowerBook G4 (Gigabit Ethernet): https://support.apple.com/en-us/112487",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=108912&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook G4",
     "generation": "PowerBook G4",
-    "releaseYear": 2001,
-    "discontinuedYear": 2003,
     "id": "titanium-powerbook-g4",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -9593,6 +9906,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook G4",
       "Titanium PowerBook G4"
     ],
+    "releaseYear": 2001,
+    "discontinuedYear": 2003,
     "appleSupportLinks": [
       {
         "label": "PowerBook G4",
@@ -9648,13 +9963,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "PowerBook G4 (DVI): https://support.apple.com/en-us/112483\nPowerBook G4 (1GHz): https://support.apple.com/en-us/112471",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=112775&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook G4",
     "generation": "PowerBook G4",
-    "releaseYear": 2002,
-    "discontinuedYear": 2003,
     "id": "powerbook-g4-dvi",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -9662,6 +9975,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook G4",
       "PowerBook G4 DVI"
     ],
+    "releaseYear": 2002,
+    "discontinuedYear": 2003,
     "appleSupportLinks": [
       {
         "label": "PowerBook G4 (DVI)",
@@ -9717,13 +10032,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "PowerBook G4 (12”): https://support.apple.com/en-us/112559\nPowerBook G4 (12” DVI): https://support.apple.com/en-us/112529\nPowerBook G4 (15”): https://support.apple.com/en-us/112542\nPowerBook G4 (17”): https://support.apple.com/en-us/112457\nPowerBook G4 (17” 1.33 GHz): https://support.apple.com/en-us/112543",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=117207&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook G4",
     "generation": "PowerBook G4",
-    "releaseYear": 2003,
-    "discontinuedYear": 2004,
     "id": "powerbook-g4-2003",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -9731,6 +10044,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook G4",
       "PowerBook G4 (2003)"
     ],
+    "releaseYear": 2003,
+    "discontinuedYear": 2004,
     "appleSupportLinks": [
       {
         "label": "PowerBook G4 (12”)",
@@ -9810,13 +10125,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "PowerBook G4 (12”): https://support.apple.com/en-us/112514\nPowerBook G4 (15”): https://support.apple.com/en-us/112499\nPowerBook G4 (17”): https://support.apple.com/en-us/112500",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=124176&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook G4",
     "generation": "PowerBook G4",
-    "releaseYear": 2004,
-    "discontinuedYear": 2005,
     "id": "powerbook-g4-2004",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -9824,6 +10137,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook G4",
       "PowerBook G4 (2004)"
     ],
+    "releaseYear": 2004,
+    "discontinuedYear": 2005,
     "appleSupportLinks": [
       {
         "label": "PowerBook G4 (12”)",
@@ -9887,13 +10202,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "PowerBook G4 (12”): https://support.apple.com/en-us/112537\nPowerBook G4 (15”): https://support.apple.com/en-us/docs/mac/130325\nPowerBook G4 (15” Double-Layer SD): https://support.apple.com/en-us/docs/mac/130722\nPowerBook G4 (17”): https://support.apple.com/en-us/docs/mac/130324\nPowerBook G4 (17” Double-Layer SD): https://support.apple.com/en-us/112490",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130323&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "PowerBook",
     "subfamily": "PowerBook G4",
     "generation": "PowerBook G4",
-    "releaseYear": 2005,
-    "discontinuedYear": 2006,
     "id": "powerbook-g4-2005",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "PowerBook",
@@ -9901,6 +10214,8 @@ window.APPLE_PRODUCTS = [
       "PowerBook G4",
       "PowerBook G4 (2005)"
     ],
+    "releaseYear": 2005,
+    "discontinuedYear": 2006,
     "appleSupportLinks": [
       {
         "label": "PowerBook G4 (12”)",
@@ -9980,13 +10295,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (original): https://support.apple.com/en-us/112481\nMacBook Pro (15”): https://support.apple.com/en-us/112535\nMacBook Pro (17”): https://support.apple.com/en-us/112536",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130844&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2006,
-    "discontinuedYear": 2006,
     "id": "macbook-pro",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -9994,6 +10307,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro"
     ],
+    "releaseYear": 2006,
+    "discontinuedYear": 2006,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (original)",
@@ -10057,13 +10372,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112511",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130972&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook",
     "generation": "MacBook",
-    "releaseYear": 2006,
-    "discontinuedYear": 2006,
     "id": "macbook",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -10071,6 +10384,8 @@ window.APPLE_PRODUCTS = [
       "MacBook",
       "MacBook"
     ],
+    "releaseYear": 2006,
+    "discontinuedYear": 2006,
     "appleSupportLinks": [
       {
         "label": "MacBook",
@@ -10118,13 +10433,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112522",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131259&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook",
     "generation": "MacBook",
-    "releaseYear": 2006,
-    "discontinuedYear": 2007,
     "id": "macbook-late-2006",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -10132,6 +10445,8 @@ window.APPLE_PRODUCTS = [
       "MacBook",
       "MacBook (Late 2006)"
     ],
+    "releaseYear": 2006,
+    "discontinuedYear": 2007,
     "appleSupportLinks": [
       {
         "label": "MacBook (Late 2006)",
@@ -10179,13 +10494,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112489",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131206&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2006,
-    "discontinuedYear": 2007,
     "id": "macbook-pro-late-2006",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -10193,6 +10506,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Late 2006)"
     ],
+    "releaseYear": 2006,
+    "discontinuedYear": 2007,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (Late 2006)",
@@ -10240,13 +10555,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112554",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131429&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook",
     "generation": "MacBook",
-    "releaseYear": 2007,
-    "discontinuedYear": 2007,
     "id": "macbook-mid-2007",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -10254,6 +10567,8 @@ window.APPLE_PRODUCTS = [
       "MacBook",
       "MacBook (Mid 2007)"
     ],
+    "releaseYear": 2007,
+    "discontinuedYear": 2007,
     "appleSupportLinks": [
       {
         "label": "MacBook (Mid 2007)",
@@ -10301,13 +10616,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112488",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131712&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook",
     "generation": "MacBook",
-    "releaseYear": 2007,
-    "discontinuedYear": 2008,
     "id": "macbook-late-2007",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -10315,6 +10628,8 @@ window.APPLE_PRODUCTS = [
       "MacBook",
       "MacBook (Late 2007)"
     ],
+    "releaseYear": 2007,
+    "discontinuedYear": 2008,
     "appleSupportLinks": [
       {
         "label": "MacBook (Late 2007)",
@@ -10362,13 +10677,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (Mid 2007): https://support.apple.com/en-us/112453\nMacBook Pro (Late 2007): https://support.apple.com/en-us/112519",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PP214&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2007,
-    "discontinuedYear": 2008,
     "id": "macbook-pro-mid-2007",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -10376,6 +10689,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Mid 2007)"
     ],
+    "releaseYear": 2007,
+    "discontinuedYear": 2008,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (Mid 2007)",
@@ -10431,13 +10746,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112467",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131916&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook",
     "generation": "MacBook",
-    "releaseYear": 2008,
-    "discontinuedYear": 2008,
     "id": "macbook-early-2008",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -10445,6 +10758,8 @@ window.APPLE_PRODUCTS = [
       "MacBook",
       "MacBook (Early 2008)"
     ],
+    "releaseYear": 2008,
+    "discontinuedYear": 2008,
     "appleSupportLinks": [
       {
         "label": "MacBook (Early 2008)",
@@ -10492,13 +10807,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook: https://support.apple.com/en-us/112467\nMacBook (Aluminum): https://support.apple.com/en-us/112512",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132132&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook",
     "generation": "MacBook",
-    "releaseYear": 2008,
-    "discontinuedYear": 2009,
     "id": "macbook-late-2008",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -10506,6 +10819,8 @@ window.APPLE_PRODUCTS = [
       "MacBook",
       "MacBook (Late 2008)"
     ],
+    "releaseYear": 2008,
+    "discontinuedYear": 2009,
     "appleSupportLinks": [
       {
         "label": "MacBook",
@@ -10561,13 +10876,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112533",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131826&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2008,
-    "discontinuedYear": 2008,
     "id": "macbook-air",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -10575,6 +10888,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air"
     ],
+    "releaseYear": 2008,
+    "discontinuedYear": 2008,
     "appleSupportLinks": [
       {
         "label": "MacBook Air",
@@ -10622,13 +10937,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112447",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132154&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2008,
-    "discontinuedYear": 2009,
     "id": "macbook-air-late-2008",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -10636,6 +10949,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (Late 2008)"
     ],
+    "releaseYear": 2008,
+    "discontinuedYear": 2009,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (Late 2008)",
@@ -10683,13 +10998,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131896&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2008,
-    "discontinuedYear": 2008,
     "id": "macbook-pro-early-2008",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -10697,6 +11010,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Early 2008)"
     ],
+    "releaseYear": 2008,
+    "discontinuedYear": 2008,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (15\")",
@@ -10743,13 +11058,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112526",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132121&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2008,
-    "discontinuedYear": 2009,
     "id": "macbook-pro-late-2008",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -10757,6 +11070,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Late 2008)"
     ],
+    "releaseYear": 2008,
+    "discontinuedYear": 2009,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (15\")",
@@ -10808,13 +11123,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111344",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132252&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook",
     "generation": "MacBook",
-    "releaseYear": 2009,
-    "discontinuedYear": 2009,
     "id": "macbook-early-2009",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -10822,6 +11135,8 @@ window.APPLE_PRODUCTS = [
       "MacBook",
       "MacBook (Early 2009)"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2009,
     "appleSupportLinks": [
       {
         "label": "MacBook (Early 2009)",
@@ -10869,13 +11184,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112459",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132475&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook",
     "generation": "MacBook",
-    "releaseYear": 2009,
-    "discontinuedYear": 2009,
     "id": "macbook-mid-2009",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -10883,6 +11196,8 @@ window.APPLE_PRODUCTS = [
       "MacBook",
       "MacBook (Mid 2009)"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2009,
     "appleSupportLinks": [
       {
         "label": "MacBook (Mid 2009)",
@@ -10930,13 +11245,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112623",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132689&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook",
     "generation": "MacBook",
-    "releaseYear": 2009,
-    "discontinuedYear": 2010,
     "id": "macbook-late-2009",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -10944,6 +11257,8 @@ window.APPLE_PRODUCTS = [
       "MacBook",
       "MacBook (Late 2009)"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2010,
     "appleSupportLinks": [
       {
         "label": "MacBook (Late 2009)",
@@ -10991,13 +11306,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112533",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131826&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2009,
-    "discontinuedYear": 2010,
     "id": "macbook-air-mid-2009",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -11005,6 +11318,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (Mid 2009)"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2010,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (Mid 2009)",
@@ -11052,13 +11367,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (13”): https://support.apple.com/en-us/112474\nMacBook Pro (15\"): https://support.apple.com/en-us/112624\nMacBook Pro (17”, Early 2009): https://support.apple.com/en-us/112526\nMacBook Pro (17”, Mid 2009): https://support.apple.com/en-us/112473",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132499&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2009,
-    "discontinuedYear": 2010,
     "id": "macbook-pro-early-mid-2009",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -11066,6 +11379,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Early-Mid 2009)"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2010,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (13”)",
@@ -11137,13 +11452,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112581",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132896&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook",
     "generation": "MacBook",
-    "releaseYear": 2010,
-    "discontinuedYear": 2011,
     "id": "macbook-mid-2010",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -11151,6 +11464,8 @@ window.APPLE_PRODUCTS = [
       "MacBook",
       "MacBook (Mid 2010)"
     ],
+    "releaseYear": 2010,
+    "discontinuedYear": 2011,
     "appleSupportLinks": [
       {
         "label": "MacBook (Mid 2010)",
@@ -11198,13 +11513,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Air (11”): https://support.apple.com/en-us/112580\nMacBook Air (13”): https://support.apple.com/en-us/112585",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133091&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2010,
-    "discontinuedYear": 2011,
     "id": "macbook-air-late-2010",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -11212,6 +11525,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (Late 2010)"
     ],
+    "releaseYear": 2010,
+    "discontinuedYear": 2011,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (11”)",
@@ -11267,13 +11582,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (13”): https://support.apple.com/en-us/112604\nMacBook Pro (15\"): https://support.apple.com/en-us/112605\nMacBook Pro (17”): https://support.apple.com/en-us/112606",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132826&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2010,
-    "discontinuedYear": 2011,
     "id": "macbook-pro-mid-2010",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -11281,6 +11594,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Mid 2010)"
     ],
+    "releaseYear": 2010,
+    "discontinuedYear": 2011,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (13”)",
@@ -11344,13 +11659,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Air (11”): https://support.apple.com/en-us/112439\nMacBook Air (13”): https://support.apple.com/en-us/112038",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133337&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2011,
-    "discontinuedYear": 2012,
     "id": "macbook-air-mid-2011",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -11358,6 +11671,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (Mid 2011)"
     ],
+    "releaseYear": 2011,
+    "discontinuedYear": 2012,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (11”)",
@@ -11413,13 +11728,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (13”): https://support.apple.com/en-us/112600\nMacBook Pro (15\"): https://support.apple.com/en-us/112599\nMacBook Pro (17”): https://support.apple.com/en-us/112598",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133185&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2011,
-    "discontinuedYear": 2011,
     "id": "macbook-pro-early-2011",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -11427,6 +11740,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Early 2011)"
     ],
+    "releaseYear": 2011,
+    "discontinuedYear": 2011,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (13”)",
@@ -11490,13 +11805,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (13”): https://support.apple.com/en-us/111341\nMacBook Pro (15\"): https://support.apple.com/en-us/112586\nMacBook Pro (17”): https://support.apple.com/en-us/112418",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133515&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2011,
-    "discontinuedYear": 2012,
     "id": "macbook-pro-late-2011",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -11504,6 +11817,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Late 2011)"
     ],
+    "releaseYear": 2011,
+    "discontinuedYear": 2012,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (13”)",
@@ -11567,13 +11882,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Air (11”): https://support.apple.com/en-us/112008\nMacBook Air (13”): https://support.apple.com/en-us/111966",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133641&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2012,
-    "discontinuedYear": 2013,
     "id": "macbook-air-mid-2012",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -11581,6 +11894,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (Mid 2012)"
     ],
+    "releaseYear": 2012,
+    "discontinuedYear": 2013,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (11”)",
@@ -11636,13 +11951,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (13”): https://support.apple.com/en-us/111958\nMacBook Pro (13” Retina): https://support.apple.com/en-us/118463\nMacBook Pro (15\"): https://support.apple.com/en-us/112568\nMacBook Pro (15\" Retina): https://support.apple.com/en-us/112576",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133841&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2012,
-    "discontinuedYear": 2016,
     "id": "macbook-pro-mid-late-2012",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -11650,6 +11963,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Mid-Late 2012)"
     ],
+    "releaseYear": 2012,
+    "discontinuedYear": 2016,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (13”)",
@@ -11721,13 +12036,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Air (11”): https://support.apple.com/en-us/112437\nMacBook Air (13”): https://support.apple.com/en-us/111938",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=134026&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2013,
-    "discontinuedYear": 2014,
     "id": "macbook-air-mid-2013",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -11735,6 +12048,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (Mid 2013)"
     ],
+    "releaseYear": 2013,
+    "discontinuedYear": 2014,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (11”)",
@@ -11790,13 +12105,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (13”): https://support.apple.com/en-us/118466\nMacBook Pro (15\"): https://support.apple.com/en-us/118465",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133953&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2013,
-    "discontinuedYear": 2013,
     "id": "macbook-pro-early-2013",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -11804,6 +12117,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Early 2013)"
     ],
+    "releaseYear": 2013,
+    "discontinuedYear": 2013,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (13”)",
@@ -11859,13 +12174,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (13”): https://support.apple.com/en-us/111946\nMacBook Pro (15\"): https://support.apple.com/en-us/111971",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=134325&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2013,
-    "discontinuedYear": 2014,
     "id": "macbook-pro-late-2013",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -11873,6 +12186,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Late 2013)"
     ],
+    "releaseYear": 2013,
+    "discontinuedYear": 2014,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (13”)",
@@ -11928,13 +12243,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Air (11”): https://support.apple.com/en-us/112032\nMacBook Air (13”): https://support.apple.com/en-us/111944",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=134557&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2014,
-    "discontinuedYear": 2015,
     "id": "macbook-air-early-2014",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -11942,6 +12255,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (Early 2014)"
     ],
+    "releaseYear": 2014,
+    "discontinuedYear": 2015,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (11”)",
@@ -11997,13 +12312,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (13”): https://support.apple.com/en-us/111942\nMacBook Pro (15\"): https://support.apple.com/en-us/111935",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=134681&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2014,
-    "discontinuedYear": 2015,
     "id": "macbook-pro-mid-2014",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -12011,6 +12324,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Mid 2014)"
     ],
+    "releaseYear": 2014,
+    "discontinuedYear": 2015,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (13”)",
@@ -12066,13 +12381,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112442",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=135274&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook",
     "generation": "MacBook",
-    "releaseYear": 2015,
-    "discontinuedYear": 2016,
     "id": "macbook-early-2015",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -12080,6 +12393,8 @@ window.APPLE_PRODUCTS = [
       "MacBook",
       "MacBook (Early 2015)"
     ],
+    "releaseYear": 2015,
+    "discontinuedYear": 2016,
     "appleSupportLinks": [
       {
         "label": "MacBook (Early 2015)",
@@ -12127,13 +12442,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Air (11”): https://support.apple.com/en-us/112441\nMacBook Air (13”): https://support.apple.com/en-us/111956",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=135270&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2015,
-    "discontinuedYear": 2017,
     "id": "macbook-air-early-2015",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -12141,6 +12454,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (Early 2015)"
     ],
+    "releaseYear": 2015,
+    "discontinuedYear": 2017,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (11”)",
@@ -12196,13 +12511,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (13”): https://support.apple.com/en-us/111959\nMacBook Pro (15\"): https://support.apple.com/en-us/111955",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=135275&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2015,
-    "discontinuedYear": 2016,
     "id": "macbook-pro-early-2015",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -12210,6 +12523,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Early 2015)"
     ],
+    "releaseYear": 2015,
+    "discontinuedYear": 2016,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (13”)",
@@ -12265,13 +12580,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112033",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=501504&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook",
     "generation": "MacBook",
-    "releaseYear": 2016,
-    "discontinuedYear": 2017,
     "id": "macbook-early-2016",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -12279,6 +12592,8 @@ window.APPLE_PRODUCTS = [
       "MacBook",
       "MacBook (Early 2016)"
     ],
+    "releaseYear": 2016,
+    "discontinuedYear": 2017,
     "appleSupportLinks": [
       {
         "label": "MacBook (Early 2016)",
@@ -12326,13 +12641,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (13”, Two Ports): https://support.apple.com/en-us/111999\nMacBook Pro (13”, Four Ports): https://support.apple.com/en-us/112003\nMacBook Pro (15\"): https://support.apple.com/en-us/111975",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=502621&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2016,
-    "discontinuedYear": 2017,
     "id": "macbook-pro-2016",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -12340,6 +12653,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (2016)"
     ],
+    "releaseYear": 2016,
+    "discontinuedYear": 2017,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (13”, Two Ports)",
@@ -12403,13 +12718,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111986",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=503580&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook",
     "generation": "MacBook",
-    "releaseYear": 2017,
-    "discontinuedYear": 2019,
     "id": "macbook-2017",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -12417,6 +12730,8 @@ window.APPLE_PRODUCTS = [
       "MacBook",
       "MacBook (2017)"
     ],
+    "releaseYear": 2017,
+    "discontinuedYear": 2019,
     "appleSupportLinks": [
       {
         "label": "MacBook (2017)",
@@ -12464,13 +12779,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111924",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=503576&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2017,
-    "discontinuedYear": 2019,
     "id": "macbook-air-2017",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -12478,6 +12791,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (2017)"
     ],
+    "releaseYear": 2017,
+    "discontinuedYear": 2019,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (2017)",
@@ -12525,13 +12840,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (13”, Two Ports): https://support.apple.com/en-us/111951\nMacBook Pro (13”, Four Ports): https://support.apple.com/en-us/111972\nMacBook Pro (15\"): https://support.apple.com/en-us/111947",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=503565&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2017,
-    "discontinuedYear": 2018,
     "id": "macbook-pro-2017",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -12539,6 +12852,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (2017)"
     ],
+    "releaseYear": 2017,
+    "discontinuedYear": 2018,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (13”, Two Ports)",
@@ -12602,13 +12917,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111933",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=506006&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2018,
-    "discontinuedYear": 2019,
     "id": "macbook-air-2018",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -12616,6 +12929,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (2018)"
     ],
+    "releaseYear": 2018,
+    "discontinuedYear": 2019,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (2018)",
@@ -12663,13 +12978,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (13”): https://support.apple.com/en-us/111925\nMacBook Pro (15\"): https://support.apple.com/en-us/111949",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=505469&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2018,
-    "discontinuedYear": 2019,
     "id": "macbook-pro-2018",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -12677,6 +12990,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (2018)"
     ],
+    "releaseYear": 2018,
+    "discontinuedYear": 2019,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (13”)",
@@ -12732,13 +13047,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111948",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=507509&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2019,
-    "discontinuedYear": 2020,
     "id": "macbook-air-2019",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -12746,6 +13059,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (2019)"
     ],
+    "releaseYear": 2019,
+    "discontinuedYear": 2020,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (2019)",
@@ -12793,13 +13108,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (13”, Two Ports): https://support.apple.com/en-us/111945\nMacBook Pro (13”, Four Ports): https://support.apple.com/en-us/111997\nMacBook Pro (15\"): https://support.apple.com/en-us/111941\nMacBook Pro (16”): https://support.apple.com/en-us/111932",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=507496&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2019,
-    "discontinuedYear": 2020,
     "id": "macbook-pro-2019",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -12807,6 +13120,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (2019)"
     ],
+    "releaseYear": 2019,
+    "discontinuedYear": 2020,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (13”, Two Ports)",
@@ -12878,13 +13193,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111991",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=508935&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2020,
-    "discontinuedYear": 2020,
     "id": "macbook-air-early-2020",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -12892,6 +13205,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (Early 2020)"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": 2020,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (Early 2020)",
@@ -12939,13 +13254,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (13”, Two Ports): https://support.apple.com/en-us/111981\nMacBook Pro (13”, Four Ports): https://support.apple.com/en-us/111339",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300178&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2020,
-    "discontinuedYear": 2021,
     "id": "macbook-pro-early-2020",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -12953,6 +13266,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Early 2020)"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": 2021,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (13”, Two Ports)",
@@ -13008,13 +13323,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111883",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300267&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2020,
-    "discontinuedYear": 2024,
     "id": "macbook-air-late-2020",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -13022,6 +13335,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (Late 2020)"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (Late 2020)",
@@ -13069,13 +13384,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111893",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300266&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2020,
-    "discontinuedYear": 2022,
     "id": "macbook-pro-late-2020",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -13083,6 +13396,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Late 2020)"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": 2022,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (Late 2020)",
@@ -13130,13 +13445,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (14”): https://support.apple.com/en-us/111902\nMacBook Pro (16”): https://support.apple.com/en-us/111901",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300451&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2021,
-    "discontinuedYear": 2023,
     "id": "macbook-pro-2021",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -13144,6 +13457,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (2021)"
     ],
+    "releaseYear": 2021,
+    "discontinuedYear": 2023,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (14”)",
@@ -13199,13 +13514,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111867",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300872&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2022,
-    "discontinuedYear": 2024,
     "id": "macbook-air-2022",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -13213,6 +13526,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (2022)"
     ],
+    "releaseYear": 2022,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (2022)",
@@ -13260,13 +13575,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111869",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300873&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2022,
-    "discontinuedYear": 2023,
     "id": "macbook-pro-2022",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -13274,6 +13587,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (2022)"
     ],
+    "releaseYear": 2022,
+    "discontinuedYear": 2023,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (2022)",
@@ -13321,13 +13636,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111346",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300954&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2023,
-    "discontinuedYear": 2024,
     "id": "macbook-air-2023",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -13335,6 +13648,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (2023)"
     ],
+    "releaseYear": 2023,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (2023)",
@@ -13382,13 +13697,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (14”): https://support.apple.com/en-us/111340\nMacBook Pro (16”): https://support.apple.com/en-us/111838",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300925&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2023,
-    "discontinuedYear": 2023,
     "id": "macbook-pro-early-2023",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -13396,6 +13709,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Early 2023)"
     ],
+    "releaseYear": 2023,
+    "discontinuedYear": 2023,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (14”)",
@@ -13451,13 +13766,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (14”, M3): https://support.apple.com/en-us/117735\nMacBook Pro (14”): https://support.apple.com/en-us/117736\nMacBook Pro (16”): https://support.apple.com/en-us/117737",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301011&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2023,
-    "discontinuedYear": 2024,
     "id": "macbook-pro-late-2023",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -13465,6 +13778,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (Late 2023)"
     ],
+    "releaseYear": 2023,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (14”, M3)",
@@ -13528,13 +13843,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Air (13”): https://support.apple.com/en-us/118551\nMacBook Air (15”): https://support.apple.com/en-us/118552",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301019&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2024,
-    "discontinuedYear": 2025,
     "id": "macbook-air-2024",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -13542,6 +13855,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (2024)"
     ],
+    "releaseYear": 2024,
+    "discontinuedYear": 2025,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (13”)",
@@ -13597,13 +13912,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (14”, M4): https://support.apple.com/en-us/121552\nMacBook Pro (14”): https://support.apple.com/en-us/121553\nMacBook Pro (16”): https://support.apple.com/en-us/121554",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301068&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2024,
-    "discontinuedYear": 2025,
     "id": "macbook-pro-2024",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -13611,6 +13924,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (2024)"
     ],
+    "releaseYear": 2024,
+    "discontinuedYear": 2025,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (14”, M4)",
@@ -13674,13 +13989,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Air (13”): https://support.apple.com/en-us/122209\nMacBook Air (15”): https://support.apple.com/en-us/122210",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301086&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2025,
-    "discontinuedYear": 2026,
     "id": "macbook-air-2025",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -13688,6 +14001,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (2025)"
     ],
+    "releaseYear": 2025,
+    "discontinuedYear": 2026,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (13”)",
@@ -13743,13 +14058,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Air (13”): https://support.apple.com/en-us/126320\nMacBook Air (15”): https://support.apple.com/en-us/126321",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301288&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Air",
     "generation": "MacBook Air",
-    "releaseYear": 2026,
-    "discontinuedYear": null,
     "id": "macbook-air-2026",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -13757,6 +14070,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Air",
       "MacBook Air (2026)"
     ],
+    "releaseYear": 2026,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "MacBook Air (13”)",
@@ -13812,13 +14127,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "MacBook Pro (14”, M5, 2025): https://support.apple.com/en-us/125405\nMacBook Pro (14”): https://support.apple.com/en-us/126318\nMacBook Pro (16”): https://support.apple.com/en-us/126319",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301289&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Pro",
     "generation": "MacBook Pro",
-    "releaseYear": 2026,
-    "discontinuedYear": null,
     "id": "macbook-pro-2026",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -13826,6 +14139,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Pro",
       "MacBook Pro (2026)"
     ],
+    "releaseYear": 2026,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "MacBook Pro (14”, M5, 2025)",
@@ -13889,13 +14204,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/126322",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301292&size=240x240",
     "category": "Laptop",
-    "museumCategory": "Laptop",
     "family": "MacBook",
     "subfamily": "MacBook Neo",
     "generation": "MacBook Neo",
-    "releaseYear": 2026,
-    "discontinuedYear": null,
     "id": "macbook-neo",
+    "museumCategory": "Laptop",
     "hierarchy": [
       "Laptop",
       "MacBook",
@@ -13903,6 +14216,8 @@ window.APPLE_PRODUCTS = [
       "MacBook Neo",
       "MacBook Neo"
     ],
+    "releaseYear": 2026,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "MacBook Neo",
@@ -13950,13 +14265,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112445",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131510&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "iPhone",
     "generation": "iPhone",
-    "releaseYear": 2007,
-    "discontinuedYear": 2008,
     "id": "iphone",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -13964,6 +14277,8 @@ window.APPLE_PRODUCTS = [
       "iPhone",
       "iPhone"
     ],
+    "releaseYear": 2007,
+    "discontinuedYear": 2008,
     "appleSupportLinks": [
       {
         "label": "iPhone",
@@ -14011,13 +14326,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112496",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132035&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "3G Line",
     "generation": "3G Line",
-    "releaseYear": 2008,
-    "discontinuedYear": 2010,
     "id": "iphone-3g",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14025,6 +14338,8 @@ window.APPLE_PRODUCTS = [
       "3G Line",
       "iPhone 3G"
     ],
+    "releaseYear": 2008,
+    "discontinuedYear": 2010,
     "appleSupportLinks": [
       {
         "label": "iPhone 3G",
@@ -14072,13 +14387,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112307",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132537&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "3G Line",
     "generation": "3G Line",
-    "releaseYear": 2009,
-    "discontinuedYear": 2012,
     "id": "iphone-3gs",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14086,6 +14399,8 @@ window.APPLE_PRODUCTS = [
       "3G Line",
       "iPhone 3GS"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2012,
     "appleSupportLinks": [
       {
         "label": "iPhone 3GS",
@@ -14133,13 +14448,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112562",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132927&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "4 Line",
     "generation": "4 Line",
-    "releaseYear": 2010,
-    "discontinuedYear": 2013,
     "id": "iphone-4",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14147,6 +14460,8 @@ window.APPLE_PRODUCTS = [
       "4 Line",
       "iPhone 4"
     ],
+    "releaseYear": 2010,
+    "discontinuedYear": 2013,
     "appleSupportLinks": [
       {
         "label": "iPhone 4",
@@ -14194,13 +14509,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112004",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133476&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "4 Line",
     "generation": "4 Line",
-    "releaseYear": 2011,
-    "discontinuedYear": 2014,
     "id": "iphone-4s",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14208,6 +14521,8 @@ window.APPLE_PRODUCTS = [
       "4 Line",
       "iPhone 4S"
     ],
+    "releaseYear": 2011,
+    "discontinuedYear": 2014,
     "appleSupportLinks": [
       {
         "label": "iPhone 4S",
@@ -14255,13 +14570,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112016",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133778&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "5 Line",
     "generation": "5 Line",
-    "releaseYear": 2012,
-    "discontinuedYear": 2013,
     "id": "iphone-5",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14269,6 +14582,8 @@ window.APPLE_PRODUCTS = [
       "5 Line",
       "iPhone 5"
     ],
+    "releaseYear": 2012,
+    "discontinuedYear": 2013,
     "appleSupportLinks": [
       {
         "label": "iPhone 5",
@@ -14316,13 +14631,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111917",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=134094&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "5 Line",
     "generation": "5 Line",
-    "releaseYear": 2013,
-    "discontinuedYear": 2015,
     "id": "iphone-5c",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14330,6 +14643,8 @@ window.APPLE_PRODUCTS = [
       "5 Line",
       "iPhone 5c"
     ],
+    "releaseYear": 2013,
+    "discontinuedYear": 2015,
     "appleSupportLinks": [
       {
         "label": "iPhone 5c",
@@ -14377,13 +14692,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111973",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=134096&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "5 Line",
     "generation": "5 Line",
-    "releaseYear": 2013,
-    "discontinuedYear": 2016,
     "id": "iphone-5s",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14391,6 +14704,8 @@ window.APPLE_PRODUCTS = [
       "5 Line",
       "iPhone 5s"
     ],
+    "releaseYear": 2013,
+    "discontinuedYear": 2016,
     "appleSupportLinks": [
       {
         "label": "iPhone 5s",
@@ -14438,13 +14753,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 6: https://support.apple.com/en-us/111954\niPhone 6 Plus: https://support.apple.com/en-us/111940",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=134711&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "6 Line",
     "generation": "6 Line",
-    "releaseYear": 2014,
-    "discontinuedYear": 2016,
     "id": "iphone-6-6-plus",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14452,6 +14765,8 @@ window.APPLE_PRODUCTS = [
       "6 Line",
       "iPhone 6 / 6 Plus"
     ],
+    "releaseYear": 2014,
+    "discontinuedYear": 2016,
     "appleSupportLinks": [
       {
         "label": "iPhone 6",
@@ -14507,13 +14822,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 6s: https://support.apple.com/en-us/111952\niPhone 6s Plus: https://support.apple.com/en-us/111996",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=500016&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "6 Line",
     "generation": "6 Line",
-    "releaseYear": 2015,
-    "discontinuedYear": 2018,
     "id": "iphone-6s-6s-plus",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14521,6 +14834,8 @@ window.APPLE_PRODUCTS = [
       "6 Line",
       "iPhone 6s / 6s Plus"
     ],
+    "releaseYear": 2015,
+    "discontinuedYear": 2018,
     "appleSupportLinks": [
       {
         "label": "iPhone 6s",
@@ -14576,13 +14891,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112005",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=501343&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "iPhone SE",
     "generation": "iPhone SE",
-    "releaseYear": 2016,
-    "discontinuedYear": 2018,
     "id": "iphone-se-1st-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14590,6 +14903,8 @@ window.APPLE_PRODUCTS = [
       "iPhone SE",
       "iPhone SE 1st generation"
     ],
+    "releaseYear": 2016,
+    "discontinuedYear": 2018,
     "appleSupportLinks": [
       {
         "label": "iPhone SE 1st generation",
@@ -14637,13 +14952,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 7: https://support.apple.com/en-us/111943\niPhone 7 Plus: https://support.apple.com/en-us/111953",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=502272&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "7 Line",
     "generation": "7 Line",
-    "releaseYear": 2016,
-    "discontinuedYear": 2019,
     "id": "iphone-7-7-plus",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14651,6 +14964,8 @@ window.APPLE_PRODUCTS = [
       "7 Line",
       "iPhone 7 / 7 Plus"
     ],
+    "releaseYear": 2016,
+    "discontinuedYear": 2019,
     "appleSupportLinks": [
       {
         "label": "iPhone 7",
@@ -14706,13 +15021,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 8: https://support.apple.com/en-us/111976\niPhone 8 Plus: https://support.apple.com/en-us/111950",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=504266&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "8 Line",
     "generation": "8 Line",
-    "releaseYear": 2017,
-    "discontinuedYear": 2020,
     "id": "iphone-8-8-plus",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14720,6 +15033,8 @@ window.APPLE_PRODUCTS = [
       "8 Line",
       "iPhone 8 / 8 Plus"
     ],
+    "releaseYear": 2017,
+    "discontinuedYear": 2020,
     "appleSupportLinks": [
       {
         "label": "iPhone 8",
@@ -14775,13 +15090,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111864",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=504268&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "X Line",
     "generation": "X Line",
-    "releaseYear": 2017,
-    "discontinuedYear": 2018,
     "id": "iphone-x",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14789,6 +15102,8 @@ window.APPLE_PRODUCTS = [
       "X Line",
       "iPhone X"
     ],
+    "releaseYear": 2017,
+    "discontinuedYear": 2018,
     "appleSupportLinks": [
       {
         "label": "iPhone X",
@@ -14836,13 +15151,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111868",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=505602&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "X Line",
     "generation": "X Line",
-    "releaseYear": 2018,
-    "discontinuedYear": 2021,
     "id": "iphone-xr",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14850,6 +15163,8 @@ window.APPLE_PRODUCTS = [
       "X Line",
       "iPhone XR"
     ],
+    "releaseYear": 2018,
+    "discontinuedYear": 2021,
     "appleSupportLinks": [
       {
         "label": "iPhone XR",
@@ -14897,13 +15212,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone XS: https://support.apple.com/en-us/111881\niPhone XS Max: https://support.apple.com/en-us/111880",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=505753&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "X Line",
     "generation": "X Line",
-    "releaseYear": 2018,
-    "discontinuedYear": 2019,
     "id": "iphone-xs-xs-max",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14911,6 +15224,8 @@ window.APPLE_PRODUCTS = [
       "X Line",
       "iPhone XS / XS Max"
     ],
+    "releaseYear": 2018,
+    "discontinuedYear": 2019,
     "appleSupportLinks": [
       {
         "label": "iPhone XS",
@@ -14966,13 +15281,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111865",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=507882&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "11 Line",
     "generation": "11 Line",
-    "releaseYear": 2019,
-    "discontinuedYear": 2022,
     "id": "iphone-11",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -14980,6 +15293,8 @@ window.APPLE_PRODUCTS = [
       "11 Line",
       "iPhone 11"
     ],
+    "releaseYear": 2019,
+    "discontinuedYear": 2022,
     "appleSupportLinks": [
       {
         "label": "iPhone 11",
@@ -15027,13 +15342,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 11 Pro: https://support.apple.com/en-us/111879\niPhone 11 Pro Max: https://support.apple.com/en-us/111878",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=507808&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "11 Line",
     "generation": "11 Line",
-    "releaseYear": 2019,
-    "discontinuedYear": 2020,
     "id": "iphone-11-pro-pro-max",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -15041,6 +15354,8 @@ window.APPLE_PRODUCTS = [
       "11 Line",
       "iPhone 11 Pro / Pro Max"
     ],
+    "releaseYear": 2019,
+    "discontinuedYear": 2020,
     "appleSupportLinks": [
       {
         "label": "iPhone 11 Pro",
@@ -15096,13 +15411,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111882",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=509370&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "iPhone SE",
     "generation": "iPhone SE",
-    "releaseYear": 2020,
-    "discontinuedYear": 2022,
     "id": "iphone-se-2nd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -15110,6 +15423,8 @@ window.APPLE_PRODUCTS = [
       "iPhone SE",
       "iPhone SE 2nd generation"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": 2022,
     "appleSupportLinks": [
       {
         "label": "iPhone SE 2nd generation",
@@ -15157,13 +15472,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 12 mini: https://support.apple.com/en-us/111877\niPhone 12: https://support.apple.com/en-us/111876",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300241&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "12 Line",
     "generation": "12 Line",
-    "releaseYear": 2020,
-    "discontinuedYear": 2023,
     "id": "iphone-12-12-mini",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -15171,6 +15484,8 @@ window.APPLE_PRODUCTS = [
       "12 Line",
       "iPhone 12 / 12 mini"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": 2023,
     "appleSupportLinks": [
       {
         "label": "iPhone 12 mini",
@@ -15226,13 +15541,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 12 Pro: https://support.apple.com/en-us/111875\niPhone 12 Pro Max: https://support.apple.com/en-us/111874",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300242&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "12 Line",
     "generation": "12 Line",
-    "releaseYear": 2020,
-    "discontinuedYear": 2021,
     "id": "iphone-12-pro-pro-max",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -15240,6 +15553,8 @@ window.APPLE_PRODUCTS = [
       "12 Line",
       "iPhone 12 Pro / Pro Max"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": 2021,
     "appleSupportLinks": [
       {
         "label": "iPhone 12 Pro",
@@ -15295,13 +15610,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 13 mini: https://support.apple.com/en-us/111873\niPhone 13: https://support.apple.com/en-us/111872",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300428&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "13 Line",
     "generation": "13 Line",
-    "releaseYear": 2021,
-    "discontinuedYear": 2024,
     "id": "iphone-13-13-mini",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -15309,6 +15622,8 @@ window.APPLE_PRODUCTS = [
       "13 Line",
       "iPhone 13 / 13 mini"
     ],
+    "releaseYear": 2021,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "iPhone 13 mini",
@@ -15364,13 +15679,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 13 Pro: https://support.apple.com/en-us/111871\niPhone 13 Pro Max: https://support.apple.com/en-us/111870",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300429&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "13 Line",
     "generation": "13 Line",
-    "releaseYear": 2021,
-    "discontinuedYear": 2022,
     "id": "iphone-13-pro-pro-max",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -15378,6 +15691,8 @@ window.APPLE_PRODUCTS = [
       "13 Line",
       "iPhone 13 Pro / Pro Max"
     ],
+    "releaseYear": 2021,
+    "discontinuedYear": 2022,
     "appleSupportLinks": [
       {
         "label": "iPhone 13 Pro",
@@ -15433,13 +15748,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111866",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300865&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "iPhone SE",
     "generation": "iPhone SE",
-    "releaseYear": 2022,
-    "discontinuedYear": 2025,
     "id": "iphone-se-3rd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -15447,6 +15760,8 @@ window.APPLE_PRODUCTS = [
       "iPhone SE",
       "iPhone SE 3rd generation"
     ],
+    "releaseYear": 2022,
+    "discontinuedYear": 2025,
     "appleSupportLinks": [
       {
         "label": "iPhone SE 3rd generation",
@@ -15494,13 +15809,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 14: https://support.apple.com/en-us/111850\niPhone 14 Plus: https://support.apple.com/en-us/111854",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300878&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "14 Line",
     "generation": "14 Line",
-    "releaseYear": 2022,
-    "discontinuedYear": 2024,
     "id": "iphone-14-14-plus",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -15508,6 +15821,8 @@ window.APPLE_PRODUCTS = [
       "14 Line",
       "iPhone 14 / 14 Plus"
     ],
+    "releaseYear": 2022,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "iPhone 14",
@@ -15563,13 +15878,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 14 Pro: https://support.apple.com/en-us/111849\niPhone 14 Pro Max: https://support.apple.com/en-us/111846",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300880&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "14 Line",
     "generation": "14 Line",
-    "releaseYear": 2022,
-    "discontinuedYear": 2023,
     "id": "iphone-14-pro-pro-max",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -15577,6 +15890,8 @@ window.APPLE_PRODUCTS = [
       "14 Line",
       "iPhone 14 Pro / Pro Max"
     ],
+    "releaseYear": 2022,
+    "discontinuedYear": 2023,
     "appleSupportLinks": [
       {
         "label": "iPhone 14 Pro",
@@ -15632,13 +15947,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 15: https://support.apple.com/en-us/111831\niPhone 15 Plus: https://support.apple.com/en-us/111830",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300991&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "15 Line",
     "generation": "15 Line",
-    "releaseYear": 2023,
-    "discontinuedYear": 2024,
     "id": "iphone-15-15-plus",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -15646,6 +15959,8 @@ window.APPLE_PRODUCTS = [
       "15 Line",
       "iPhone 15 / 15 Plus"
     ],
+    "releaseYear": 2023,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "iPhone 15",
@@ -15701,13 +16016,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 15 Pro: https://support.apple.com/en-us/111829\niPhone 15 Pro Max: https://support.apple.com/en-us/111828",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300993&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "15 Line",
     "generation": "15 Line",
-    "releaseYear": 2023,
-    "discontinuedYear": 2024,
     "id": "iphone-15-pro-pro-max",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -15715,6 +16028,8 @@ window.APPLE_PRODUCTS = [
       "15 Line",
       "iPhone 15 Pro / Pro Max"
     ],
+    "releaseYear": 2023,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "iPhone 15 Pro",
@@ -15770,13 +16085,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 16: https://support.apple.com/en-us/121029\niPhone 16 Plus: https://support.apple.com/en-us/121030",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301045&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "16 Line",
     "generation": "16 Line",
-    "releaseYear": 2024,
-    "discontinuedYear": 2025,
     "id": "iphone-16-16-plus",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -15784,6 +16097,8 @@ window.APPLE_PRODUCTS = [
       "16 Line",
       "iPhone 16 / 16 Plus"
     ],
+    "releaseYear": 2024,
+    "discontinuedYear": 2025,
     "appleSupportLinks": [
       {
         "label": "iPhone 16",
@@ -15839,13 +16154,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 16 Pro: https://support.apple.com/en-us/121031\niPhone 16 Pro Max: https://support.apple.com/en-us/121032",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301047&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "16 Line",
     "generation": "16 Line",
-    "releaseYear": 2024,
-    "discontinuedYear": 2025,
     "id": "iphone-16-pro-pro-max",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -15853,6 +16166,8 @@ window.APPLE_PRODUCTS = [
       "16 Line",
       "iPhone 16 Pro / Pro Max"
     ],
+    "releaseYear": 2024,
+    "discontinuedYear": 2025,
     "appleSupportLinks": [
       {
         "label": "iPhone 16 Pro",
@@ -15908,13 +16223,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/122208",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301076&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "16 Line",
     "generation": "16 Line",
-    "releaseYear": 2025,
-    "discontinuedYear": null,
     "id": "iphone-16e",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -15922,6 +16235,8 @@ window.APPLE_PRODUCTS = [
       "16 Line",
       "iPhone 16e"
     ],
+    "releaseYear": 2025,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "iPhone 16e",
@@ -15969,13 +16284,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/125089",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301247&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "17 Line",
     "generation": "17 Line",
-    "releaseYear": 2025,
-    "discontinuedYear": null,
     "id": "iphone-17",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -15983,6 +16296,8 @@ window.APPLE_PRODUCTS = [
       "17 Line",
       "iPhone 17"
     ],
+    "releaseYear": 2025,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "iPhone 17",
@@ -16030,13 +16345,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/125092",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301244&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "iPhone Air",
     "generation": "iPhone Air",
-    "releaseYear": 2025,
-    "discontinuedYear": null,
     "id": "iphone-air",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -16044,6 +16357,8 @@ window.APPLE_PRODUCTS = [
       "iPhone Air",
       "iPhone Air"
     ],
+    "releaseYear": 2025,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "iPhone Air",
@@ -16091,13 +16406,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPhone 17 Pro: https://support.apple.com/en-us/125090\niPhone 17 Pro Max: https://support.apple.com/en-us/125091",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301245&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "17 Line",
     "generation": "17 Line",
-    "releaseYear": 2025,
-    "discontinuedYear": null,
     "id": "iphone-17-pro-pro-max",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -16105,6 +16418,8 @@ window.APPLE_PRODUCTS = [
       "17 Line",
       "iPhone 17 Pro / Pro Max"
     ],
+    "releaseYear": 2025,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "iPhone 17 Pro",
@@ -16160,13 +16475,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/126470",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301285&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPhone",
     "subfamily": "17 Line",
     "generation": "17 Line",
-    "releaseYear": 2026,
-    "discontinuedYear": null,
     "id": "iphone-17e",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPhone",
@@ -16174,6 +16487,8 @@ window.APPLE_PRODUCTS = [
       "17 Line",
       "iPhone 17e"
     ],
+    "releaseYear": 2026,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "iPhone 17e",
@@ -16221,13 +16536,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112530",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=111393&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod classic",
     "generation": "iPod classic",
-    "releaseYear": 2001,
-    "discontinuedYear": 2002,
     "id": "ipod-1st-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -16235,6 +16548,8 @@ window.APPLE_PRODUCTS = [
       "iPod classic",
       "iPod 1st generation"
     ],
+    "releaseYear": 2001,
+    "discontinuedYear": 2002,
     "appleSupportLinks": [
       {
         "label": "iPod 1st generation",
@@ -16282,13 +16597,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112462",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=113644&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod classic",
     "generation": "iPod classic",
-    "releaseYear": 2002,
-    "discontinuedYear": 2003,
     "id": "ipod-2nd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -16296,6 +16609,8 @@ window.APPLE_PRODUCTS = [
       "iPod classic",
       "iPod 2nd generation"
     ],
+    "releaseYear": 2002,
+    "discontinuedYear": 2003,
     "appleSupportLinks": [
       {
         "label": "iPod 2nd generation",
@@ -16343,13 +16658,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112515",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=119099&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod classic",
     "generation": "iPod classic",
-    "releaseYear": 2003,
-    "discontinuedYear": 2004,
     "id": "ipod-3rd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -16357,6 +16670,8 @@ window.APPLE_PRODUCTS = [
       "iPod classic",
       "iPod 3rd generation"
     ],
+    "releaseYear": 2003,
+    "discontinuedYear": 2004,
     "appleSupportLinks": [
       {
         "label": "iPod 3rd generation",
@@ -16404,13 +16719,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112541",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130003&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod classic",
     "generation": "iPod classic",
-    "releaseYear": 2004,
-    "discontinuedYear": 2005,
     "id": "ipod-4th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -16418,6 +16731,8 @@ window.APPLE_PRODUCTS = [
       "iPod classic",
       "iPod 4th generation"
     ],
+    "releaseYear": 2004,
+    "discontinuedYear": 2005,
     "appleSupportLinks": [
       {
         "label": "iPod 4th generation",
@@ -16465,13 +16780,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPod (photo): https://support.apple.com/en-us/112449\niPod (color): https://support.apple.com/en-us/112539",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130181&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod classic",
     "generation": "iPod classic",
-    "releaseYear": 2004,
-    "discontinuedYear": 2005,
     "id": "ipod-4th-generation-color",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -16479,6 +16792,8 @@ window.APPLE_PRODUCTS = [
       "iPod classic",
       "iPod 4th generation (color)"
     ],
+    "releaseYear": 2004,
+    "discontinuedYear": 2005,
     "appleSupportLinks": [
       {
         "label": "iPod (photo)",
@@ -16534,13 +16849,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112317",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=122741&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod mini",
     "generation": "iPod mini",
-    "releaseYear": 2004,
-    "discontinuedYear": 2005,
     "id": "ipod-mini-1st-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -16548,6 +16861,8 @@ window.APPLE_PRODUCTS = [
       "iPod mini",
       "iPod mini 1st generation"
     ],
+    "releaseYear": 2004,
+    "discontinuedYear": 2005,
     "appleSupportLinks": [
       {
         "label": "iPod mini 1st generation",
@@ -16595,13 +16910,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112317",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=122741&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod mini",
     "generation": "iPod mini",
-    "releaseYear": 2005,
-    "discontinuedYear": 2005,
     "id": "ipod-mini-2nd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -16609,6 +16922,8 @@ window.APPLE_PRODUCTS = [
       "iPod mini",
       "iPod mini 2nd generation"
     ],
+    "releaseYear": 2005,
+    "discontinuedYear": 2005,
     "appleSupportLinks": [
       {
         "label": "iPod mini 2nd generation",
@@ -16656,13 +16971,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112493",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130300&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod shuffle",
     "generation": "iPod shuffle",
-    "releaseYear": 2005,
-    "discontinuedYear": 2006,
     "id": "ipod-shuffle-1st-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -16670,6 +16983,8 @@ window.APPLE_PRODUCTS = [
       "iPod shuffle",
       "iPod shuffle 1st generation"
     ],
+    "releaseYear": 2005,
+    "discontinuedYear": 2006,
     "appleSupportLinks": [
       {
         "label": "iPod shuffle 1st generation",
@@ -16717,13 +17032,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112507",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130659&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod nano",
     "generation": "iPod nano",
-    "releaseYear": 2005,
-    "discontinuedYear": 2006,
     "id": "ipod-nano-1st-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -16731,6 +17044,8 @@ window.APPLE_PRODUCTS = [
       "iPod nano",
       "iPod nano 1st generation"
     ],
+    "releaseYear": 2005,
+    "discontinuedYear": 2006,
     "appleSupportLinks": [
       {
         "label": "iPod nano 1st generation",
@@ -16778,13 +17093,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPod (2005): https://support.apple.com/en-us/111923\niPod (2006): https://support.apple.com/en-us/112454",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=130710&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod classic",
     "generation": "iPod classic",
-    "releaseYear": 2005,
-    "discontinuedYear": 2007,
     "id": "ipod-5th-generation-video",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -16792,6 +17105,8 @@ window.APPLE_PRODUCTS = [
       "iPod classic",
       "iPod 5th generation (video)"
     ],
+    "releaseYear": 2005,
+    "discontinuedYear": 2007,
     "appleSupportLinks": [
       {
         "label": "iPod (2005)",
@@ -16851,13 +17166,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112309",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131155&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod nano",
     "generation": "iPod nano",
-    "releaseYear": 2006,
-    "discontinuedYear": 2007,
     "id": "ipod-nano-2nd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -16865,6 +17178,8 @@ window.APPLE_PRODUCTS = [
       "iPod nano",
       "iPod nano 2nd generation"
     ],
+    "releaseYear": 2006,
+    "discontinuedYear": 2007,
     "appleSupportLinks": [
       {
         "label": "iPod nano 2nd generation",
@@ -16912,13 +17227,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112455",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131239&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod shuffle",
     "generation": "iPod shuffle",
-    "releaseYear": 2006,
-    "discontinuedYear": 2008,
     "id": "ipod-shuffle-2nd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -16926,6 +17239,8 @@ window.APPLE_PRODUCTS = [
       "iPod shuffle",
       "iPod shuffle 2nd generation"
     ],
+    "releaseYear": 2006,
+    "discontinuedYear": 2008,
     "appleSupportLinks": [
       {
         "label": "iPod shuffle 2nd generation",
@@ -16973,13 +17288,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPod classic: https://support.apple.com/en-us/112478\niPod classic (120 GB): https://support.apple.com/en-us/112321\niPod classic (160 GB): https://support.apple.com/en-us/112601",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132673&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod classic",
     "generation": "iPod classic",
-    "releaseYear": 2007,
-    "discontinuedYear": 2014,
     "id": "ipod-classic-6th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -16987,6 +17300,8 @@ window.APPLE_PRODUCTS = [
       "iPod classic",
       "iPod classic 6th generation"
     ],
+    "releaseYear": 2007,
+    "discontinuedYear": 2014,
     "appleSupportLinks": [
       {
         "label": "iPod classic",
@@ -17050,13 +17365,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112552",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131645&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod nano",
     "generation": "iPod nano",
-    "releaseYear": 2007,
-    "discontinuedYear": 2008,
     "id": "ipod-nano-3rd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -17064,6 +17377,8 @@ window.APPLE_PRODUCTS = [
       "iPod nano",
       "iPod nano 3rd generation"
     ],
+    "releaseYear": 2007,
+    "discontinuedYear": 2008,
     "appleSupportLinks": [
       {
         "label": "iPod nano 3rd generation",
@@ -17111,13 +17426,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112532",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131660&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod touch",
     "generation": "iPod touch",
-    "releaseYear": 2007,
-    "discontinuedYear": 2008,
     "id": "ipod-touch-1st-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -17125,6 +17438,8 @@ window.APPLE_PRODUCTS = [
       "iPod touch",
       "iPod touch 1st generation"
     ],
+    "releaseYear": 2007,
+    "discontinuedYear": 2008,
     "appleSupportLinks": [
       {
         "label": "iPod touch 1st generation",
@@ -17172,13 +17487,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112320",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132053&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod nano",
     "generation": "iPod nano",
-    "releaseYear": 2008,
-    "discontinuedYear": 2009,
     "id": "ipod-nano-4th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -17186,6 +17499,8 @@ window.APPLE_PRODUCTS = [
       "iPod nano",
       "iPod nano 4th generation"
     ],
+    "releaseYear": 2008,
+    "discontinuedYear": 2009,
     "appleSupportLinks": [
       {
         "label": "iPod nano 4th generation",
@@ -17233,13 +17548,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112319",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132054&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod touch",
     "generation": "iPod touch",
-    "releaseYear": 2008,
-    "discontinuedYear": 2010,
     "id": "ipod-touch-2nd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -17247,6 +17560,8 @@ window.APPLE_PRODUCTS = [
       "iPod touch",
       "iPod touch 2nd generation"
     ],
+    "releaseYear": 2008,
+    "discontinuedYear": 2010,
     "appleSupportLinks": [
       {
         "label": "iPod touch 2nd generation",
@@ -17298,13 +17613,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112497",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132404&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod shuffle",
     "generation": "iPod shuffle",
-    "releaseYear": 2009,
-    "discontinuedYear": 2010,
     "id": "ipod-shuffle-3rd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -17312,6 +17625,8 @@ window.APPLE_PRODUCTS = [
       "iPod shuffle",
       "iPod shuffle 3rd generation"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2010,
     "appleSupportLinks": [
       {
         "label": "iPod shuffle 3rd generation",
@@ -17359,13 +17674,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112495",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132643&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod nano",
     "generation": "iPod nano",
-    "releaseYear": 2009,
-    "discontinuedYear": 2010,
     "id": "ipod-nano-5th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -17373,6 +17686,8 @@ window.APPLE_PRODUCTS = [
       "iPod nano",
       "iPod nano 5th generation"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2010,
     "appleSupportLinks": [
       {
         "label": "iPod nano 5th generation",
@@ -17420,13 +17735,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112461",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132670&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod touch",
     "generation": "iPod touch",
-    "releaseYear": 2009,
-    "discontinuedYear": 2010,
     "id": "ipod-touch-3rd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -17434,6 +17747,8 @@ window.APPLE_PRODUCTS = [
       "iPod touch",
       "iPod touch 3rd generation"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2010,
     "appleSupportLinks": [
       {
         "label": "iPod touch 3rd generation",
@@ -17481,13 +17796,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112432",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133018&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod nano",
     "generation": "iPod nano",
-    "releaseYear": 2010,
-    "discontinuedYear": 2012,
     "id": "ipod-nano-6th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -17495,6 +17808,8 @@ window.APPLE_PRODUCTS = [
       "iPod nano",
       "iPod nano 6th generation"
     ],
+    "releaseYear": 2010,
+    "discontinuedYear": 2012,
     "appleSupportLinks": [
       {
         "label": "iPod nano 6th generation",
@@ -17542,13 +17857,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112422",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133017&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod shuffle",
     "generation": "iPod shuffle",
-    "releaseYear": 2010,
-    "discontinuedYear": 2017,
     "id": "ipod-shuffle-4th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -17556,6 +17869,8 @@ window.APPLE_PRODUCTS = [
       "iPod shuffle",
       "iPod shuffle 4th generation"
     ],
+    "releaseYear": 2010,
+    "discontinuedYear": 2017,
     "appleSupportLinks": [
       {
         "label": "iPod shuffle 4th generation",
@@ -17603,13 +17918,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112431",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133019&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod touch",
     "generation": "iPod touch",
-    "releaseYear": 2010,
-    "discontinuedYear": 2013,
     "id": "ipod-touch-4th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -17617,6 +17930,8 @@ window.APPLE_PRODUCTS = [
       "iPod touch",
       "iPod touch 4th generation"
     ],
+    "releaseYear": 2010,
+    "discontinuedYear": 2013,
     "appleSupportLinks": [
       {
         "label": "iPod touch 4th generation",
@@ -17668,13 +17983,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112039",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133772&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod nano",
     "generation": "iPod nano",
-    "releaseYear": 2012,
-    "discontinuedYear": 2017,
     "id": "ipod-nano-7th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -17682,6 +17995,8 @@ window.APPLE_PRODUCTS = [
       "iPod nano",
       "iPod nano 7th generation"
     ],
+    "releaseYear": 2012,
+    "discontinuedYear": 2017,
     "appleSupportLinks": [
       {
         "label": "iPod nano 7th generation",
@@ -17729,13 +18044,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPod touch (2012): https://support.apple.com/en-us/112021\niPod touch (2013): https://support.apple.com/en-us/118467",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133777&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod touch",
     "generation": "iPod touch",
-    "releaseYear": 2012,
-    "discontinuedYear": 2015,
     "id": "ipod-touch-5th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -17743,6 +18056,8 @@ window.APPLE_PRODUCTS = [
       "iPod touch",
       "iPod touch 5th generation"
     ],
+    "releaseYear": 2012,
+    "discontinuedYear": 2015,
     "appleSupportLinks": [
       {
         "label": "iPod touch (2012)",
@@ -17798,13 +18113,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112023",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=135428&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod touch",
     "generation": "iPod touch",
-    "releaseYear": 2015,
-    "discontinuedYear": 2019,
     "id": "ipod-touch-6th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -17812,6 +18125,8 @@ window.APPLE_PRODUCTS = [
       "iPod touch",
       "iPod touch 6th generation"
     ],
+    "releaseYear": 2015,
+    "discontinuedYear": 2019,
     "appleSupportLinks": [
       {
         "label": "iPod touch 6th generation",
@@ -17859,13 +18174,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111961",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=507223&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPod",
     "subfamily": "iPod touch",
     "generation": "iPod touch",
-    "releaseYear": 2019,
-    "discontinuedYear": 2022,
     "id": "ipod-touch-7th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPod",
@@ -17873,6 +18186,8 @@ window.APPLE_PRODUCTS = [
       "iPod touch",
       "iPod touch 7th generation"
     ],
+    "releaseYear": 2019,
+    "discontinuedYear": 2022,
     "appleSupportLinks": [
       {
         "label": "iPod touch 7th generation",
@@ -17920,13 +18235,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112438",
     "Image Links": "",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad",
     "generation": "iPad",
-    "releaseYear": 2010,
-    "discontinuedYear": 2011,
     "id": "ipad-1st-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -17934,6 +18247,8 @@ window.APPLE_PRODUCTS = [
       "iPad",
       "iPad 1st generation"
     ],
+    "releaseYear": 2010,
+    "discontinuedYear": 2011,
     "appleSupportLinks": [
       {
         "label": "iPad 1st generation",
@@ -17976,13 +18291,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111990",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133215&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad",
     "generation": "iPad",
-    "releaseYear": 2011,
-    "discontinuedYear": 2014,
     "id": "ipad-2nd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -17990,6 +18303,8 @@ window.APPLE_PRODUCTS = [
       "iPad",
       "iPad 2nd generation"
     ],
+    "releaseYear": 2011,
+    "discontinuedYear": 2014,
     "appleSupportLinks": [
       {
         "label": "iPad 2nd generation",
@@ -18037,13 +18352,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111992",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133608&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad",
     "generation": "iPad",
-    "releaseYear": 2012,
-    "discontinuedYear": 2012,
     "id": "ipad-3rd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18051,6 +18364,8 @@ window.APPLE_PRODUCTS = [
       "iPad",
       "iPad 3rd generation"
     ],
+    "releaseYear": 2012,
+    "discontinuedYear": 2012,
     "appleSupportLinks": [
       {
         "label": "iPad 3rd generation",
@@ -18098,13 +18413,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111993",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133846&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad",
     "generation": "iPad",
-    "releaseYear": 2012,
-    "discontinuedYear": 2014,
     "id": "ipad-4th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18112,6 +18425,8 @@ window.APPLE_PRODUCTS = [
       "iPad",
       "iPad 4th generation"
     ],
+    "releaseYear": 2012,
+    "discontinuedYear": 2014,
     "appleSupportLinks": [
       {
         "label": "iPad 4th generation",
@@ -18159,13 +18474,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111960",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=503187&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad",
     "generation": "iPad",
-    "releaseYear": 2017,
-    "discontinuedYear": 2018,
     "id": "ipad-5th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18173,6 +18486,8 @@ window.APPLE_PRODUCTS = [
       "iPad",
       "iPad 5th generation"
     ],
+    "releaseYear": 2017,
+    "discontinuedYear": 2018,
     "appleSupportLinks": [
       {
         "label": "iPad 5th generation",
@@ -18220,13 +18535,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111957",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=504852&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad",
     "generation": "iPad",
-    "releaseYear": 2018,
-    "discontinuedYear": 2019,
     "id": "ipad-6th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18234,6 +18547,8 @@ window.APPLE_PRODUCTS = [
       "iPad",
       "iPad 6th generation"
     ],
+    "releaseYear": 2018,
+    "discontinuedYear": 2019,
     "appleSupportLinks": [
       {
         "label": "iPad 6th generation",
@@ -18281,13 +18596,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111911",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=507974&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad",
     "generation": "iPad",
-    "releaseYear": 2019,
-    "discontinuedYear": 2020,
     "id": "ipad-7th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18295,6 +18608,8 @@ window.APPLE_PRODUCTS = [
       "iPad",
       "iPad 7th generation"
     ],
+    "releaseYear": 2019,
+    "discontinuedYear": 2020,
     "appleSupportLinks": [
       {
         "label": "iPad 7th generation",
@@ -18342,13 +18657,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/118451",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300200&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad",
     "generation": "iPad",
-    "releaseYear": 2020,
-    "discontinuedYear": 2021,
     "id": "ipad-8th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18356,6 +18669,8 @@ window.APPLE_PRODUCTS = [
       "iPad",
       "iPad 8th generation"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": 2021,
     "appleSupportLinks": [
       {
         "label": "iPad 8th generation",
@@ -18403,13 +18718,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111898",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300423&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad",
     "generation": "iPad",
-    "releaseYear": 2021,
-    "discontinuedYear": 2024,
     "id": "ipad-9th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18417,6 +18730,8 @@ window.APPLE_PRODUCTS = [
       "iPad",
       "iPad 9th generation"
     ],
+    "releaseYear": 2021,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "iPad 9th generation",
@@ -18464,13 +18779,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111840",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300902&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad",
     "generation": "iPad",
-    "releaseYear": 2022,
-    "discontinuedYear": 2025,
     "id": "ipad-10th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18478,6 +18791,8 @@ window.APPLE_PRODUCTS = [
       "iPad",
       "iPad 10th generation"
     ],
+    "releaseYear": 2022,
+    "discontinuedYear": 2025,
     "appleSupportLinks": [
       {
         "label": "iPad 10th generation",
@@ -18525,13 +18840,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/122240",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301079&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad",
     "generation": "iPad",
-    "releaseYear": 2025,
-    "discontinuedYear": null,
     "id": "ipad-11th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18539,6 +18852,8 @@ window.APPLE_PRODUCTS = [
       "iPad",
       "iPad 11th generation"
     ],
+    "releaseYear": 2025,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "iPad 11th generation",
@@ -18586,13 +18901,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111978",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133849&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad mini",
     "generation": "iPad mini",
-    "releaseYear": 2012,
-    "discontinuedYear": 2015,
     "id": "ipad-mini-1st-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18600,6 +18913,8 @@ window.APPLE_PRODUCTS = [
       "iPad mini",
       "iPad mini 1st generation"
     ],
+    "releaseYear": 2012,
+    "discontinuedYear": 2015,
     "appleSupportLinks": [
       {
         "label": "iPad mini 1st generation",
@@ -18647,13 +18962,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112019",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=134323&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad mini",
     "generation": "iPad mini",
-    "releaseYear": 2013,
-    "discontinuedYear": 2017,
     "id": "ipad-mini-2nd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18661,6 +18974,8 @@ window.APPLE_PRODUCTS = [
       "iPad mini",
       "iPad mini 2nd generation"
     ],
+    "releaseYear": 2013,
+    "discontinuedYear": 2017,
     "appleSupportLinks": [
       {
         "label": "iPad mini 2nd generation",
@@ -18708,13 +19023,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112018",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=135090&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad mini",
     "generation": "iPad mini",
-    "releaseYear": 2014,
-    "discontinuedYear": 2017,
     "id": "ipad-mini-3rd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18722,6 +19035,8 @@ window.APPLE_PRODUCTS = [
       "iPad mini",
       "iPad mini 3rd generation"
     ],
+    "releaseYear": 2014,
+    "discontinuedYear": 2017,
     "appleSupportLinks": [
       {
         "label": "iPad mini 3rd generation",
@@ -18769,13 +19084,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112002",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=500106&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad mini",
     "generation": "iPad mini",
-    "releaseYear": 2015,
-    "discontinuedYear": 2019,
     "id": "ipad-mini-4th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18783,6 +19096,8 @@ window.APPLE_PRODUCTS = [
       "iPad mini",
       "iPad mini 4th generation"
     ],
+    "releaseYear": 2015,
+    "discontinuedYear": 2019,
     "appleSupportLinks": [
       {
         "label": "iPad mini 4th generation",
@@ -18830,13 +19145,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111904",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=506704&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad mini",
     "generation": "iPad mini",
-    "releaseYear": 2019,
-    "discontinuedYear": 2021,
     "id": "ipad-mini-5th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18844,6 +19157,8 @@ window.APPLE_PRODUCTS = [
       "iPad mini",
       "iPad mini 5th generation"
     ],
+    "releaseYear": 2019,
+    "discontinuedYear": 2021,
     "appleSupportLinks": [
       {
         "label": "iPad mini 5th generation",
@@ -18891,13 +19206,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111886",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300425&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad mini",
     "generation": "iPad mini",
-    "releaseYear": 2021,
-    "discontinuedYear": 2024,
     "id": "ipad-mini-6th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18905,6 +19218,8 @@ window.APPLE_PRODUCTS = [
       "iPad mini",
       "iPad mini 6th generation"
     ],
+    "releaseYear": 2021,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "iPad mini 6th generation",
@@ -18952,13 +19267,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/121456",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301063&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad mini",
     "generation": "iPad mini",
-    "releaseYear": 2024,
-    "discontinuedYear": null,
     "id": "ipad-mini-7th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -18966,6 +19279,8 @@ window.APPLE_PRODUCTS = [
       "iPad mini",
       "iPad mini 7th generation"
     ],
+    "releaseYear": 2024,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "iPad mini 7th generation",
@@ -19013,13 +19328,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112020",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=134322&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Air",
     "generation": "iPad Air",
-    "releaseYear": 2013,
-    "discontinuedYear": 2016,
     "id": "ipad-air-1st-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -19027,6 +19340,8 @@ window.APPLE_PRODUCTS = [
       "iPad Air",
       "iPad Air 1st generation"
     ],
+    "releaseYear": 2013,
+    "discontinuedYear": 2016,
     "appleSupportLinks": [
       {
         "label": "iPad Air 1st generation",
@@ -19074,13 +19389,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112017",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=135088&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Air",
     "generation": "iPad Air",
-    "releaseYear": 2014,
-    "discontinuedYear": 2017,
     "id": "ipad-air-2nd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -19088,6 +19401,8 @@ window.APPLE_PRODUCTS = [
       "iPad Air",
       "iPad Air 2nd generation"
     ],
+    "releaseYear": 2014,
+    "discontinuedYear": 2017,
     "appleSupportLinks": [
       {
         "label": "iPad Air 2nd generation",
@@ -19135,13 +19450,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111939",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=506739&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Air",
     "generation": "iPad Air",
-    "releaseYear": 2019,
-    "discontinuedYear": 2020,
     "id": "ipad-air-3rd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -19149,6 +19462,8 @@ window.APPLE_PRODUCTS = [
       "iPad Air",
       "iPad Air 3rd generation"
     ],
+    "releaseYear": 2019,
+    "discontinuedYear": 2020,
     "appleSupportLinks": [
       {
         "label": "iPad Air 3rd generation",
@@ -19196,13 +19511,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111905",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300202&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Air",
     "generation": "iPad Air",
-    "releaseYear": 2020,
-    "discontinuedYear": 2022,
     "id": "ipad-air-4th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -19210,6 +19523,8 @@ window.APPLE_PRODUCTS = [
       "iPad Air",
       "iPad Air 4th generation"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": 2022,
     "appleSupportLinks": [
       {
         "label": "iPad Air 4th generation",
@@ -19257,13 +19572,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111887",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300866&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Air",
     "generation": "iPad Air",
-    "releaseYear": 2022,
-    "discontinuedYear": 2024,
     "id": "ipad-air-5th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -19271,6 +19584,8 @@ window.APPLE_PRODUCTS = [
       "iPad Air",
       "iPad Air 5th generation"
     ],
+    "releaseYear": 2022,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "iPad Air 5th generation",
@@ -19318,13 +19633,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPad Air (11”): https://support.apple.com/en-us/119894\niPad Air (13”): https://support.apple.com/en-us/119893",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301027&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Air",
     "generation": "iPad Air",
-    "releaseYear": 2024,
-    "discontinuedYear": 2025,
     "id": "ipad-air-6th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -19332,6 +19645,8 @@ window.APPLE_PRODUCTS = [
       "iPad Air",
       "iPad Air 6th generation"
     ],
+    "releaseYear": 2024,
+    "discontinuedYear": 2025,
     "appleSupportLinks": [
       {
         "label": "iPad Air (11”)",
@@ -19387,13 +19702,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPad Air (11”): https://support.apple.com/en-us/122241\niPad Air (13”): https://support.apple.com/en-us/122242",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301081&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Air",
     "generation": "iPad Air",
-    "releaseYear": 2025,
-    "discontinuedYear": 2026,
     "id": "ipad-air-7th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -19401,6 +19714,8 @@ window.APPLE_PRODUCTS = [
       "iPad Air",
       "iPad Air 7th generation"
     ],
+    "releaseYear": 2025,
+    "discontinuedYear": 2026,
     "appleSupportLinks": [
       {
         "label": "iPad Air (11”)",
@@ -19456,13 +19771,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPad Air (11”): https://support.apple.com/en-us/126471\niPad Air (13”): https://support.apple.com/en-us/126472",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301281&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Air",
     "generation": "iPad Air",
-    "releaseYear": 2026,
-    "discontinuedYear": null,
     "id": "ipad-air-8th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -19470,6 +19783,8 @@ window.APPLE_PRODUCTS = [
       "iPad Air",
       "iPad Air 8th generation"
     ],
+    "releaseYear": 2026,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "iPad Air (11”)",
@@ -19525,13 +19840,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPad Pro (9.7”): https://support.apple.com/en-us/111965\niPad Pro (12.9”): https://support.apple.com/en-us/112024",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=500278&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Pro",
     "generation": "iPad Pro",
-    "releaseYear": 2015,
-    "discontinuedYear": 2017,
     "id": "ipad-pro-1st-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -19539,6 +19852,8 @@ window.APPLE_PRODUCTS = [
       "iPad Pro",
       "iPad Pro 1st generation"
     ],
+    "releaseYear": 2015,
+    "discontinuedYear": 2017,
     "appleSupportLinks": [
       {
         "label": "iPad Pro (9.7”)",
@@ -19594,13 +19909,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPad Pro (10.5”): https://support.apple.com/en-us/111965\niPad Pro (12.9”): https://support.apple.com/en-us/111927",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=503605&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Pro",
     "generation": "iPad Pro",
-    "releaseYear": 2017,
-    "discontinuedYear": 2018,
     "id": "ipad-pro-2nd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -19608,6 +19921,8 @@ window.APPLE_PRODUCTS = [
       "iPad Pro",
       "iPad Pro 2nd generation"
     ],
+    "releaseYear": 2017,
+    "discontinuedYear": 2018,
     "appleSupportLinks": [
       {
         "label": "iPad Pro (10.5”)",
@@ -19663,13 +19978,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPad Pro (11”): https://support.apple.com/en-us/111974\niPad Pro (12.9”): https://support.apple.com/en-us/111979",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=506083&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Pro",
     "generation": "iPad Pro",
-    "releaseYear": 2018,
-    "discontinuedYear": 2020,
     "id": "ipad-pro-3rd-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -19677,6 +19990,8 @@ window.APPLE_PRODUCTS = [
       "iPad Pro",
       "iPad Pro 3rd generation"
     ],
+    "releaseYear": 2018,
+    "discontinuedYear": 2020,
     "appleSupportLinks": [
       {
         "label": "iPad Pro (11”)",
@@ -19732,13 +20047,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPad Pro (11”): https://support.apple.com/en-us/118452\niPad Pro (12.9”): https://support.apple.com/en-us/111977",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=509181&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Pro",
     "generation": "iPad Pro",
-    "releaseYear": 2020,
-    "discontinuedYear": 2021,
     "id": "ipad-pro-4th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -19746,6 +20059,8 @@ window.APPLE_PRODUCTS = [
       "iPad Pro",
       "iPad Pro 4th generation"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": 2021,
     "appleSupportLinks": [
       {
         "label": "iPad Pro (11”)",
@@ -19801,13 +20116,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPad Pro (11”): https://support.apple.com/en-us/111897\niPad Pro (12.9”): https://support.apple.com/en-us/111896",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300346&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Pro",
     "generation": "iPad Pro",
-    "releaseYear": 2021,
-    "discontinuedYear": 2022,
     "id": "ipad-pro-5th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -19815,6 +20128,8 @@ window.APPLE_PRODUCTS = [
       "iPad Pro",
       "iPad Pro 5th generation"
     ],
+    "releaseYear": 2021,
+    "discontinuedYear": 2022,
     "appleSupportLinks": [
       {
         "label": "iPad Pro (11”)",
@@ -19870,13 +20185,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPad Pro (11”): https://support.apple.com/en-us/111842\niPad Pro (12.9”): https://support.apple.com/en-us/111841",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300905&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Pro",
     "generation": "iPad Pro",
-    "releaseYear": 2022,
-    "discontinuedYear": 2024,
     "id": "ipad-pro-6th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -19884,6 +20197,8 @@ window.APPLE_PRODUCTS = [
       "iPad Pro",
       "iPad Pro 6th generation"
     ],
+    "releaseYear": 2022,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "iPad Pro (11”)",
@@ -19939,13 +20254,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPad Pro (11”): https://support.apple.com/en-us/119892\niPad Pro (13”): https://support.apple.com/en-us/119891",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301031&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Pro",
     "generation": "iPad Pro",
-    "releaseYear": 2024,
-    "discontinuedYear": 2025,
     "id": "ipad-pro-7th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -19953,6 +20266,8 @@ window.APPLE_PRODUCTS = [
       "iPad Pro",
       "iPad Pro 7th generation"
     ],
+    "releaseYear": 2024,
+    "discontinuedYear": 2025,
     "appleSupportLinks": [
       {
         "label": "iPad Pro (11”)",
@@ -20008,13 +20323,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "iPad Pro (11”): https://support.apple.com/en-us/125406\niPad Pro (13”): https://support.apple.com/en-us/125407",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301270&size=240x240",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "iPad",
     "subfamily": "iPad Pro",
     "generation": "iPad Pro",
-    "releaseYear": 2025,
-    "discontinuedYear": null,
     "id": "ipad-pro-8th-generation",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "iPad",
@@ -20022,6 +20335,8 @@ window.APPLE_PRODUCTS = [
       "iPad Pro",
       "iPad Pro 8th generation"
     ],
+    "releaseYear": 2025,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "iPad Pro (11”)",
@@ -20077,13 +20392,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "",
     "Image Links": "",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "Newton",
     "subfamily": "Newton MessagePad",
     "generation": "Newton MessagePad",
-    "releaseYear": 1993,
-    "discontinuedYear": 1994,
     "id": "newton-messagepad",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "Newton",
@@ -20091,6 +20404,8 @@ window.APPLE_PRODUCTS = [
       "Newton MessagePad",
       "Newton MessagePad"
     ],
+    "releaseYear": 1993,
+    "discontinuedYear": 1994,
     "appleSupportLinks": [],
     "techSpecLinks": [],
     "imageLinks": [],
@@ -20123,13 +20438,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "",
     "Image Links": "",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "Newton",
     "subfamily": "Newton MessagePad",
     "generation": "Newton MessagePad",
-    "releaseYear": 1994,
-    "discontinuedYear": 1995,
     "id": "newton-messagepad-100",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "Newton",
@@ -20137,6 +20450,8 @@ window.APPLE_PRODUCTS = [
       "Newton MessagePad",
       "Newton MessagePad 100"
     ],
+    "releaseYear": 1994,
+    "discontinuedYear": 1995,
     "appleSupportLinks": [],
     "techSpecLinks": [],
     "imageLinks": [],
@@ -20169,13 +20484,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "",
     "Image Links": "",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "Newton",
     "subfamily": "Newton MessagePad",
     "generation": "Newton MessagePad",
-    "releaseYear": 1994,
-    "discontinuedYear": 1995,
     "id": "newton-messagepad-110",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "Newton",
@@ -20183,6 +20496,8 @@ window.APPLE_PRODUCTS = [
       "Newton MessagePad",
       "Newton MessagePad 110"
     ],
+    "releaseYear": 1994,
+    "discontinuedYear": 1995,
     "appleSupportLinks": [],
     "techSpecLinks": [],
     "imageLinks": [],
@@ -20215,13 +20530,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "",
     "Image Links": "",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "Newton",
     "subfamily": "Newton MessagePad",
     "generation": "Newton MessagePad",
-    "releaseYear": 1995,
-    "discontinuedYear": 1996,
     "id": "newton-messagepad-120",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "Newton",
@@ -20229,6 +20542,8 @@ window.APPLE_PRODUCTS = [
       "Newton MessagePad",
       "Newton MessagePad 120"
     ],
+    "releaseYear": 1995,
+    "discontinuedYear": 1996,
     "appleSupportLinks": [],
     "techSpecLinks": [],
     "imageLinks": [],
@@ -20261,13 +20576,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "",
     "Image Links": "",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "Newton",
     "subfamily": "Newton MessagePad",
     "generation": "Newton MessagePad",
-    "releaseYear": 1996,
-    "discontinuedYear": 1997,
     "id": "newton-messagepad-130",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "Newton",
@@ -20275,6 +20588,8 @@ window.APPLE_PRODUCTS = [
       "Newton MessagePad",
       "Newton MessagePad 130"
     ],
+    "releaseYear": 1996,
+    "discontinuedYear": 1997,
     "appleSupportLinks": [],
     "techSpecLinks": [],
     "imageLinks": [],
@@ -20307,13 +20622,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "",
     "Image Links": "",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "Newton",
     "subfamily": "Newton MessagePad",
     "generation": "Newton MessagePad",
-    "releaseYear": 1997,
-    "discontinuedYear": 1997,
     "id": "newton-messagepad-2000",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "Newton",
@@ -20321,6 +20634,8 @@ window.APPLE_PRODUCTS = [
       "Newton MessagePad",
       "Newton MessagePad 2000"
     ],
+    "releaseYear": 1997,
+    "discontinuedYear": 1997,
     "appleSupportLinks": [],
     "techSpecLinks": [],
     "imageLinks": [],
@@ -20353,13 +20668,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "",
     "Image Links": "",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "Newton",
     "subfamily": "Newton MessagePad",
     "generation": "Newton MessagePad",
-    "releaseYear": 1997,
-    "discontinuedYear": 1998,
     "id": "newton-messagepad-2100",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "Newton",
@@ -20367,6 +20680,8 @@ window.APPLE_PRODUCTS = [
       "Newton MessagePad",
       "Newton MessagePad 2100"
     ],
+    "releaseYear": 1997,
+    "discontinuedYear": 1998,
     "appleSupportLinks": [],
     "techSpecLinks": [],
     "imageLinks": [],
@@ -20399,13 +20714,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "",
     "Image Links": "",
     "category": "Mobile",
-    "museumCategory": "Mobile",
     "family": "Newton",
     "subfamily": "eMate",
     "generation": "eMate",
-    "releaseYear": 1997,
-    "discontinuedYear": 1998,
     "id": "emate-300",
+    "museumCategory": "Mobile",
     "hierarchy": [
       "Mobile",
       "Newton",
@@ -20413,6 +20726,8 @@ window.APPLE_PRODUCTS = [
       "eMate",
       "eMate 300"
     ],
+    "releaseYear": 1997,
+    "discontinuedYear": 1998,
     "appleSupportLinks": [],
     "techSpecLinks": [],
     "imageLinks": [],
@@ -20445,13 +20760,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "Apple Watch (Sport): https://support.apple.com/en-us/112010\nApple Watch (Edition): https://support.apple.com/en-us/112011",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL283&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Gen 1 Body",
     "generation": "Gen 1 Body",
-    "releaseYear": 2015,
-    "discontinuedYear": 2016,
     "id": "apple-watch",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -20459,6 +20772,8 @@ window.APPLE_PRODUCTS = [
       "Gen 1 Body",
       "Apple Watch"
     ],
+    "releaseYear": 2015,
+    "discontinuedYear": 2016,
     "appleSupportLinks": [
       {
         "label": "Apple Watch (Standard)",
@@ -20522,13 +20837,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111985",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL285&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Gen 1 Body",
     "generation": "Gen 1 Body",
-    "releaseYear": 2016,
-    "discontinuedYear": 2018,
     "id": "apple-watch-series-1",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -20536,6 +20849,8 @@ window.APPLE_PRODUCTS = [
       "Gen 1 Body",
       "Apple Watch Series 1"
     ],
+    "releaseYear": 2016,
+    "discontinuedYear": 2018,
     "appleSupportLinks": [
       {
         "label": "Apple Watch Series 1",
@@ -20583,13 +20898,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112022",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL286&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Gen 1 Body",
     "generation": "Gen 1 Body",
-    "releaseYear": 2016,
-    "discontinuedYear": 2017,
     "id": "apple-watch-series-2",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -20597,6 +20910,8 @@ window.APPLE_PRODUCTS = [
       "Gen 1 Body",
       "Apple Watch Series 2"
     ],
+    "releaseYear": 2016,
+    "discontinuedYear": 2017,
     "appleSupportLinks": [
       {
         "label": "Apple Watch Series 2",
@@ -20644,13 +20959,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111891",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL138&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Gen 1 Body",
     "generation": "Gen 1 Body",
-    "releaseYear": 2017,
-    "discontinuedYear": 2022,
     "id": "apple-watch-series-3",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -20658,6 +20971,8 @@ window.APPLE_PRODUCTS = [
       "Gen 1 Body",
       "Apple Watch Series 3"
     ],
+    "releaseYear": 2017,
+    "discontinuedYear": 2022,
     "appleSupportLinks": [
       {
         "label": "Apple Watch Series 3",
@@ -20705,13 +21020,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111984",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL176&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Gen 2 Body",
     "generation": "Gen 2 Body",
-    "releaseYear": 2018,
-    "discontinuedYear": 2019,
     "id": "apple-watch-series-4",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -20719,6 +21032,8 @@ window.APPLE_PRODUCTS = [
       "Gen 2 Body",
       "Apple Watch Series 4"
     ],
+    "releaseYear": 2018,
+    "discontinuedYear": 2019,
     "appleSupportLinks": [
       {
         "label": "Apple Watch Series 4",
@@ -20766,13 +21081,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/118453",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL206&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Gen 2 Body",
     "generation": "Gen 2 Body",
-    "releaseYear": 2019,
-    "discontinuedYear": 2020,
     "id": "apple-watch-series-5",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -20780,6 +21093,8 @@ window.APPLE_PRODUCTS = [
       "Gen 2 Body",
       "Apple Watch Series 5"
     ],
+    "releaseYear": 2019,
+    "discontinuedYear": 2020,
     "appleSupportLinks": [
       {
         "label": "Apple Watch Series 5",
@@ -20827,13 +21142,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111862",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL290&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Apple Watch SE",
     "generation": "Apple Watch SE",
-    "releaseYear": 2020,
-    "discontinuedYear": 2022,
     "id": "apple-watch-se-1st-generation",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -20841,6 +21154,8 @@ window.APPLE_PRODUCTS = [
       "Apple Watch SE",
       "Apple Watch SE 1st generation"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": 2022,
     "appleSupportLinks": [
       {
         "label": "Apple Watch SE 1st generation",
@@ -20888,13 +21203,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111918",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL291&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Gen 2 Body",
     "generation": "Gen 2 Body",
-    "releaseYear": 2020,
-    "discontinuedYear": 2021,
     "id": "apple-watch-series-6",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -20902,6 +21215,8 @@ window.APPLE_PRODUCTS = [
       "Gen 2 Body",
       "Apple Watch Series 6"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": 2021,
     "appleSupportLinks": [
       {
         "label": "Apple Watch Series 6",
@@ -20949,13 +21264,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111909",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL194&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Gen 3 Body",
     "generation": "Gen 3 Body",
-    "releaseYear": 2021,
-    "discontinuedYear": 2022,
     "id": "apple-watch-series-7",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -20963,6 +21276,8 @@ window.APPLE_PRODUCTS = [
       "Gen 3 Body",
       "Apple Watch Series 7"
     ],
+    "releaseYear": 2021,
+    "discontinuedYear": 2022,
     "appleSupportLinks": [
       {
         "label": "Apple Watch Series 7",
@@ -21010,13 +21325,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111848",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL293&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Gen 3 Body",
     "generation": "Gen 3 Body",
-    "releaseYear": 2022,
-    "discontinuedYear": 2023,
     "id": "apple-watch-series-8",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -21024,6 +21337,8 @@ window.APPLE_PRODUCTS = [
       "Gen 3 Body",
       "Apple Watch Series 8"
     ],
+    "releaseYear": 2022,
+    "discontinuedYear": 2023,
     "appleSupportLinks": [
       {
         "label": "Apple Watch Series 8",
@@ -21071,13 +21386,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111853",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL292&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Apple Watch SE",
     "generation": "Apple Watch SE",
-    "releaseYear": 2022,
-    "discontinuedYear": 2025,
     "id": "apple-watch-se-2nd-generation",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -21085,6 +21398,8 @@ window.APPLE_PRODUCTS = [
       "Apple Watch SE",
       "Apple Watch SE 2nd generation"
     ],
+    "releaseYear": 2022,
+    "discontinuedYear": 2025,
     "appleSupportLinks": [
       {
         "label": "Apple Watch SE 2nd generation",
@@ -21132,13 +21447,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111852",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300895&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Apple Watch Ultra",
     "generation": "Apple Watch Ultra",
-    "releaseYear": 2022,
-    "discontinuedYear": 2023,
     "id": "apple-watch-ultra",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -21146,6 +21459,8 @@ window.APPLE_PRODUCTS = [
       "Apple Watch Ultra",
       "Apple Watch Ultra"
     ],
+    "releaseYear": 2022,
+    "discontinuedYear": 2023,
     "appleSupportLinks": [
       {
         "label": "Apple Watch Ultra",
@@ -21193,13 +21508,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111833",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL207&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Gen 3 Body",
     "generation": "Gen 3 Body",
-    "releaseYear": 2023,
-    "discontinuedYear": 2024,
     "id": "apple-watch-series-9",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -21207,6 +21520,8 @@ window.APPLE_PRODUCTS = [
       "Gen 3 Body",
       "Apple Watch Series 9"
     ],
+    "releaseYear": 2023,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "Apple Watch Series 9",
@@ -21254,13 +21569,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111832",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301002&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Apple Watch Ultra",
     "generation": "Apple Watch Ultra",
-    "releaseYear": 2023,
-    "discontinuedYear": 2025,
     "id": "apple-watch-ultra-2",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -21268,6 +21581,8 @@ window.APPLE_PRODUCTS = [
       "Apple Watch Ultra",
       "Apple Watch Ultra 2"
     ],
+    "releaseYear": 2023,
+    "discontinuedYear": 2025,
     "appleSupportLinks": [
       {
         "label": "Apple Watch Ultra 2",
@@ -21315,13 +21630,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/121202",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL213&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Gen 4 Body",
     "generation": "Gen 4 Body",
-    "releaseYear": 2024,
-    "discontinuedYear": 2025,
     "id": "apple-watch-series-10",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -21329,6 +21642,8 @@ window.APPLE_PRODUCTS = [
       "Gen 4 Body",
       "Apple Watch Series 10"
     ],
+    "releaseYear": 2024,
+    "discontinuedYear": 2025,
     "appleSupportLinks": [
       {
         "label": "Apple Watch Series 10",
@@ -21376,13 +21691,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/125093",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL652&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Gen 4 Body",
     "generation": "Gen 4 Body",
-    "releaseYear": 2025,
-    "discontinuedYear": null,
     "id": "apple-watch-series-11",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -21390,6 +21703,8 @@ window.APPLE_PRODUCTS = [
       "Gen 4 Body",
       "Apple Watch Series 11"
     ],
+    "releaseYear": 2025,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "Apple Watch Series 11",
@@ -21437,13 +21752,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/125095",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL653&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Apple Watch Ultra",
     "generation": "Apple Watch Ultra",
-    "releaseYear": 2025,
-    "discontinuedYear": null,
     "id": "apple-watch-ultra-3",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -21451,6 +21764,8 @@ window.APPLE_PRODUCTS = [
       "Apple Watch Ultra",
       "Apple Watch Ultra 3"
     ],
+    "releaseYear": 2025,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "Apple Watch Ultra 3",
@@ -21498,13 +21813,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/125094",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=PL654&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Watch",
     "subfamily": "Apple Watch SE",
     "generation": "Apple Watch SE",
-    "releaseYear": 2025,
-    "discontinuedYear": null,
     "id": "apple-watch-se-3rd-generation",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Watch",
@@ -21512,6 +21825,8 @@ window.APPLE_PRODUCTS = [
       "Apple Watch SE",
       "Apple Watch SE 3rd generation"
     ],
+    "releaseYear": 2025,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "Apple Watch SE 3rd generation",
@@ -21559,13 +21874,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111855",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300040&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "AirPods",
     "subfamily": "AirPods",
     "generation": "AirPods",
-    "releaseYear": 2016,
-    "discontinuedYear": 2019,
     "id": "airpods-1st-generation",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "AirPods",
@@ -21573,6 +21886,8 @@ window.APPLE_PRODUCTS = [
       "AirPods",
       "AirPods 1st generation"
     ],
+    "releaseYear": 2016,
+    "discontinuedYear": 2019,
     "appleSupportLinks": [
       {
         "label": "AirPods 1st generation",
@@ -21620,13 +21935,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111856",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300121&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "AirPods",
     "subfamily": "AirPods",
     "generation": "AirPods",
-    "releaseYear": 2019,
-    "discontinuedYear": 2021,
     "id": "airpods-2nd-generation",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "AirPods",
@@ -21634,6 +21947,8 @@ window.APPLE_PRODUCTS = [
       "AirPods",
       "AirPods 2nd generation"
     ],
+    "releaseYear": 2019,
+    "discontinuedYear": 2021,
     "appleSupportLinks": [
       {
         "label": "AirPods 2nd generation",
@@ -21681,13 +21996,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111863",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300453&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "AirPods",
     "subfamily": "AirPods",
     "generation": "AirPods",
-    "releaseYear": 2021,
-    "discontinuedYear": 2024,
     "id": "airpods-3rd-generation",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "AirPods",
@@ -21695,6 +22008,8 @@ window.APPLE_PRODUCTS = [
       "AirPods",
       "AirPods 3rd generation"
     ],
+    "releaseYear": 2021,
+    "discontinuedYear": 2024,
     "appleSupportLinks": [
       {
         "label": "AirPods 3rd generation",
@@ -21742,13 +22057,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "AirPods: https://support.apple.com/en-us/121203\nAirpods (ANC): https://support.apple.com/en-us/121204",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301050&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "AirPods",
     "subfamily": "AirPods",
     "generation": "AirPods",
-    "releaseYear": 2024,
-    "discontinuedYear": null,
     "id": "airpods-4th-generation",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "AirPods",
@@ -21756,6 +22069,8 @@ window.APPLE_PRODUCTS = [
       "AirPods",
       "AirPods 4th generation"
     ],
+    "releaseYear": 2024,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "AirPods",
@@ -21811,13 +22126,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "AirPods Pro: https://support.apple.com/en-us/111861\nAirPods Pro (MagSafe): https://support.apple.com/en-us/111859",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300145&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "AirPods",
     "subfamily": "AirPods Pro",
     "generation": "AirPods Pro",
-    "releaseYear": 2019,
-    "discontinuedYear": 2022,
     "id": "airpods-pro-1st-generation",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "AirPods",
@@ -21825,6 +22138,8 @@ window.APPLE_PRODUCTS = [
       "AirPods Pro",
       "AirPods Pro 1st generation"
     ],
+    "releaseYear": 2019,
+    "discontinuedYear": 2022,
     "appleSupportLinks": [
       {
         "label": "AirPods Pro",
@@ -21880,13 +22195,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "AirPods Pro (Lightning): https://support.apple.com/en-us/111851\nAirPods Pro (USC-C): https://support.apple.com/en-us/111834",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300882&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "AirPods",
     "subfamily": "AirPods Pro",
     "generation": "AirPods Pro",
-    "releaseYear": 2022,
-    "discontinuedYear": 2025,
     "id": "airpods-pro-2nd-generation",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "AirPods",
@@ -21894,6 +22207,8 @@ window.APPLE_PRODUCTS = [
       "AirPods Pro",
       "AirPods Pro 2nd generation"
     ],
+    "releaseYear": 2022,
+    "discontinuedYear": 2025,
     "appleSupportLinks": [
       {
         "label": "AirPods Pro (Lightning)",
@@ -21949,13 +22264,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/125135",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301265&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "AirPods",
     "subfamily": "AirPods Pro",
     "generation": "AirPods Pro",
-    "releaseYear": 2025,
-    "discontinuedYear": null,
     "id": "airpods-pro-3rd-generation",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "AirPods",
@@ -21963,6 +22276,8 @@ window.APPLE_PRODUCTS = [
       "AirPods Pro",
       "AirPods Pro 3rd generation"
     ],
+    "releaseYear": 2025,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "AirPods Pro 3rd generation",
@@ -22010,13 +22325,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111858",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300273&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "AirPods",
     "subfamily": "AirPods Max",
     "generation": "AirPods Max",
-    "releaseYear": 2020,
-    "discontinuedYear": 2026,
     "id": "airpods-max",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "AirPods",
@@ -22024,6 +22337,8 @@ window.APPLE_PRODUCTS = [
       "AirPods Max",
       "AirPods Max"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": 2026,
     "appleSupportLinks": [
       {
         "label": "AirPods Max",
@@ -22071,13 +22386,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/126620",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301293&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "AirPods",
     "subfamily": "AirPods Max",
     "generation": "AirPods Max",
-    "releaseYear": 2026,
-    "discontinuedYear": null,
     "id": "airpods-max-2",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "AirPods",
@@ -22085,6 +22398,8 @@ window.APPLE_PRODUCTS = [
       "AirPods Max",
       "AirPods Max 2"
     ],
+    "releaseYear": 2026,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "AirPods Max 2",
@@ -22132,13 +22447,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/117810",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301017&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Vision",
     "subfamily": "Apple Vision Pro",
     "generation": "Apple Vision Pro",
-    "releaseYear": 2024,
-    "discontinuedYear": 2025,
     "id": "apple-vision-pro",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Vision",
@@ -22146,6 +22459,8 @@ window.APPLE_PRODUCTS = [
       "Apple Vision Pro",
       "Apple Vision Pro"
     ],
+    "releaseYear": 2024,
+    "discontinuedYear": 2025,
     "appleSupportLinks": [
       {
         "label": "Apple Vision Pro",
@@ -22193,13 +22508,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/125436",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=301269&size=240x240",
     "category": "Wearable",
-    "museumCategory": "Wearable",
     "family": "Apple Vision",
     "subfamily": "Apple Vision Pro",
     "generation": "Apple Vision Pro",
-    "releaseYear": 2025,
-    "discontinuedYear": null,
     "id": "apple-vision-pro-2025",
+    "museumCategory": "Wearable",
     "hierarchy": [
       "Wearable",
       "Apple Vision",
@@ -22207,6 +22520,8 @@ window.APPLE_PRODUCTS = [
       "Apple Vision Pro",
       "Apple Vision Pro (2025)"
     ],
+    "releaseYear": 2025,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "Apple Vision Pro (2025)",
@@ -22237,7 +22552,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "Large Silver Box",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "Intel Pentium M @ 1 GHz",
     "GPU / Graphics": "Nvidia GeForce Go 7300",
     "Memory / Ram": "256 MB",
@@ -22254,13 +22569,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112555",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131333&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "Apple TV",
     "subfamily": "Apple TV",
     "generation": "Apple TV",
-    "releaseYear": 2007,
-    "discontinuedYear": 2010,
     "id": "apple-tv-1st-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "Apple TV",
@@ -22268,6 +22581,8 @@ window.APPLE_PRODUCTS = [
       "Apple TV",
       "Apple TV 1st generation"
     ],
+    "releaseYear": 2007,
+    "discontinuedYear": 2010,
     "appleSupportLinks": [
       {
         "label": "Apple TV 1st generation",
@@ -22298,7 +22613,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "Puck",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "Black",
     "CPU / Chip": "Apple A4 @ 1 GHz",
     "GPU / Graphics": "PowerVR SGX 535",
     "Memory / Ram": "256 MB",
@@ -22315,13 +22630,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112428",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133077&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "Apple TV",
     "subfamily": "Apple TV",
     "generation": "Apple TV",
-    "releaseYear": 2010,
-    "discontinuedYear": 2012,
     "id": "apple-tv-2nd-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "Apple TV",
@@ -22329,6 +22642,8 @@ window.APPLE_PRODUCTS = [
       "Apple TV",
       "Apple TV 2nd generation"
     ],
+    "releaseYear": 2010,
+    "discontinuedYear": 2012,
     "appleSupportLinks": [
       {
         "label": "Apple TV 2nd generation",
@@ -22359,7 +22674,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "Puck",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "Black",
     "CPU / Chip": "Apple A5",
     "GPU / Graphics": "PowerVR SGX 543",
     "Memory / Ram": "512 MB",
@@ -22376,13 +22691,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112429",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133607&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "Apple TV",
     "subfamily": "Apple TV",
     "generation": "Apple TV",
-    "releaseYear": 2012,
-    "discontinuedYear": 2015,
     "id": "apple-tv-3rd-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "Apple TV",
@@ -22390,6 +22703,8 @@ window.APPLE_PRODUCTS = [
       "Apple TV",
       "Apple TV 3rd generation"
     ],
+    "releaseYear": 2012,
+    "discontinuedYear": 2015,
     "appleSupportLinks": [
       {
         "label": "Apple TV 3rd generation",
@@ -22420,7 +22735,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "Puck",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "Black",
     "CPU / Chip": "Apple A8",
     "GPU / Graphics": "PowerVR GX6450",
     "Memory / Ram": "2 GB",
@@ -22437,13 +22752,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111928",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300013&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "Apple TV",
     "subfamily": "Apple TV HD",
     "generation": "Apple TV HD",
-    "releaseYear": 2015,
-    "discontinuedYear": 2022,
     "id": "apple-tv-hd",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "Apple TV",
@@ -22451,6 +22764,8 @@ window.APPLE_PRODUCTS = [
       "Apple TV HD",
       "Apple TV HD"
     ],
+    "releaseYear": 2015,
+    "discontinuedYear": 2022,
     "appleSupportLinks": [
       {
         "label": "Apple TV HD",
@@ -22481,7 +22796,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "Puck",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "Black",
     "CPU / Chip": "Apple A10X Fusion",
     "GPU / Graphics": "Apple-designed",
     "Memory / Ram": "3 GB",
@@ -22498,13 +22813,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111929",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=504270&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "Apple TV",
     "subfamily": "Apple TV 4K",
     "generation": "Apple TV 4K",
-    "releaseYear": 2017,
-    "discontinuedYear": 2021,
     "id": "apple-tv-4k-1st-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "Apple TV",
@@ -22512,6 +22825,8 @@ window.APPLE_PRODUCTS = [
       "Apple TV 4K",
       "Apple TV 4K 1st generation"
     ],
+    "releaseYear": 2017,
+    "discontinuedYear": 2021,
     "appleSupportLinks": [
       {
         "label": "Apple TV 4K 1st generation",
@@ -22542,7 +22857,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "Puck",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "Black",
     "CPU / Chip": "Apple A12 Bionic",
     "GPU / Graphics": "",
     "Memory / Ram": "3 GB",
@@ -22559,13 +22874,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111922",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300353&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "Apple TV",
     "subfamily": "Apple TV 4K",
     "generation": "Apple TV 4K",
-    "releaseYear": 2021,
-    "discontinuedYear": 2022,
     "id": "apple-tv-4k-2nd-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "Apple TV",
@@ -22573,6 +22886,8 @@ window.APPLE_PRODUCTS = [
       "Apple TV 4K",
       "Apple TV 4K 2nd generation"
     ],
+    "releaseYear": 2021,
+    "discontinuedYear": 2022,
     "appleSupportLinks": [
       {
         "label": "Apple TV 4K 2nd generation",
@@ -22603,7 +22918,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "Puck",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "Black",
     "CPU / Chip": "Apple A15 Bionic",
     "GPU / Graphics": "",
     "Memory / Ram": "4 GB",
@@ -22620,13 +22935,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111839",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300901&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "Apple TV",
     "subfamily": "Apple TV 4K",
     "generation": "Apple TV 4K",
-    "releaseYear": 2022,
-    "discontinuedYear": null,
     "id": "apple-tv-4k-3rd-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "Apple TV",
@@ -22634,6 +22947,8 @@ window.APPLE_PRODUCTS = [
       "Apple TV 4K",
       "Apple TV 4K 3rd generation"
     ],
+    "releaseYear": 2022,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "Apple TV 4K 3rd generation",
@@ -22664,7 +22979,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "UFO",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -22681,13 +22996,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112290",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=8022&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "AirPort",
     "generation": "AirPort",
-    "releaseYear": 1999,
-    "discontinuedYear": 2002,
     "id": "airport-base-station-graphite",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -22695,6 +23008,8 @@ window.APPLE_PRODUCTS = [
       "AirPort",
       "AirPort Base Station Graphite"
     ],
+    "releaseYear": 1999,
+    "discontinuedYear": 2002,
     "appleSupportLinks": [
       {
         "label": "AirPort Base Station Graphite",
@@ -22725,7 +23040,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "UFO",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -22742,13 +23057,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112245",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=111495&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "AirPort",
     "generation": "AirPort",
-    "releaseYear": 2001,
-    "discontinuedYear": 2003,
     "id": "airport-base-station-snow",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -22756,6 +23069,8 @@ window.APPLE_PRODUCTS = [
       "AirPort",
       "AirPort Base Station Snow"
     ],
+    "releaseYear": 2001,
+    "discontinuedYear": 2003,
     "appleSupportLinks": [
       {
         "label": "AirPort Base Station Snow",
@@ -22786,7 +23101,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "Standard",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -22803,13 +23118,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "AirPort Extreme: https://support.apple.com/en-us/112525\nAirPort Extreme (Modem): https://support.apple.com/en-us/112509",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=117241&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "AirPort",
     "generation": "AirPort",
-    "releaseYear": 2003,
-    "discontinuedYear": 2007,
     "id": "airport-extreme-base-station",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -22817,6 +23130,8 @@ window.APPLE_PRODUCTS = [
       "AirPort",
       "AirPort Extreme Base Station"
     ],
+    "releaseYear": 2003,
+    "discontinuedYear": 2007,
     "appleSupportLinks": [
       {
         "label": "AirPort Extreme",
@@ -22855,7 +23170,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -22872,13 +23187,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112479",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131340&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "AirPort Extreme",
     "generation": "AirPort Extreme",
-    "releaseYear": 2007,
-    "discontinuedYear": 2007,
     "id": "airport-extreme-1st-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -22886,6 +23199,8 @@ window.APPLE_PRODUCTS = [
       "AirPort Extreme",
       "AirPort Extreme 1st generation"
     ],
+    "releaseYear": 2007,
+    "discontinuedYear": 2007,
     "appleSupportLinks": [
       {
         "label": "AirPort Extreme 1st generation",
@@ -22916,7 +23231,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -22933,13 +23248,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112446",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131620&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "AirPort Extreme",
     "generation": "AirPort Extreme",
-    "releaseYear": 2007,
-    "discontinuedYear": 2009,
     "id": "airport-extreme-2nd-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -22947,6 +23260,8 @@ window.APPLE_PRODUCTS = [
       "AirPort Extreme",
       "AirPort Extreme 2nd generation"
     ],
+    "releaseYear": 2007,
+    "discontinuedYear": 2009,
     "appleSupportLinks": [
       {
         "label": "AirPort Extreme 2nd generation",
@@ -22977,7 +23292,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -22994,13 +23309,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112460",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132374&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "AirPort Extreme",
     "generation": "AirPort Extreme",
-    "releaseYear": 2009,
-    "discontinuedYear": 2009,
     "id": "airport-extreme-3rd-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -23008,6 +23321,8 @@ window.APPLE_PRODUCTS = [
       "AirPort Extreme",
       "AirPort Extreme 3rd generation"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2009,
     "appleSupportLinks": [
       {
         "label": "AirPort Extreme 3rd generation",
@@ -23038,7 +23353,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -23055,13 +23370,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112575",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132713&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "AirPort Extreme",
     "generation": "AirPort Extreme",
-    "releaseYear": 2009,
-    "discontinuedYear": 2013,
     "id": "airport-extreme-4th-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -23069,6 +23382,8 @@ window.APPLE_PRODUCTS = [
       "AirPort Extreme",
       "AirPort Extreme 4th generation"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2013,
     "appleSupportLinks": [
       {
         "label": "AirPort Extreme 4th generation",
@@ -23099,7 +23414,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -23116,13 +23431,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112419",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=134029&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "AirPort Extreme",
     "generation": "AirPort Extreme",
-    "releaseYear": 2013,
-    "discontinuedYear": null,
     "id": "airport-extreme",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -23130,6 +23443,8 @@ window.APPLE_PRODUCTS = [
       "AirPort Extreme",
       "AirPort Extreme"
     ],
+    "releaseYear": 2013,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "AirPort Extreme",
@@ -23160,7 +23475,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -23177,13 +23492,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112484",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=124986&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "AirPort",
     "generation": "AirPort",
-    "releaseYear": null,
-    "discontinuedYear": null,
     "id": "airport-express-base-station",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -23191,6 +23504,8 @@ window.APPLE_PRODUCTS = [
       "AirPort",
       "AirPort Express Base Station"
     ],
+    "releaseYear": null,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "AirPort Express Base Station",
@@ -23221,7 +23536,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "Compact",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -23238,13 +23553,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112477",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131955&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "AirPort Express",
     "generation": "AirPort Express",
-    "releaseYear": 2004,
-    "discontinuedYear": 2012,
     "id": "airport-express-1st-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -23252,6 +23565,8 @@ window.APPLE_PRODUCTS = [
       "AirPort Express",
       "AirPort Express 1st generation"
     ],
+    "releaseYear": 2004,
+    "discontinuedYear": 2012,
     "appleSupportLinks": [
       {
         "label": "AirPort Express 1st generation",
@@ -23282,7 +23597,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "Compact",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -23299,13 +23614,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112421",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133637&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "AirPort Express",
     "generation": "AirPort Express",
-    "releaseYear": 2012,
-    "discontinuedYear": 2018,
     "id": "airport-express-2nd-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -23313,6 +23626,8 @@ window.APPLE_PRODUCTS = [
       "AirPort Express",
       "AirPort Express 2nd generation"
     ],
+    "releaseYear": 2012,
+    "discontinuedYear": 2018,
     "appleSupportLinks": [
       {
         "label": "AirPort Express 2nd generation",
@@ -23343,7 +23658,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "Standard",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -23360,13 +23675,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112505",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=131841&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "Time Capsule",
     "generation": "Time Capsule",
-    "releaseYear": 2008,
-    "discontinuedYear": 2009,
     "id": "airport-time-capsule-1st-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -23374,6 +23687,8 @@ window.APPLE_PRODUCTS = [
       "Time Capsule",
       "AirPort Time Capsule 1st generation"
     ],
+    "releaseYear": 2008,
+    "discontinuedYear": 2009,
     "appleSupportLinks": [
       {
         "label": "AirPort Time Capsule 1st generation",
@@ -23404,7 +23719,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -23421,13 +23736,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112572",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132380&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "Time Capsule",
     "generation": "Time Capsule",
-    "releaseYear": 2009,
-    "discontinuedYear": 2009,
     "id": "airport-time-capsule-2nd-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -23435,6 +23748,8 @@ window.APPLE_PRODUCTS = [
       "Time Capsule",
       "AirPort Time Capsule 2nd generation"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2009,
     "appleSupportLinks": [
       {
         "label": "AirPort Time Capsule 2nd generation",
@@ -23465,7 +23780,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -23482,13 +23797,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112563",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=132719&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "Time Capsule",
     "generation": "Time Capsule",
-    "releaseYear": 2009,
-    "discontinuedYear": 2011,
     "id": "airport-time-capsule-3rd-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -23496,6 +23809,8 @@ window.APPLE_PRODUCTS = [
       "Time Capsule",
       "AirPort Time Capsule 3rd generation"
     ],
+    "releaseYear": 2009,
+    "discontinuedYear": 2011,
     "appleSupportLinks": [
       {
         "label": "AirPort Time Capsule 3rd generation",
@@ -23526,7 +23841,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -23543,13 +23858,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112571",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=133323&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "Time Capsule",
     "generation": "Time Capsule",
-    "releaseYear": 2011,
-    "discontinuedYear": 2013,
     "id": "airport-time-capsule-4th-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -23557,6 +23870,8 @@ window.APPLE_PRODUCTS = [
       "Time Capsule",
       "AirPort Time Capsule 4th generation"
     ],
+    "releaseYear": 2011,
+    "discontinuedYear": 2013,
     "appleSupportLinks": [
       {
         "label": "AirPort Time Capsule 4th generation",
@@ -23587,7 +23902,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White",
     "CPU / Chip": "",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -23604,13 +23919,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/112420",
     "Image Links": "https://support.apple.com/en-us/docs/accessories/134028",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "AirPort",
     "subfamily": "Time Capsule",
     "generation": "Time Capsule",
-    "releaseYear": 2013,
-    "discontinuedYear": null,
     "id": "airport-time-capsule",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "AirPort",
@@ -23618,6 +23931,8 @@ window.APPLE_PRODUCTS = [
       "Time Capsule",
       "AirPort Time Capsule"
     ],
+    "releaseYear": 2013,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "AirPort Time Capsule",
@@ -23648,7 +23963,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "Cylinder",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White / Space Gray",
     "CPU / Chip": "Apple A8",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -23665,13 +23980,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111994",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300078&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "HomePod",
     "subfamily": "HomePod",
     "generation": "HomePod",
-    "releaseYear": 2018,
-    "discontinuedYear": 2021,
     "id": "homepod-1st-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "HomePod",
@@ -23679,6 +23992,8 @@ window.APPLE_PRODUCTS = [
       "HomePod",
       "HomePod 1st generation"
     ],
+    "releaseYear": 2018,
+    "discontinuedYear": 2021,
     "appleSupportLinks": [
       {
         "label": "HomePod 1st generation",
@@ -23709,7 +24024,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "Compact",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White / Space Gray / Red / Yellow / Blue",
     "CPU / Chip": "Apple S5",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -23726,13 +24041,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111914",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300245&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "HomePod",
     "subfamily": "HomePod mini",
     "generation": "HomePod mini",
-    "releaseYear": 2020,
-    "discontinuedYear": null,
     "id": "homepod-mini",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "HomePod",
@@ -23740,6 +24053,8 @@ window.APPLE_PRODUCTS = [
       "HomePod mini",
       "HomePod mini"
     ],
+    "releaseYear": 2020,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "HomePod mini",
@@ -23770,7 +24085,7 @@ window.APPLE_PRODUCTS = [
     "Form Factor": "Cylinder",
     "Display Type": "",
     "Screen Size": "",
-    "Colors": "",
+    "Colors": "White / Space Gray",
     "CPU / Chip": "Apple S7",
     "GPU / Graphics": "",
     "Memory / Ram": "",
@@ -23787,13 +24102,11 @@ window.APPLE_PRODUCTS = [
     "Tech Spec Links": "https://support.apple.com/en-us/111843",
     "Image Links": "https://cdsassets.apple.com/content/services/pub/image?productid=300927&size=240x240",
     "category": "Home & Networking",
-    "museumCategory": "Home & Networking",
     "family": "HomePod",
     "subfamily": "HomePod",
     "generation": "HomePod",
-    "releaseYear": 2023,
-    "discontinuedYear": null,
     "id": "homepod-2nd-generation",
+    "museumCategory": "Home & Networking",
     "hierarchy": [
       "Home & Networking",
       "HomePod",
@@ -23801,6 +24114,8 @@ window.APPLE_PRODUCTS = [
       "HomePod",
       "HomePod 2nd generation"
     ],
+    "releaseYear": 2023,
+    "discontinuedYear": null,
     "appleSupportLinks": [
       {
         "label": "HomePod 2nd generation",
