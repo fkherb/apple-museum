@@ -39,7 +39,15 @@ const fieldMap = {
   notes: "Notes"
 };
 
+function isNA(value) {
+  const s = String(value ?? "").trim();
+  return !s || /^n\/a$/i.test(s);
+}
 function val(p, key) { return p[fieldMap[key]] || ""; }
+function displayVal(p, key) {
+  const value = val(p, key);
+  return isNA(value) ? "" : value;
+}
 function cat(p) { return p.museumCategory || p.category || "Other"; }
 function uniq(arr) { return [...new Set(arr.filter(Boolean))].sort((a,b)=>a.localeCompare(b)); }
 function byCategoryOrder(a,b) {
@@ -53,8 +61,8 @@ function yearsLabel(items) {
 function productText(p) {
   return [
     p["Product Name"], cat(p), p.family, p.subfamily, p.generation,
-    val(p,"modelNumber"), val(p,"identifier"), val(p,"cpu"), val(p,"gpu"),
-    val(p,"features"), val(p,"notes"), val(p,"lastOS")
+    displayVal(p,"modelNumber"), displayVal(p,"identifier"), displayVal(p,"cpu"), displayVal(p,"gpu"),
+    displayVal(p,"features"), displayVal(p,"notes"), displayVal(p,"lastOS")
   ].join(" ").toLowerCase();
 }
 function escapeHtml(str) {
@@ -106,6 +114,53 @@ function renderLinksSection(p) {
       <div class="link-pills">${links.map(link => `<a href="${escapeAttr(link.url)}" target="_blank" rel="noopener">${escapeHtml(link.label || p["Product Name"])}</a>`).join("")}</div>
     </div>`).join("")}
   </section>`;
+}
+
+function normalizeColorName(name) {
+  return String(name || "").replace(/\s*\([^)]*\)/g, "").trim();
+}
+function colorToCss(name) {
+  const clean = normalizeColorName(name).toLowerCase();
+  const map = {
+    "black":"#111111", "jet black":"#050505", "space black":"#1c1c1e", "space gray":"#6b6b70", "space grey":"#6b6b70", "graphite":"#53565a", "slate":"#5b6470",
+    "silver":"#d6d6d6", "aluminum silver":"#c9cacc", "titanium silver":"#c6c2b8", "natural titanium":"#c8bfb2", "black titanium":"#2e2d2b", "white titanium":"#e8e5de", "blue titanium":"#4f647b", "desert titanium":"#c9a985",
+    "white":"#f5f5f0", "snow":"#f7f7f2", "platinum":"#d9d7cc", "beige":"#d8c7a8", "fog":"#e7e3d7", "dark gray":"#454545", "glossy white":"#f5f5f5",
+    "gold":"#d4af37", "rose gold":"#e4b6a7", "light gold":"#d8c080", "yellow":"#ffd84d", "starlight":"#eee4d3", "midnight":"#1f2633", "sky blue":"#88bde6", "mist blue":"#9ebbd0", "blue":"#1673d1", "blueberry":"#4a90e2", "bondi blue":"#49aeb3", "pacific blue":"#3f5f7f", "sierra blue":"#9bb5ce", "deep blue":"#233d6d", "ultramarine":"#4f5bd5",
+    "green":"#4caf50", "lime":"#98d848", "sage":"#9caf88", "alpine green":"#576856", "purple":"#8d6ad8", "lavender":"#b9a6db", "pink":"#f5a5c8", "soft pink":"#f4b6c4", "coral":"#ff7f68", "orange":"#ff9500", "cosmic orange":"#ff6a21", "tangerine":"#f7941d", "ruby":"#c71944", "red":"#d0021b", "(product)red":"#d0021b",
+    "translucent aquamarine":"#70d6d1", "aquamarine":"#70d6d1", "clear":"rgba(255,255,255,.45)", "clear acrylic":"rgba(255,255,255,.45)", "chrome":"#d7d7d7", "mirrored chrome":"#cfd4d8", "polished stainless steel":"#c8c8c8", "stainless steel":"#bfc2c4", "graphite core":"#444444", "translucent gray":"rgba(105,105,105,.55)", "black rubberized finish":"#222222", "blue dalmatian":"#78aee8", "flower power":"#f2a7c8", "metallic gray":"#777a7e", "gray":"#777a7e", "grey":"#777a7e", "natural":"#c8bfb2", "citrus":"#d7ee3a", "cloud white":"#f3f0e7"
+  };
+  return map[clean] || "#cfcfcf";
+}
+function splitColorOptions(colors) {
+  if (isNA(colors)) return [];
+  return String(colors).split(/\s+\/\s+/).map(s => s.trim()).filter(Boolean);
+}
+function renderColorSwatches(colors, limit=12) {
+  const options = splitColorOptions(colors);
+  if (!options.length) return "";
+  const visible = options.slice(0, limit);
+  const dots = visible.map(option => {
+    const combo = option.split(/\s+&\s+/).map(s => s.trim()).filter(Boolean);
+    const title = escapeAttr(option);
+    let bg = "#cfcfcf";
+    if (combo.length > 1) {
+      const stops = combo.map((c, i) => {
+        const start = Math.round(i * 100 / combo.length);
+        const end = Math.round((i + 1) * 100 / combo.length);
+        const css = colorToCss(c);
+        return `${css} ${start}% ${end}%`;
+      }).join(", ");
+      bg = `conic-gradient(${stops})`;
+    } else {
+      bg = colorToCss(option);
+    }
+    return `<span class="color-dot" title="${title}" aria-label="${title}" style="background:${escapeAttr(bg)}"></span>`;
+  }).join("");
+  const more = options.length > visible.length ? `<span class="color-more" title="${escapeAttr(options.slice(visible.length).join(" / "))}">+${options.length - visible.length}</span>` : "";
+  return `<div class="color-swatches">${dots}${more}</div>`;
+}
+function latestProduct(items) {
+  return [...items].sort((a,b)=>(b.releaseYear||0)-(a.releaseYear||0)||String(b["Product Name"]).localeCompare(String(a["Product Name"])))[0];
 }
 
 
@@ -193,11 +248,12 @@ function productCard(p) {
     ${renderProductImage(p)}
     <div class="path">${escapeHtml(path)}</div>
     <h3>${escapeHtml(p["Product Name"])}</h3>
-    <p class="spec-line">${escapeHtml(val(p,"cpu") || val(p,"features") || "Specs available in the detail view.")}</p>
+    <p class="spec-line">${escapeHtml(displayVal(p,"cpu") || displayVal(p,"features") || "Specs available in the detail view.")}</p>
+    ${renderColorSwatches(displayVal(p,"colors"), 8)}
     <div class="chips">
       ${p.releaseYear ? `<span class="chip">${p.releaseYear}</span>` : ""}
-      ${val(p,"form") ? `<span class="chip">${escapeHtml(val(p,"form"))}</span>` : ""}
-      ${val(p,"screen") ? `<span class="chip">${escapeHtml(val(p,"screen"))}</span>` : ""}
+      ${displayVal(p,"form") ? `<span class="chip">${escapeHtml(displayVal(p,"form"))}</span>` : ""}
+      ${displayVal(p,"screen") ? `<span class="chip">${escapeHtml(displayVal(p,"screen"))}</span>` : ""}
     </div>
   </article>`;
 }
@@ -273,14 +329,16 @@ function openFamily(category, family) {
   $("#family-panel-path").textContent = `${category} → ${family}`;
   $("#family-panel-title").textContent = `${family} subfamilies`;
   $("#family-panel-copy").textContent = `${items.length} products across ${Object.keys(groups).length} subfamilies.`;
-  $("#subfamily-grid").innerHTML = Object.entries(groups).sort((a,b)=>a[0].localeCompare(b[0])).map(([subfamily, subItems]) => `
-    <article class="subfamily-card" data-subfamily="${escapeAttr(subfamily)}">
+  $("#subfamily-grid").innerHTML = Object.entries(groups).sort((a,b)=>a[0].localeCompare(b[0])).map(([subfamily, subItems]) => {
+    const hero = latestProduct(subItems);
+    return `<article class="subfamily-card ${primaryImage(hero) ? "has-image" : ""}" data-subfamily="${escapeAttr(subfamily)}">
+      ${renderProductImage(hero, "subfamily-thumb")}
       <div class="mini-path">${escapeHtml(category)} → ${escapeHtml(family)}</div>
       <strong>${escapeHtml(subfamily)}</strong>
       <p>${subItems.length} product${subItems.length === 1 ? "" : "s"} · ${yearsLabel(subItems)}</p>
       <div class="count">View products →</div>
-    </article>
-  `).join("");
+    </article>`;
+  }).join("");
   $$(".subfamily-card").forEach(card => card.addEventListener("click", () => openSubfamily(card.dataset.subfamily)));
   $("#subfamily-section").scrollIntoView({behavior: "smooth", block: "start"});
 }
@@ -339,19 +397,23 @@ function openProduct(id) {
     ["Discontinued", p["Disc. Year"] || "Current / unknown"],
     ["Product Type", p["Product Type"]],
     ["Category", cat(p)],
-    ["Model Number(s)", val(p,"modelNumber") || "—"],
-    ["Model Identifier(s)", val(p,"identifier") || "—"],
-    ["Form Factor", val(p,"form") || "—"],
-    ["Display", [val(p,"display"), val(p,"screen")].filter(Boolean).join(" · ") || "—"],
-    ["Colors", val(p,"colors") || "—"],
-    ["CPU / Chip", val(p,"cpu") || "—"],
-    ["GPU / Graphics", val(p,"gpu") || "—"],
-    ["Memory / RAM", val(p,"memory") || "—"],
-    ["Storage", [val(p,"storage"), val(p,"storageType")].filter(Boolean).join(" · ") || "—"],
-    ["Shipping OS", val(p,"shippingOS") || "—"],
-    ["Last Supported OS", val(p,"lastOS") || "—"],
-    ["Notes", val(p,"notes") || "—"]
-  ];
+    ["Model Number(s)", displayVal(p,"modelNumber")],
+    ["Model Identifier(s)", displayVal(p,"identifier")],
+    ["Form Factor", displayVal(p,"form")],
+    ["Display", [displayVal(p,"display"), displayVal(p,"screen")].filter(Boolean).join(" · ")],
+    ["Colors", displayVal(p,"colors"), "colors"],
+    ["CPU / Chip", displayVal(p,"cpu")],
+    ["GPU / Graphics", displayVal(p,"gpu")],
+    ["Memory / RAM", displayVal(p,"memory")],
+    ["Storage", [displayVal(p,"storage"), displayVal(p,"storageType")].filter(Boolean).join(" · ")],
+    ["Shipping OS", displayVal(p,"shippingOS")],
+    ["Last Supported OS", displayVal(p,"lastOS")],
+    ["Notes", displayVal(p,"notes")]
+  ].filter(([,value,type]) => type === "colors" ? splitColorOptions(value).length : !isNA(value));
+  const detailHtml = detailFields.map(([label,value,type]) => {
+    const body = type === "colors" ? renderColorSwatches(value, 24) : `<strong>${escapeHtml(String(value))}</strong>`;
+    return `<div class="detail"><span>${escapeHtml(label)}</span>${body}</div>`;
+  }).join("");
   $("#dialog-content").innerHTML = `<div class="dialog-hero ${primaryImage(p) ? "has-hero-image" : ""}">
     ${renderProductImage(p, "dialog-product-image")}
     <div class="path">${escapeHtml(cat(p))} → ${escapeHtml(p.family)} → ${escapeHtml(p.subfamily)}</div>
@@ -359,7 +421,7 @@ function openProduct(id) {
     <p>${escapeHtml(val(p,"features") || "A catalog entry from the Apple Product Museum dataset.")}</p>
   </div>
   <div class="detail-grid">
-    ${detailFields.map(([label,value]) => `<div class="detail"><span>${escapeHtml(label)}</span><strong>${escapeHtml(String(value))}</strong></div>`).join("")}
+    ${detailHtml}
   </div>
   ${renderLinksSection(p)}`;
   $("#product-dialog").showModal();

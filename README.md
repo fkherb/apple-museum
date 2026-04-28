@@ -1,4 +1,4 @@
-# Apple Product Museum Site v2
+# Apple Product Museum Site v5
 
 Open `index.html` in Safari or Chrome.
 
@@ -17,3 +17,11 @@ This version keeps categories separate:
 - Home & Networking
 
 Data lives in `data.js`, layout/interactions in `app.js`, and design in `styles.css`.
+
+Updates in this build:
+- Product data regenerated from the latest Apple Master Sheet V5.
+- Specs marked `N/A` are hidden from product detail views.
+- Specs marked `None` remain visible.
+- Subfamily cards use the most recent product image from that subfamily.
+- Product colors render as hoverable color swatches instead of long text lists.
+- Image links are used for images only; only Apple Support and Tech Spec links display as buttons.
