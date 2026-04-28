@@ -1,0 +1,81 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Catalog · Apple Product Museum</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="catalog">
+  
+<header class="site-header">
+  <nav class="nav">
+    <a class="brand" href="index.html" aria-label="Apple Product Museum home">
+      <span class="brand-mark">◖</span>
+      <span>Product Museum</span>
+    </a>
+    <div class="nav-links">
+      <a data-page="home" href="index.html">Home</a>
+      <a data-page="timeline" href="timeline.html">Timeline</a>
+      <a data-page="families" href="families.html">Families</a>
+      <a data-page="catalog" href="catalog.html">Catalog</a>
+    </div>
+  </nav>
+</header>
+
+  <main>
+    <section class="page-hero">
+      <p class="eyebrow">Catalog</p>
+      <h1>Search the full product database.</h1>
+      <p>Filter by category, family, subfamily, year, or plain text. Yes, even model identifiers. We have standards.</p>
+    </section>
+
+    <section class="section catalog-section">
+      <div class="catalog-shell">
+        <aside class="filters">
+          <label>
+            Search
+            <input id="search" type="search" placeholder="iPad mini, A2338, M1, Retina..." />
+          </label>
+          <label>
+            Category
+            <select id="category-filter"><option value="">All categories</option></select>
+          </label>
+          <label>
+            Family
+            <select id="family-filter"><option value="">All families</option></select>
+          </label>
+          <label>
+            Subfamily
+            <select id="subfamily-filter"><option value="">All subfamilies</option></select>
+          </label>
+          <label>
+            Year
+            <input id="year-filter" type="number" min="1976" max="2030" placeholder="Any year" />
+          </label>
+          <button class="button secondary full" id="clear-filters">Clear filters</button>
+        </aside>
+        <div class="catalog-results">
+          <div class="result-bar">
+            <strong id="result-count">0 products</strong>
+            <select id="sort">
+              <option value="year-asc">Year: oldest first</option>
+              <option value="year-desc">Year: newest first</option>
+              <option value="name-asc">Name: A–Z</option>
+              <option value="family-asc">Family</option>
+            </select>
+          </div>
+          <div class="product-grid" id="product-grid"></div>
+        </div>
+      </div>
+    </section>
+  </main>
+
+  <dialog id="product-dialog" class="product-dialog">
+    <button class="dialog-close" id="dialog-close" aria-label="Close">×</button>
+    <div id="dialog-content"></div>
+  </dialog>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>

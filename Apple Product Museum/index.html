@@ -1,0 +1,74 @@
+<!doctype html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta name="viewport" content="width=device-width, initial-scale=1" />
+  <title>Apple Product Museum</title>
+  <link rel="stylesheet" href="styles.css" />
+</head>
+<body data-page="home">
+  
+<header class="site-header">
+  <nav class="nav">
+    <a class="brand" href="index.html" aria-label="Apple Product Museum home">
+      <span class="brand-mark">◖</span>
+      <span>Product Museum</span>
+    </a>
+    <div class="nav-links">
+      <a data-page="home" href="index.html">Home</a>
+      <a data-page="timeline" href="timeline.html">Timeline</a>
+      <a data-page="families" href="families.html">Families</a>
+      <a data-page="catalog" href="catalog.html">Catalog</a>
+    </div>
+  </nav>
+</header>
+
+  <main>
+    <section class="hero home-hero">
+      <div class="hero-copy">
+        <p class="eyebrow">Apple Product Museum</p>
+        <h1>Every product, every era, organized like Apple would actually want humans to use it.</h1>
+        <p class="hero-text">Explore the timeline, browse clean product families, or search the full catalog by model number, chip, year, OS, and specs.</p>
+        <div class="hero-actions">
+          <a class="button primary" href="families.html">Explore families</a>
+          <a class="button secondary" href="timeline.html">View timeline</a>
+        </div>
+      </div>
+      <div class="hero-card glass-card">
+        <div class="orb"></div>
+        <div class="stats-grid">
+          <div><strong id="stat-products">—</strong><span>Products</span></div>
+          <div><strong id="stat-years">—</strong><span>Years</span></div>
+          <div><strong id="stat-families">—</strong><span>Families</span></div>
+          <div><strong id="stat-categories">—</strong><span>Categories</span></div>
+        </div>
+      </div>
+    </section>
+
+    <section class="section slim">
+      <div class="section-heading centered">
+        <p class="eyebrow">Product categories</p>
+        <h2>Separate buckets. No cursed “mobile/handheld” combo.</h2>
+      </div>
+      <div id="category-overview" class="category-overview"></div>
+    </section>
+
+    <section class="section split-feature">
+      <article class="feature-card">
+        <p class="eyebrow">Families</p>
+        <h2>Drill down naturally.</h2>
+        <p>Pick a category, open a family, then choose a subfamily. Products stay grouped inside their subfamily instead of being split into extra layers.</p>
+        <a class="button secondary" href="families.html">Browse families</a>
+      </article>
+      <article class="feature-card dark">
+        <p class="eyebrow">Timeline</p>
+        <h2>History without the museum plaque coma.</h2>
+        <p>Jump from Apple I to iPhone, Apple silicon, Vision-era products, and everything weird in between.</p>
+        <a class="button light" href="timeline.html">Open timeline</a>
+      </article>
+    </section>
+  </main>
+  <script src="data.js"></script>
+  <script src="app.js"></script>
+</body>
+</html>
